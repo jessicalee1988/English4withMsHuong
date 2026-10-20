@@ -68,20 +68,22 @@ export const TeacherProfilePage: React.FC<Props> = ({
         <div className="p-6 sm:p-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
           {/* Portrait Image Container */}
           <div className="lg:col-span-5 flex flex-col items-center">
-            <div className="relative w-full max-w-sm rounded-3xl overflow-hidden shadow-lg border-4 border-white ring-2 ring-sky-100 bg-slate-50 group">
-              <img
-                src={msHuongPortrait}
-                alt="Cô Nguyễn Thị Hường - Giáo viên Tiếng Anh Trường Tiểu học Hải An"
-                className="w-full h-auto object-cover object-top transition-transform duration-500 group-hover:scale-102"
-                loading="eager"
-              />
-              <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-slate-900/80 via-slate-900/40 to-transparent p-4 text-white text-center">
-                <p className="text-base font-extrabold">Cô Nguyễn Thị Hường</p>
-                <p className="text-xs text-sky-200 font-medium">Trường Tiểu học Hải An</p>
+            <div className="relative w-full max-w-sm rounded-3xl overflow-hidden shadow-lg border-4 border-white ring-2 ring-sky-100 bg-white group flex flex-col items-center">
+              <div className="w-full bg-white flex items-center justify-center p-3 sm:p-4">
+                <img
+                  src={msHuongPortrait}
+                  alt="Cô Nguyễn Thị Hường - Giáo viên Tiếng Anh Trường Tiểu học Hải An"
+                  className="w-full h-auto max-h-[460px] object-contain rounded-2xl transition-transform duration-500 group-hover:scale-102"
+                  loading="eager"
+                />
+              </div>
+              <div className="w-full bg-gradient-to-r from-sky-50 to-teal-50 border-t border-sky-100 py-3.5 px-4 text-center">
+                <p className="text-base sm:text-lg font-extrabold text-slate-900">Cô Nguyễn Thị Hường</p>
+                <p className="text-xs text-sky-700 font-bold mt-0.5">Trường Tiểu học Hải An • Ninh Bình</p>
               </div>
             </div>
-            <p className="text-xs text-slate-400 mt-2 italic text-center">
-              Chân dung cô giáo Nguyễn Thị Hường
+            <p className="text-xs text-slate-400 mt-2.5 italic text-center">
+              Chân dung cô giáo Nguyễn Thị Hường (Ảnh đại diện chính thức)
             </p>
           </div>
 
