@@ -1,0 +1,1495 @@
+{
+  "unit_id": 3,
+  "unit_number": 3,
+  "title": "Unit 3: My week",
+  "title_vi": "Một tuần của mình",
+  "semester": 1,
+  "grade": 4,
+  "description": "My week",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 3",
+  "vocabulary": [
+    {
+      "id": "U03-V01",
+      "word": "Monday",
+      "meaning": "thứ Hai",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V02",
+      "word": "Tuesday",
+      "meaning": "thứ Ba",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V03",
+      "word": "Wednesday",
+      "meaning": "thứ Tư",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V04",
+      "word": "Thursday",
+      "meaning": "thứ Năm",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V05",
+      "word": "Friday",
+      "meaning": "thứ Sáu",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V06",
+      "word": "Saturday",
+      "meaning": "thứ Bảy",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V07",
+      "word": "Sunday",
+      "meaning": "Chủ nhật",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V08",
+      "word": "do housework",
+      "meaning": "làm việc nhà",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V09",
+      "word": "go to the park",
+      "meaning": "đi công viên",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V10",
+      "word": "listen to music",
+      "meaning": "nghe nhạc",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V11",
+      "word": "go to school",
+      "meaning": "đi học",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V12",
+      "word": "study at school",
+      "meaning": "học ở trường",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V13",
+      "word": "go swimming",
+      "meaning": "đi bơi",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V14",
+      "word": "go to the bookshop",
+      "meaning": "đi hiệu sách",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U03-V15",
+      "word": "play football",
+      "meaning": "chơi bóng đá",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U03-P1",
+      "title": "Sentence pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What day is it today?",
+      "answer": "It’s Monday.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "What day is it today?",
+        "It’s Monday."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What day is it today?",
+          "speaker_a": "B",
+          "a": "It’s Monday."
+        }
+      ]
+    },
+    {
+      "id": "U03-P2",
+      "title": "Sentence pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "What do you do on Tuesday?",
+      "answer": "I study at school.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "What do you do on Tuesday?",
+        "I study at school."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What do you do on Tuesday?",
+          "speaker_a": "B",
+          "a": "I study at school."
+        }
+      ]
+    },
+    {
+      "id": "U03-P3",
+      "title": "Sentence pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "What does she do on Friday?",
+      "answer": "She listens to music.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "What does she do on Friday?",
+        "She listens to music."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does she do on Friday?",
+          "speaker_a": "B",
+          "a": "She listens to music."
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U03-W01",
+      "title": "Worksheet 1",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U03-Q001",
+        "U03-Q002",
+        "U03-Q003",
+        "U03-Q004",
+        "U03-Q005",
+        "U03-Q006",
+        "U03-Q007",
+        "U03-Q008",
+        "U03-Q009",
+        "U03-Q010",
+        "U03-Q011",
+        "U03-Q012",
+        "U03-Q013",
+        "U03-Q014",
+        "U03-Q015"
+      ]
+    },
+    {
+      "id": "U03-W02",
+      "title": "Worksheet 2",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U03-Q016",
+        "U03-Q017",
+        "U03-Q018",
+        "U03-Q019",
+        "U03-Q020",
+        "U03-Q021",
+        "U03-Q022",
+        "U03-Q023",
+        "U03-Q024",
+        "U03-Q025"
+      ]
+    },
+    {
+      "id": "U03-W03",
+      "title": "Worksheet 3",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U03-Q026",
+        "U03-Q027",
+        "U03-Q028",
+        "U03-Q029",
+        "U03-Q030",
+        "U03-Q031",
+        "U03-Q032",
+        "U03-Q033",
+        "U03-Q034",
+        "U03-Q035",
+        "U03-Q036",
+        "U03-Q037",
+        "U03-Q038",
+        "U03-Q039",
+        "U03-Q040"
+      ]
+    },
+    {
+      "id": "U03-W04",
+      "title": "Worksheet 4",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U03-Q041",
+        "U03-Q042",
+        "U03-Q043",
+        "U03-Q044",
+        "U03-Q045",
+        "U03-Q046",
+        "U03-Q047",
+        "U03-Q048",
+        "U03-Q049",
+        "U03-Q050"
+      ]
+    },
+    {
+      "id": "U03-W05",
+      "title": "Worksheet 5",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U03-Q051",
+        "U03-Q052",
+        "U03-Q053",
+        "U03-Q054",
+        "U03-Q055",
+        "U03-Q056",
+        "U03-Q057",
+        "U03-Q058",
+        "U03-Q059",
+        "U03-Q060"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U03-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “thứ Hai”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Monday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "id": "U03-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “thứ Ba”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tuesday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Tuesday",
+        "Monday",
+        "Thursday",
+        "Wednesday"
+      ]
+    },
+    {
+      "id": "U03-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “thứ Tư”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Wednesday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Monday",
+        "Wednesday",
+        "Thursday",
+        "Tuesday"
+      ]
+    },
+    {
+      "id": "U03-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “thứ Năm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Thursday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Thursday",
+        "Tuesday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "id": "U03-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “thứ Sáu”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Friday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Monday",
+        "Wednesday"
+      ]
+    },
+    {
+      "id": "U03-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “thứ Bảy”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Saturday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Saturday",
+        "Tuesday"
+      ]
+    },
+    {
+      "id": "U03-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “Chủ nhật”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Sunday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Sunday",
+        "Wednesday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "id": "U03-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “làm việc nhà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do housework"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "do housework",
+        "Monday"
+      ]
+    },
+    {
+      "id": "U03-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “đi công viên”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go to the park"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Wednesday",
+        "Tuesday",
+        "go to the park",
+        "Monday"
+      ]
+    },
+    {
+      "id": "U03-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “nghe nhạc”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "listen to music"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Tuesday",
+        "listen to music"
+      ]
+    },
+    {
+      "id": "U03-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “đi học”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go to school"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Tuesday",
+        "Monday",
+        "Wednesday",
+        "go to school"
+      ]
+    },
+    {
+      "id": "U03-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “học ở trường”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "study at school"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "study at school",
+        "Tuesday",
+        "Wednesday",
+        "Monday"
+      ]
+    },
+    {
+      "id": "U03-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “đi bơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go swimming"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Monday",
+        "go swimming",
+        "Tuesday",
+        "Wednesday"
+      ]
+    },
+    {
+      "id": "U03-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “đi hiệu sách”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go to the bookshop"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Tuesday",
+        "go to the bookshop"
+      ]
+    },
+    {
+      "id": "U03-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “chơi bóng đá”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play football"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "play football",
+        "Monday"
+      ]
+    },
+    {
+      "id": "U03-Q016",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Monday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "on",
+        "in",
+        "from",
+        "at"
+      ],
+      "sentence_template": "What do you do ____ Monday?"
+    },
+    {
+      "id": "U03-Q017",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Tuesday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "on",
+        "in",
+        "from",
+        "at"
+      ],
+      "sentence_template": "What do you do ____ Tuesday?"
+    },
+    {
+      "id": "U03-Q018",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Wednesday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "from",
+        "on",
+        "in"
+      ],
+      "sentence_template": "What do you do ____ Wednesday?"
+    },
+    {
+      "id": "U03-Q019",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Thursday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "from",
+        "in",
+        "at",
+        "on"
+      ],
+      "sentence_template": "What do you do ____ Thursday?"
+    },
+    {
+      "id": "U03-Q020",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Friday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "in",
+        "from",
+        "on"
+      ],
+      "sentence_template": "What do you do ____ Friday?"
+    },
+    {
+      "id": "U03-Q021",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Saturday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ],
+      "sentence_template": "What do you do ____ Saturday?"
+    },
+    {
+      "id": "U03-Q022",
+      "type": "fill_in_the_blank",
+      "prompt": "What do you do ____ Sunday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "from"
+      ],
+      "sentence_template": "What do you do ____ Sunday?"
+    },
+    {
+      "id": "U03-Q023",
+      "type": "fill_in_the_blank",
+      "prompt": "What ____ she do on Sunday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "does"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "does",
+        "are",
+        "is",
+        "do"
+      ],
+      "sentence_template": "What ____ she do on Sunday?"
+    },
+    {
+      "id": "U03-Q024",
+      "type": "fill_in_the_blank",
+      "prompt": "What ____ he do on Sunday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "does"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "does",
+        "are",
+        "is",
+        "do"
+      ],
+      "sentence_template": "What ____ he do on Sunday?"
+    },
+    {
+      "id": "U03-Q025",
+      "type": "fill_in_the_blank",
+      "prompt": "What ____ you do on Sunday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "is",
+        "do",
+        "are",
+        "does"
+      ],
+      "sentence_template": "What ____ you do on Sunday?"
+    },
+    {
+      "id": "U03-Q026",
+      "type": "multiple_choice",
+      "prompt": "Today is Monday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Monday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Monday.",
+        "It's Thursday.",
+        "It's Tuesday.",
+        "It's Wednesday."
+      ]
+    },
+    {
+      "id": "U03-Q027",
+      "type": "multiple_choice",
+      "prompt": "Today is Tuesday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Tuesday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Tuesday.",
+        "It's Wednesday.",
+        "It's Thursday.",
+        "It's Monday."
+      ]
+    },
+    {
+      "id": "U03-Q028",
+      "type": "multiple_choice",
+      "prompt": "Today is Wednesday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Wednesday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Monday.",
+        "It's Thursday.",
+        "It's Tuesday.",
+        "It's Wednesday."
+      ]
+    },
+    {
+      "id": "U03-Q029",
+      "type": "multiple_choice",
+      "prompt": "Today is Thursday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Thursday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Thursday.",
+        "It's Monday.",
+        "It's Tuesday.",
+        "It's Wednesday."
+      ]
+    },
+    {
+      "id": "U03-Q030",
+      "type": "multiple_choice",
+      "prompt": "Today is Friday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Friday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Tuesday.",
+        "It's Monday.",
+        "It's Friday.",
+        "It's Wednesday."
+      ]
+    },
+    {
+      "id": "U03-Q031",
+      "type": "multiple_choice",
+      "prompt": "Today is Saturday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Saturday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Tuesday.",
+        "It's Monday.",
+        "It's Saturday.",
+        "It's Wednesday."
+      ]
+    },
+    {
+      "id": "U03-Q032",
+      "type": "multiple_choice",
+      "prompt": "Today is Sunday. What day is it today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Sunday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's Sunday.",
+        "It's Wednesday.",
+        "It's Monday.",
+        "It's Tuesday."
+      ]
+    },
+    {
+      "id": "U03-Q033",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Monday? (Activity: do housework)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I do housework."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I go to school.",
+        "I do housework.",
+        "I go to the park.",
+        "I listen to music."
+      ]
+    },
+    {
+      "id": "U03-Q034",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Tuesday? (Activity: go to the park)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to the park."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I go to school.",
+        "I do housework.",
+        "I listen to music.",
+        "I go to the park."
+      ]
+    },
+    {
+      "id": "U03-Q035",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Wednesday? (Activity: listen to music)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I listen to music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I go to school.",
+        "I do housework.",
+        "I listen to music.",
+        "I go to the park."
+      ]
+    },
+    {
+      "id": "U03-Q036",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Thursday? (Activity: go to school)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to school."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I do housework.",
+        "I go to the park.",
+        "I listen to music.",
+        "I go to school."
+      ]
+    },
+    {
+      "id": "U03-Q037",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Friday? (Activity: study at school)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I study at school."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I do housework.",
+        "I listen to music.",
+        "I study at school.",
+        "I go to the park."
+      ]
+    },
+    {
+      "id": "U03-Q038",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Saturday? (Activity: go swimming)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go swimming."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I go swimming.",
+        "I do housework.",
+        "I listen to music.",
+        "I go to the park."
+      ]
+    },
+    {
+      "id": "U03-Q039",
+      "type": "multiple_choice",
+      "prompt": "What do you do on Sunday? (Activity: go to the bookshop)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to the bookshop."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I do housework.",
+        "I listen to music.",
+        "I go to the bookshop.",
+        "I go to the park."
+      ]
+    },
+    {
+      "id": "U03-Q040",
+      "type": "multiple_choice",
+      "prompt": "What does she do on Friday? (listen to music)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She listens to music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "She listens music.",
+        "She listening to music.",
+        "She listens to music.",
+        "She listen to music."
+      ]
+    },
+    {
+      "id": "U03-Q041",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What day is it today?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "?",
+        "it",
+        "What",
+        "today",
+        "is",
+        "day"
+      ]
+    },
+    {
+      "id": "U03-Q042",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's Monday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        ".",
+        "Monday",
+        "It's"
+      ]
+    },
+    {
+      "id": "U03-Q043",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What do you do on Tuesday?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "do",
+        "do",
+        "on",
+        "What",
+        "?",
+        "Tuesday",
+        "you"
+      ]
+    },
+    {
+      "id": "U03-Q044",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I listen to music on Tuesday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "I",
+        "music",
+        ".",
+        "to",
+        "listen",
+        "Tuesday",
+        "on"
+      ]
+    },
+    {
+      "id": "U03-Q045",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does she do on Friday?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "Friday",
+        "What",
+        "?",
+        "she",
+        "on",
+        "do",
+        "does"
+      ]
+    },
+    {
+      "id": "U03-Q046",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She plays football on Friday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "football",
+        "She",
+        ".",
+        "Friday",
+        "on",
+        "plays"
+      ]
+    },
+    {
+      "id": "U03-Q047",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I do housework on Saturday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "on",
+        ".",
+        "Saturday",
+        "do",
+        "I",
+        "housework"
+      ]
+    },
+    {
+      "id": "U03-Q048",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He goes swimming on Sunday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "He",
+        "swimming",
+        "on",
+        "Sunday",
+        "goes",
+        "."
+      ]
+    },
+    {
+      "id": "U03-Q049",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "We go to school on Monday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "Monday",
+        "to",
+        "We",
+        ".",
+        "on",
+        "go",
+        "school"
+      ]
+    },
+    {
+      "id": "U03-Q050",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She studies at school on Wednesday."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "on",
+        "She",
+        "studies",
+        "school",
+        ".",
+        "Wednesday",
+        "at"
+      ]
+    },
+    {
+      "id": "U03-Q051",
+      "type": "multiple_choice",
+      "prompt": "Who is speaking?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Nhi"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Mai",
+        "Nam",
+        "Nhi",
+        "Linh"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q052",
+      "type": "multiple_choice",
+      "prompt": "When does Nhi go to school in the morning?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Monday to Friday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Saturday and Sunday",
+        "Monday to Friday",
+        "Sunday only",
+        "Saturday only"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q053",
+      "type": "multiple_choice",
+      "prompt": "Does Nhi go to school on Monday afternoon?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Only Saturday",
+        "Only Sunday",
+        "Yes",
+        "No"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q054",
+      "type": "multiple_choice",
+      "prompt": "Does Nhi go to school on Wednesday afternoon?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes",
+        "No",
+        "Only Sunday",
+        "Every day"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q055",
+      "type": "multiple_choice",
+      "prompt": "What sport does Nhi play?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "badminton"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "badminton",
+        "tennis",
+        "football",
+        "volleyball"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q056",
+      "type": "multiple_choice",
+      "prompt": "Who plays badminton with Nhi?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "her older brother"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "her teacher",
+        "her older brother",
+        "her father",
+        "her grandmother"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q057",
+      "type": "multiple_choice",
+      "prompt": "Does Nhi go to school on Saturday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes",
+        "Only in the afternoon",
+        "No",
+        "Only in the morning"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q058",
+      "type": "multiple_choice",
+      "prompt": "What does Nhi do on Saturday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "help her mum clean the house"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "go to school",
+        "visit the zoo",
+        "go swimming",
+        "help her mum clean the house"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q059",
+      "type": "multiple_choice",
+      "prompt": "When does Nhi get up on Sunday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "eight o’clock"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "six o’clock",
+        "nine o’clock",
+        "seven o’clock",
+        "eight o’clock"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    },
+    {
+      "id": "U03-Q060",
+      "type": "multiple_choice",
+      "prompt": "Who does Nhi visit on Sunday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "her grandparents"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 3; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "her classmates",
+        "her teacher",
+        "her friends",
+        "her grandparents"
+      ],
+      "passage": "My name is Nhi. I go to school every morning from Monday to Friday. I also go to school on Monday, Tuesday and Thursday afternoons because I have English class. After school, I play badminton with my older brother. I do not go to school on Saturday or Sunday. On Saturday, I help my mum clean the house. On Sunday, I get up at eight o’clock and visit my grandparents with my parents."
+    }
+  ]
+}

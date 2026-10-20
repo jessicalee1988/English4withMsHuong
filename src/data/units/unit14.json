@@ -1,0 +1,1670 @@
+{
+  "unit_id": 14,
+  "unit_number": 14,
+  "title": "Unit 14: Daily activities",
+  "title_vi": "Hoạt động hằng ngày",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề Daily activities.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U14-V001",
+      "word": "watch TV",
+      "meaning": "xem ti vi",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V002",
+      "word": "in the morning",
+      "meaning": "vào buổi sáng",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V003",
+      "word": "at noon",
+      "meaning": "vào buổi trưa",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V004",
+      "word": "in the afternoon",
+      "meaning": "vào buổi chiều",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V005",
+      "word": "in the evening",
+      "meaning": "vào buổi tối",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V006",
+      "word": "read books",
+      "meaning": "đọc sách",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V007",
+      "word": "clean the floor",
+      "meaning": "lau sàn nhà",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V008",
+      "word": "wash the dishes",
+      "meaning": "rửa bát",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V009",
+      "word": "wash the clothes",
+      "meaning": "giặt quần áo",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V010",
+      "word": "do the housework",
+      "meaning": "làm việc nhà",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V011",
+      "word": "listen to music",
+      "meaning": "nghe nhạc",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U14-V012",
+      "word": "help with the cooking",
+      "meaning": "phụ giúp nấu ăn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U14-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "When do you watch TV?",
+      "answer": "In the evening.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "When do you watch TV?",
+        "In the evening."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "When do you watch TV?",
+          "speaker_a": "B",
+          "a": "In the evening."
+        }
+      ]
+    },
+    {
+      "id": "U14-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "What do you do in the morning?",
+      "answer": "I read books.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What do you do in the morning?",
+        "I read books."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What do you do in the morning?",
+          "speaker_a": "B",
+          "a": "I read books."
+        }
+      ]
+    },
+    {
+      "id": "U14-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "When does your sister watch TV?",
+      "answer": "In the afternoon.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "When does your sister watch TV?",
+        "In the afternoon."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "When does your sister watch TV?",
+          "speaker_a": "B",
+          "a": "In the afternoon."
+        }
+      ]
+    },
+    {
+      "id": "U14-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "What does your brother do in the evening?",
+      "answer": "He listens to music.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does your brother do in the evening?",
+        "He listens to music."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does your brother do in the evening?",
+          "speaker_a": "B",
+          "a": "He listens to music."
+        }
+      ]
+    },
+    {
+      "id": "U14-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "Do you help with the cooking?",
+      "answer": "Yes, I do.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Do you help with the cooking?",
+        "Yes, I do."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Do you help with the cooking?",
+          "speaker_a": "B",
+          "a": "Yes, I do."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U14-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “xem ti vi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch TV"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "c",
+        "V",
+        "a",
+        "h",
+        "w",
+        "T",
+        "t"
+      ],
+      "hint": "xem ti vi",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “vào buổi sáng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the morning"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "t",
+        "n",
+        "i",
+        "g",
+        "i",
+        "e",
+        "m",
+        "r",
+        "n",
+        "n",
+        "o"
+      ],
+      "hint": "vào buổi sáng",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “vào buổi trưa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at noon"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "o",
+        "n",
+        "n",
+        "t",
+        "o"
+      ],
+      "hint": "vào buổi trưa",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “vào buổi chiều”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the afternoon"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "e",
+        "n",
+        "e",
+        "t",
+        "a",
+        "i",
+        "f",
+        "o",
+        "o",
+        "h",
+        "r",
+        "n",
+        "n"
+      ],
+      "hint": "vào buổi chiều",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “vào buổi tối”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the evening"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "g",
+        "t",
+        "e",
+        "e",
+        "i",
+        "n",
+        "n",
+        "h",
+        "n",
+        "e",
+        "i",
+        "v"
+      ],
+      "hint": "vào buổi tối",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đọc sách”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "read books"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "b",
+        "k",
+        "e",
+        "a",
+        "o",
+        "d",
+        "r",
+        "o",
+        "s"
+      ],
+      "hint": "đọc sách",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “lau sàn nhà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "clean the floor"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "f",
+        "e",
+        "c",
+        "h",
+        "l",
+        "o",
+        "l",
+        "e",
+        "a",
+        "t",
+        "r",
+        "o"
+      ],
+      "hint": "lau sàn nhà",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “rửa bát”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "wash the dishes"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "d",
+        "e",
+        "w",
+        "i",
+        "a",
+        "t",
+        "h",
+        "e",
+        "s",
+        "s",
+        "s",
+        "h"
+      ],
+      "hint": "rửa bát",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “giặt quần áo”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "wash the clothes"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "l",
+        "h",
+        "e",
+        "w",
+        "a",
+        "t",
+        "e",
+        "t",
+        "h",
+        "c",
+        "s",
+        "s",
+        "h"
+      ],
+      "hint": "giặt quần áo",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “làm việc nhà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do the housework"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "w",
+        "o",
+        "d",
+        "u",
+        "s",
+        "r",
+        "h",
+        "k",
+        "o",
+        "e",
+        "h",
+        "o",
+        "t",
+        "e"
+      ],
+      "hint": "làm việc nhà",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “xem ti vi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch TV"
+      ],
+      "status": "approved",
+      "explanation": "“watch TV” có nghĩa là “xem ti vi”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "wash the dishes",
+        "watch TV",
+        "wash the clothes",
+        "listen to music"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “vào buổi sáng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the morning"
+      ],
+      "status": "approved",
+      "explanation": "“in the morning” có nghĩa là “vào buổi sáng”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "do the housework",
+        "in the morning",
+        "watch TV",
+        "in the afternoon"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “vào buổi trưa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at noon"
+      ],
+      "status": "approved",
+      "explanation": "“at noon” có nghĩa là “vào buổi trưa”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "watch TV",
+        "help with the cooking",
+        "at noon",
+        "wash the clothes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “vào buổi chiều”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the afternoon"
+      ],
+      "status": "approved",
+      "explanation": "“in the afternoon” có nghĩa là “vào buổi chiều”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "in the afternoon",
+        "clean the floor",
+        "at noon",
+        "in the evening"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu with SGK and chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “vào buổi tối”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the evening"
+      ],
+      "status": "approved",
+      "explanation": "“in the evening” có nghĩa là “vào buổi tối”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "listen to music",
+        "wash the dishes",
+        "at noon",
+        "in the evening"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đọc sách”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "read books"
+      ],
+      "status": "approved",
+      "explanation": "“read books” có nghĩa là “đọc sách”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "help with the cooking",
+        "do the housework",
+        "in the morning",
+        "read books"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “lau sàn nhà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "clean the floor"
+      ],
+      "status": "approved",
+      "explanation": "“clean the floor” có nghĩa là “lau sàn nhà”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "read books",
+        "clean the floor",
+        "watch TV",
+        "wash the dishes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “rửa bát”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "wash the dishes"
+      ],
+      "status": "approved",
+      "explanation": "“wash the dishes” có nghĩa là “rửa bát”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "wash the clothes",
+        "wash the dishes",
+        "listen to music",
+        "read books"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “giặt quần áo”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "wash the clothes"
+      ],
+      "status": "approved",
+      "explanation": "“wash the clothes” có nghĩa là “giặt quần áo”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "help with the cooking",
+        "wash the clothes",
+        "at noon",
+        "in the evening"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “làm việc nhà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do the housework"
+      ],
+      "status": "approved",
+      "explanation": "“do the housework” có nghĩa là “làm việc nhà”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "read books",
+        "do the housework",
+        "watch TV",
+        "help with the cooking"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: When do you watch TV?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "In the evening."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: When do you watch TV? — In the evening.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I can.",
+        "In the evening.",
+        "No, I don’t.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What do you do in the morning?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I read books."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What do you do in the morning? — I read books.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "He listens to music.",
+        "Yes, I can.",
+        "I read books.",
+        "In the evening."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: When does your sister watch TV?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "In the afternoon."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: When does your sister watch TV? — In the afternoon.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I read books.",
+        "In the afternoon.",
+        "In the evening.",
+        "Yes, I do."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your brother do in the evening?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He listens to music."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your brother do in the evening? — He listens to music.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "He listens to music.",
+        "They are my friends.",
+        "I am from Japan."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Do you help with the cooking?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Do you help with the cooking? — Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "Yes, I can.",
+        "Yes, I do.",
+        "In the evening."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: When do you watch TV?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "In the evening."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: When do you watch TV? — In the evening.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "In the evening.",
+        "Yes, I can.",
+        "Yes, I do.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What do you do in the morning?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I read books."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What do you do in the morning? — I read books.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "It is a pencil.",
+        "At seven o’clock.",
+        "I read books."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: When does your sister watch TV?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "In the afternoon."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: When does your sister watch TV? — In the afternoon.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "It is a pencil.",
+        "In the afternoon.",
+        "In the evening."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your brother do in the evening?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He listens to music."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your brother do in the evening? — He listens to music.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "In the afternoon.",
+        "He listens to music.",
+        "In the evening."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Do you help with the cooking?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Do you help with the cooking? — Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "Yes, I do.",
+        "I am from Japan.",
+        "In the evening."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When do you watch TV?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: When do you watch TV?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "do",
+        "you",
+        "watch",
+        "TV",
+        "When",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What do you do in the morning?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What do you do in the morning?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "do",
+        "What",
+        "the",
+        "in",
+        "morning",
+        "do",
+        "?",
+        "you"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When does your sister watch TV?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: When does your sister watch TV?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "sister",
+        "?",
+        "watch",
+        "TV",
+        "your",
+        "does",
+        "When"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does your brother do in the evening?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does your brother do in the evening?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "?",
+        "do",
+        "does",
+        "in",
+        "the",
+        "evening",
+        "your",
+        "brother",
+        "What"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Do you help with the cooking?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Do you help with the cooking?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "help",
+        "you",
+        "?",
+        "with",
+        "Do",
+        "the",
+        "cooking"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "In the evening."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: In the evening.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "evening",
+        "In",
+        "the"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I read books."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: I read books.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "books",
+        "read",
+        "I",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "In the afternoon."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: In the afternoon.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "the",
+        "In",
+        "afternoon",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He listens to music."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: He listens to music.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "He",
+        "to",
+        ".",
+        "listens",
+        "music"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "I",
+        "Yes",
+        ",",
+        ".",
+        "do"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q041",
+      "type": "true_false",
+      "prompt": "Nam reads books in the morning.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q042",
+      "type": "true_false",
+      "prompt": "Nam watches TV at noon.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q043",
+      "type": "true_false",
+      "prompt": "Nam cleans the floor in the afternoon.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q044",
+      "type": "true_false",
+      "prompt": "Nam’s sister listens to music in the morning.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q045",
+      "type": "true_false",
+      "prompt": "Nam watches TV in the evening.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Nam"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Nam”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Nam",
+        "wash the dishes",
+        "do the housework",
+        "wash the clothes"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "read books"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “read books”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "wash the clothes",
+        "wash the dishes",
+        "do the housework",
+        "read books"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "noon"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “noon”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "noon",
+        "wash the dishes",
+        "wash the clothes",
+        "do the housework"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "help with the cooking"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “help with the cooking”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "wash the clothes",
+        "help with the cooking",
+        "wash the dishes",
+        "do the housework"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U14-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch TV"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “watch TV”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 14; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 14,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "do the housework",
+        "wash the dishes",
+        "wash the clothes",
+        "watch TV"
+      ],
+      "passage": "I am Nam. In the morning, I read books. At noon, I help with the cooking. In the afternoon, I clean the floor. In the evening, I watch TV. My sister listens to music in the evening.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U14-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U14-Q001",
+        "U14-Q002",
+        "U14-Q003",
+        "U14-Q004",
+        "U14-Q005",
+        "U14-Q006",
+        "U14-Q007",
+        "U14-Q008",
+        "U14-Q009",
+        "U14-Q010"
+      ]
+    },
+    {
+      "id": "U14-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U14-Q011",
+        "U14-Q012",
+        "U14-Q013",
+        "U14-Q014",
+        "U14-Q015",
+        "U14-Q016",
+        "U14-Q017",
+        "U14-Q018",
+        "U14-Q019",
+        "U14-Q020"
+      ]
+    },
+    {
+      "id": "U14-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U14-Q021",
+        "U14-Q022",
+        "U14-Q023",
+        "U14-Q024",
+        "U14-Q025",
+        "U14-Q026",
+        "U14-Q027",
+        "U14-Q028",
+        "U14-Q029",
+        "U14-Q030"
+      ]
+    },
+    {
+      "id": "U14-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U14-Q031",
+        "U14-Q032",
+        "U14-Q033",
+        "U14-Q034",
+        "U14-Q035",
+        "U14-Q036",
+        "U14-Q037",
+        "U14-Q038",
+        "U14-Q039",
+        "U14-Q040"
+      ]
+    },
+    {
+      "id": "U14-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U14-Q041",
+        "U14-Q042",
+        "U14-Q043",
+        "U14-Q044",
+        "U14-Q045",
+        "U14-Q046",
+        "U14-Q047",
+        "U14-Q048",
+        "U14-Q049",
+        "U14-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

@@ -1,0 +1,1651 @@
+{
+  "unit_id": 15,
+  "unit_number": 15,
+  "title": "Unit 15: My family’s weekends",
+  "title_vi": "Cuối tuần của gia đình",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề My family’s weekends.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U15-V001",
+      "word": "gym",
+      "meaning": "phòng tập thể dục",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V002",
+      "word": "shopping centre",
+      "meaning": "trung tâm mua sắm",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V003",
+      "word": "sports centre",
+      "meaning": "trung tâm thể thao",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V004",
+      "word": "swimming pool",
+      "meaning": "bể bơi",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V005",
+      "word": "cinema",
+      "meaning": "rạp chiếu phim",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V006",
+      "word": "cook meals",
+      "meaning": "nấu các bữa ăn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V007",
+      "word": "play tennis",
+      "meaning": "chơi quần vợt",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V008",
+      "word": "watch films",
+      "meaning": "xem phim",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V009",
+      "word": "do yoga",
+      "meaning": "tập yoga",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V010",
+      "word": "go shopping",
+      "meaning": "đi mua sắm",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V011",
+      "word": "stay at home",
+      "meaning": "ở nhà",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U15-V012",
+      "word": "weekend",
+      "meaning": "cuối tuần",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U15-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "Where does your sister go on Saturdays?",
+      "answer": "She goes to the swimming pool.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where does your sister go on Saturdays?",
+        "She goes to the swimming pool."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where does your sister go on Saturdays?",
+          "speaker_a": "B",
+          "a": "She goes to the swimming pool."
+        }
+      ]
+    },
+    {
+      "id": "U15-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "What does your mother do on Sundays?",
+      "answer": "She cooks meals.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does your mother do on Sundays?",
+        "She cooks meals."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does your mother do on Sundays?",
+          "speaker_a": "B",
+          "a": "She cooks meals."
+        }
+      ]
+    },
+    {
+      "id": "U15-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "Where do you go at weekends?",
+      "answer": "I go to the cinema.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where do you go at weekends?",
+        "I go to the cinema."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where do you go at weekends?",
+          "speaker_a": "B",
+          "a": "I go to the cinema."
+        }
+      ]
+    },
+    {
+      "id": "U15-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Does your father play tennis?",
+      "answer": "Yes, he does.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Does your father play tennis?",
+        "Yes, he does."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Does your father play tennis?",
+          "speaker_a": "B",
+          "a": "Yes, he does."
+        }
+      ]
+    },
+    {
+      "id": "U15-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "What do you do on Saturdays?",
+      "answer": "I go shopping.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What do you do on Saturdays?",
+        "I go shopping."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What do you do on Saturdays?",
+          "speaker_a": "B",
+          "a": "I go shopping."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U15-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “phòng tập thể dục”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gym"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "g",
+        "m",
+        "y"
+      ],
+      "hint": "phòng tập thể dục",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “trung tâm mua sắm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "shopping centre"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "e",
+        "r",
+        "p",
+        "o",
+        "g",
+        "p",
+        "e",
+        "n",
+        "c",
+        "s",
+        "t",
+        "i",
+        "h"
+      ],
+      "hint": "trung tâm mua sắm",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “trung tâm thể thao”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sports centre"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "t",
+        "s",
+        "e",
+        "p",
+        "e",
+        "s",
+        "c",
+        "r",
+        "t",
+        "r",
+        "o"
+      ],
+      "hint": "trung tâm thể thao",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “bể bơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "swimming pool"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "l",
+        "n",
+        "p",
+        "o",
+        "m",
+        "w",
+        "i",
+        "o",
+        "m",
+        "s",
+        "i",
+        "g"
+      ],
+      "hint": "bể bơi",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “rạp chiếu phim”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cinema"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "c",
+        "e",
+        "i",
+        "m",
+        "n"
+      ],
+      "hint": "rạp chiếu phim",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nấu các bữa ăn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cook meals"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "c",
+        "e",
+        "l",
+        "k",
+        "m",
+        "a",
+        "s",
+        "o",
+        "o"
+      ],
+      "hint": "nấu các bữa ăn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “chơi quần vợt”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play tennis"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "y",
+        "s",
+        "e",
+        "a",
+        "n",
+        "l",
+        "p",
+        "i",
+        "n",
+        "t"
+      ],
+      "hint": "chơi quần vợt",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “xem phim”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch films"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "s",
+        "m",
+        "w",
+        "c",
+        "l",
+        "f",
+        "t",
+        "a",
+        "i"
+      ],
+      "hint": "xem phim",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “tập yoga”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do yoga"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "o",
+        "g",
+        "y",
+        "o",
+        "d"
+      ],
+      "hint": "tập yoga",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đi mua sắm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go shopping"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "g",
+        "i",
+        "s",
+        "g",
+        "p",
+        "p",
+        "o",
+        "h",
+        "n",
+        "o"
+      ],
+      "hint": "đi mua sắm",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “phòng tập thể dục”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gym"
+      ],
+      "status": "approved",
+      "explanation": "“gym” có nghĩa là “phòng tập thể dục”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "watch films",
+        "gym",
+        "do yoga",
+        "weekend"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “trung tâm mua sắm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "shopping centre"
+      ],
+      "status": "approved",
+      "explanation": "“shopping centre” có nghĩa là “trung tâm mua sắm”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "gym",
+        "shopping centre",
+        "swimming pool",
+        "cinema"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “trung tâm thể thao”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sports centre"
+      ],
+      "status": "approved",
+      "explanation": "“sports centre” có nghĩa là “trung tâm thể thao”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "go shopping",
+        "shopping centre",
+        "swimming pool",
+        "sports centre"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “bể bơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "swimming pool"
+      ],
+      "status": "approved",
+      "explanation": "“swimming pool” có nghĩa là “bể bơi”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cinema",
+        "swimming pool",
+        "weekend",
+        "cook meals"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “rạp chiếu phim”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cinema"
+      ],
+      "status": "approved",
+      "explanation": "“cinema” có nghĩa là “rạp chiếu phim”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "gym",
+        "cinema",
+        "go shopping",
+        "watch films"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nấu các bữa ăn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cook meals"
+      ],
+      "status": "approved",
+      "explanation": "“cook meals” có nghĩa là “nấu các bữa ăn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "watch films",
+        "stay at home",
+        "cook meals",
+        "swimming pool"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “chơi quần vợt”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play tennis"
+      ],
+      "status": "approved",
+      "explanation": "“play tennis” có nghĩa là “chơi quần vợt”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "play tennis",
+        "sports centre",
+        "cinema",
+        "go shopping"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “xem phim”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch films"
+      ],
+      "status": "approved",
+      "explanation": "“watch films” có nghĩa là “xem phim”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "watch films",
+        "swimming pool",
+        "gym",
+        "sports centre"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “tập yoga”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do yoga"
+      ],
+      "status": "approved",
+      "explanation": "“do yoga” có nghĩa là “tập yoga”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "play tennis",
+        "weekend",
+        "do yoga",
+        "cook meals"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đi mua sắm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go shopping"
+      ],
+      "status": "approved",
+      "explanation": "“go shopping” có nghĩa là “đi mua sắm”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "do yoga",
+        "weekend",
+        "go shopping",
+        "cook meals"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does your sister go on Saturdays?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She goes to the swimming pool."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does your sister go on Saturdays? — She goes to the swimming pool.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She cooks meals.",
+        "It is a pencil.",
+        "She goes to the swimming pool.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your mother do on Sundays?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She cooks meals."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your mother do on Sundays? — She cooks meals.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "She cooks meals.",
+        "At seven o’clock.",
+        "I go to the cinema."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where do you go at weekends?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to the cinema."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where do you go at weekends? — I go to the cinema.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I go shopping.",
+        "She goes to the swimming pool.",
+        "She cooks meals.",
+        "I go to the cinema."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Does your father play tennis?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, he does."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Does your father play tennis? — Yes, he does.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "Yes, I can.",
+        "Yes, he does.",
+        "She goes to the swimming pool."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What do you do on Saturdays?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go shopping."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What do you do on Saturdays? — I go shopping.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She cooks meals.",
+        "I go shopping.",
+        "No, I don’t.",
+        "She goes to the swimming pool."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does your sister go on Saturdays?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She goes to the swimming pool."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does your sister go on Saturdays? — She goes to the swimming pool.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "She cooks meals.",
+        "I am from Japan.",
+        "She goes to the swimming pool."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your mother do on Sundays?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She cooks meals."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your mother do on Sundays? — She cooks meals.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I can.",
+        "I am from Japan.",
+        "She cooks meals.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where do you go at weekends?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to the cinema."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where do you go at weekends? — I go to the cinema.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "She cooks meals.",
+        "It is a pencil.",
+        "I go to the cinema."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Does your father play tennis?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, he does."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Does your father play tennis? — Yes, he does.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "Yes, he does.",
+        "Yes, I can.",
+        "I go shopping."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What do you do on Saturdays?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go shopping."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What do you do on Saturdays? — I go shopping.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I go shopping.",
+        "I go to the cinema.",
+        "At seven o’clock.",
+        "I am from Japan."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where does your sister go on Saturdays?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where does your sister go on Saturdays?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "on",
+        "sister",
+        "does",
+        "go",
+        "your",
+        "Where",
+        "Saturdays",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does your mother do on Sundays?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does your mother do on Sundays?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "does",
+        "your",
+        "What",
+        "do",
+        "Sundays",
+        "?",
+        "mother",
+        "on"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where do you go at weekends?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where do you go at weekends?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "you",
+        "weekends",
+        "?",
+        "Where",
+        "do",
+        "go",
+        "at"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Does your father play tennis?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Does your father play tennis?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "tennis",
+        "father",
+        "your",
+        "Does",
+        "?",
+        "play"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What do you do on Saturdays?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What do you do on Saturdays?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "do",
+        "you",
+        "on",
+        "What",
+        "Saturdays",
+        "?",
+        "do"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She goes to the swimming pool."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: She goes to the swimming pool.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "She",
+        "pool",
+        "swimming",
+        "to",
+        ".",
+        "the",
+        "goes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She cooks meals."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: She cooks meals.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "cooks",
+        "She",
+        ".",
+        "meals"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to the cinema."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: I go to the cinema.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "the",
+        "go",
+        "to",
+        "I",
+        ".",
+        "cinema"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, he does."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, he does.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "Yes",
+        "he",
+        "does",
+        ".",
+        ","
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go shopping."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: I go shopping.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "shopping",
+        "I",
+        "go"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q041",
+      "type": "true_false",
+      "prompt": "The sister goes to the swimming pool on Saturdays.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q042",
+      "type": "true_false",
+      "prompt": "The father plays football at the sports centre.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q043",
+      "type": "true_false",
+      "prompt": "The mother goes shopping.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q044",
+      "type": "true_false",
+      "prompt": "The family goes to the cinema on Sundays.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q045",
+      "type": "true_false",
+      "prompt": "The family watches films in the evening.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sister"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “sister”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "sister",
+        "gym",
+        "cinema",
+        "shopping centre"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "swimming pool"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “swimming pool”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "shopping centre",
+        "cinema",
+        "swimming pool",
+        "gym"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "father"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “father”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "gym",
+        "cinema",
+        "shopping centre",
+        "father"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play tennis"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “play tennis”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "play tennis",
+        "cinema",
+        "gym",
+        "shopping centre"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U15-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch films"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “watch films”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 15; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 15,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cinema",
+        "gym",
+        "shopping centre",
+        "watch films"
+      ],
+      "passage": "On Saturdays, my sister goes to the swimming pool. My father plays tennis at the sports centre. My mother goes shopping. On Sundays, we stay at home and cook meals. In the evening, we watch films.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U15-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U15-Q001",
+        "U15-Q002",
+        "U15-Q003",
+        "U15-Q004",
+        "U15-Q005",
+        "U15-Q006",
+        "U15-Q007",
+        "U15-Q008",
+        "U15-Q009",
+        "U15-Q010"
+      ]
+    },
+    {
+      "id": "U15-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U15-Q011",
+        "U15-Q012",
+        "U15-Q013",
+        "U15-Q014",
+        "U15-Q015",
+        "U15-Q016",
+        "U15-Q017",
+        "U15-Q018",
+        "U15-Q019",
+        "U15-Q020"
+      ]
+    },
+    {
+      "id": "U15-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U15-Q021",
+        "U15-Q022",
+        "U15-Q023",
+        "U15-Q024",
+        "U15-Q025",
+        "U15-Q026",
+        "U15-Q027",
+        "U15-Q028",
+        "U15-Q029",
+        "U15-Q030"
+      ]
+    },
+    {
+      "id": "U15-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U15-Q031",
+        "U15-Q032",
+        "U15-Q033",
+        "U15-Q034",
+        "U15-Q035",
+        "U15-Q036",
+        "U15-Q037",
+        "U15-Q038",
+        "U15-Q039",
+        "U15-Q040"
+      ]
+    },
+    {
+      "id": "U15-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U15-Q041",
+        "U15-Q042",
+        "U15-Q043",
+        "U15-Q044",
+        "U15-Q045",
+        "U15-Q046",
+        "U15-Q047",
+        "U15-Q048",
+        "U15-Q049",
+        "U15-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

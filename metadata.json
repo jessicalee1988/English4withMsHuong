@@ -1,0 +1,6 @@
+{
+  "name": "English 4 with Ms Huong",
+  "description": "Educational web app for Vietnamese Grade 4 primary school students using the Global Success English curriculum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

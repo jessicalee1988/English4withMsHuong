@@ -1,0 +1,1398 @@
+{
+  "unit_id": 7,
+  "unit_number": 7,
+  "title": "Unit 7: Our timetable",
+  "title_vi": "Thời khóa biểu",
+  "semester": 1,
+  "grade": 4,
+  "description": "Our timetable",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 7, Vocabulary and Structures",
+  "vocabulary": [
+    {
+      "id": "U07-V01",
+      "word": "Vietnamese",
+      "meaning": "Tiếng Việt",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U07-V02",
+      "word": "English",
+      "meaning": "Tiếng Anh",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U07-V03",
+      "word": "Maths",
+      "meaning": "Toán",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U07-V04",
+      "word": "Music",
+      "meaning": "Âm nhạc",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U07-V05",
+      "word": "Science",
+      "meaning": "Khoa học",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U07-V06",
+      "word": "history and geography",
+      "meaning": "Lịch sử và Địa lí",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U07-V07",
+      "word": "art",
+      "meaning": "Mĩ thuật",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U07-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What subjects do you have today?",
+      "answer": "I have Maths and Music.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "What subjects do you have today?",
+        "I have Maths and Music."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What subjects do you have today?",
+          "speaker_a": "B",
+          "a": "I have Maths and Music."
+        }
+      ]
+    },
+    {
+      "id": "U07-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "When do you have English?",
+      "answer": "I have it on Mondays and Fridays.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "When do you have English?",
+        "I have it on Mondays and Fridays."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "When do you have English?",
+          "speaker_a": "B",
+          "a": "I have it on Mondays and Fridays."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U07-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Tiếng Việt”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Vietnamese"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Vietnamese",
+        "Music",
+        "English",
+        "Maths"
+      ]
+    },
+    {
+      "id": "U07-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Tiếng Anh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "English"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "English",
+        "Music",
+        "Maths",
+        "Vietnamese"
+      ]
+    },
+    {
+      "id": "U07-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Toán”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Maths"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Music",
+        "Maths",
+        "Vietnamese",
+        "English"
+      ]
+    },
+    {
+      "id": "U07-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Âm nhạc”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Music"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Music",
+        "Maths",
+        "English",
+        "Vietnamese"
+      ]
+    },
+    {
+      "id": "U07-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Khoa học”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Science"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "English",
+        "Science",
+        "Vietnamese",
+        "Maths"
+      ]
+    },
+    {
+      "id": "U07-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Lịch sử và Địa lí”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "history and geography"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "English",
+        "Maths",
+        "Vietnamese",
+        "history and geography"
+      ]
+    },
+    {
+      "id": "U07-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Mĩ thuật”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "art"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Vietnamese",
+        "Maths",
+        "English",
+        "art"
+      ]
+    },
+    {
+      "id": "U07-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “Vietnamese”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tiếng Việt"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tiếng Việt",
+        "Toán",
+        "Âm nhạc",
+        "Tiếng Anh"
+      ]
+    },
+    {
+      "id": "U07-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “English”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tiếng Anh"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Âm nhạc",
+        "Tiếng Anh",
+        "Toán",
+        "Tiếng Việt"
+      ]
+    },
+    {
+      "id": "U07-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “Maths”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Toán"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tiếng Anh",
+        "Toán",
+        "Tiếng Việt",
+        "Âm nhạc"
+      ]
+    },
+    {
+      "id": "U07-Q011",
+      "type": "multiple_choice",
+      "prompt": "What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I have it on Mondays and Fridays.",
+        "I am nine.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U07-Q012",
+      "type": "multiple_choice",
+      "prompt": "When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I have it on Mondays and Fridays.",
+        "I am nine.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U07-Q013",
+      "type": "multiple_choice",
+      "prompt": "What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I am nine.",
+        "I have it on Mondays and Fridays.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U07-Q014",
+      "type": "multiple_choice",
+      "prompt": "When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I have it on Mondays and Fridays.",
+        "Goodbye.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U07-Q015",
+      "type": "multiple_choice",
+      "prompt": "What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have it on Mondays and Fridays.",
+        "Goodbye.",
+        "I have Maths and Music.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U07-Q016",
+      "type": "multiple_choice",
+      "prompt": "When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I have it on Mondays and Fridays.",
+        "Goodbye.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U07-Q017",
+      "type": "multiple_choice",
+      "prompt": "What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I am nine.",
+        "I have it on Mondays and Fridays.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U07-Q018",
+      "type": "multiple_choice",
+      "prompt": "When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "Goodbye.",
+        "I am nine.",
+        "I have it on Mondays and Fridays."
+      ]
+    },
+    {
+      "id": "U07-Q019",
+      "type": "multiple_choice",
+      "prompt": "What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I have it on Mondays and Fridays.",
+        "Goodbye.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U07-Q020",
+      "type": "multiple_choice",
+      "prompt": "When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have it on Mondays and Fridays.",
+        "I have Maths and Music.",
+        "Goodbye.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U07-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have Maths and Music.",
+        "I like apples.",
+        "I am fine, thank you.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U07-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I have it on Mondays and Fridays.",
+        "I like apples.",
+        "I am fine, thank you.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U07-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "My name is Nam.",
+        "I like apples.",
+        "I have Maths and Music."
+      ]
+    },
+    {
+      "id": "U07-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "I like apples.",
+        "I have it on Mondays and Fridays.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U07-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I like apples.",
+        "I am fine, thank you.",
+        "I have Maths and Music."
+      ]
+    },
+    {
+      "id": "U07-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "I have it on Mondays and Fridays.",
+        "My name is Nam.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U07-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "I have Maths and Music.",
+        "I like apples.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U07-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I like apples.",
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I have it on Mondays and Fridays."
+      ]
+    },
+    {
+      "id": "U07-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What subjects do you have today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "I like apples.",
+        "I have Maths and Music.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U07-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: When do you have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I like apples.",
+        "I have it on Mondays and Fridays.",
+        "I am fine, thank you.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U07-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What subjects do you have today?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "today",
+        "subjects",
+        "?",
+        "you",
+        "have",
+        "do",
+        "What"
+      ]
+    },
+    {
+      "id": "U07-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "Music",
+        "I",
+        "and",
+        ".",
+        "have",
+        "Maths"
+      ]
+    },
+    {
+      "id": "U07-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When do you have English?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "you",
+        "When",
+        "?",
+        "have",
+        "do",
+        "English"
+      ]
+    },
+    {
+      "id": "U07-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "on",
+        "Mondays",
+        "Fridays",
+        "have",
+        "it",
+        ".",
+        "and",
+        "I"
+      ]
+    },
+    {
+      "id": "U07-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What subjects do you have today?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "?",
+        "you",
+        "today",
+        "have",
+        "subjects",
+        "do",
+        "What"
+      ]
+    },
+    {
+      "id": "U07-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "Music",
+        "Maths",
+        "and",
+        "have",
+        ".",
+        "I"
+      ]
+    },
+    {
+      "id": "U07-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When do you have English?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "English",
+        "you",
+        "When",
+        "have",
+        "?",
+        "do"
+      ]
+    },
+    {
+      "id": "U07-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have it on Mondays and Fridays."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "Mondays",
+        "on",
+        "it",
+        "Fridays",
+        "I",
+        "have",
+        "and",
+        "."
+      ]
+    },
+    {
+      "id": "U07-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What subjects do you have today?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "subjects",
+        "you",
+        "do",
+        "today",
+        "have",
+        "?",
+        "What"
+      ]
+    },
+    {
+      "id": "U07-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I have Maths and Music."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "have",
+        "Music",
+        "Maths",
+        ".",
+        "and",
+        "I"
+      ]
+    },
+    {
+      "id": "U07-Q041",
+      "type": "multiple_choice",
+      "prompt": "When does Lan have Music?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tuesday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "Wednesday"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q042",
+      "type": "multiple_choice",
+      "prompt": "When does Lan have art?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Wednesday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Monday",
+        "Wednesday"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q043",
+      "type": "multiple_choice",
+      "prompt": "When does Lan have PE?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Thursday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Friday",
+        "Thursday",
+        "Monday",
+        "Tuesday"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q044",
+      "type": "multiple_choice",
+      "prompt": "Does Lan have English on Monday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes",
+        "Only Sunday",
+        "Only Saturday",
+        "No"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q045",
+      "type": "multiple_choice",
+      "prompt": "Does Lan have Maths on Tuesday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Only Saturday",
+        "Only Sunday",
+        "No",
+        "Yes"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q046",
+      "type": "multiple_choice",
+      "prompt": "When does Lan have Science?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Wednesday and Friday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Monday and Friday",
+        "Tuesday and Thursday",
+        "Monday and Tuesday",
+        "Wednesday and Friday"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q047",
+      "type": "multiple_choice",
+      "prompt": "What does Lan have on Tuesday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Vietnamese and Music"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "art and Maths",
+        "English and Science",
+        "Vietnamese and Music",
+        "Maths and PE"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q048",
+      "type": "multiple_choice",
+      "prompt": "Does Lan have Science on Friday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "No",
+        "Only Sunday",
+        "Only Saturday",
+        "Yes"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q049",
+      "type": "multiple_choice",
+      "prompt": "What does Lan have on Thursday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Maths and PE"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Maths and PE",
+        "art and Music",
+        "Vietnamese and Music",
+        "English and Science"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    },
+    {
+      "id": "U07-Q050",
+      "type": "multiple_choice",
+      "prompt": "When does Lan have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Monday and Friday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 7",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 7
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Wednesday only",
+        "Thursday only",
+        "Monday and Friday",
+        "Tuesday and Thursday"
+      ],
+      "passage": "Lan has Maths and English on Monday. She has Vietnamese and Music on Tuesday. She has Science and art on Wednesday. She has Maths and PE on Thursday. She has English and Science on Friday."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U07-W01",
+      "title": "Vocabulary Practice",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U07-Q001",
+        "U07-Q002",
+        "U07-Q003",
+        "U07-Q004",
+        "U07-Q005",
+        "U07-Q006",
+        "U07-Q007",
+        "U07-Q008",
+        "U07-Q009",
+        "U07-Q010"
+      ]
+    },
+    {
+      "id": "U07-W02",
+      "title": "Word Skills",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U07-Q011",
+        "U07-Q012",
+        "U07-Q013",
+        "U07-Q014",
+        "U07-Q015",
+        "U07-Q016",
+        "U07-Q017",
+        "U07-Q018",
+        "U07-Q019",
+        "U07-Q020"
+      ]
+    },
+    {
+      "id": "U07-W03",
+      "title": "Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U07-Q021",
+        "U07-Q022",
+        "U07-Q023",
+        "U07-Q024",
+        "U07-Q025",
+        "U07-Q026",
+        "U07-Q027",
+        "U07-Q028",
+        "U07-Q029",
+        "U07-Q030"
+      ]
+    },
+    {
+      "id": "U07-W04",
+      "title": "Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U07-Q031",
+        "U07-Q032",
+        "U07-Q033",
+        "U07-Q034",
+        "U07-Q035",
+        "U07-Q036",
+        "U07-Q037",
+        "U07-Q038",
+        "U07-Q039",
+        "U07-Q040"
+      ]
+    },
+    {
+      "id": "U07-W05",
+      "title": "Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U07-Q041",
+        "U07-Q042",
+        "U07-Q043",
+        "U07-Q044",
+        "U07-Q045",
+        "U07-Q046",
+        "U07-Q047",
+        "U07-Q048",
+        "U07-Q049",
+        "U07-Q050"
+      ]
+    }
+  ]
+}

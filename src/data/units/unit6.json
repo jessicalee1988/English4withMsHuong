@@ -1,0 +1,1419 @@
+{
+  "unit_id": 6,
+  "unit_number": 6,
+  "title": "Unit 6: Our school facilities",
+  "title_vi": "Cơ sở vật chất trường học",
+  "semester": 1,
+  "grade": 4,
+  "description": "Our school facilities",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 6, Vocabulary and Structures",
+  "vocabulary": [
+    {
+      "id": "U06-V01",
+      "word": "mountain",
+      "meaning": "núi",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V02",
+      "word": "city",
+      "meaning": "thành phố",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V03",
+      "word": "village",
+      "meaning": "làng",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V04",
+      "word": "town",
+      "meaning": "thị trấn",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V05",
+      "word": "buildings",
+      "meaning": "các tòa nhà",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V06",
+      "word": "playground",
+      "meaning": "sân chơi",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V07",
+      "word": "computer room",
+      "meaning": "phòng máy tính",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V08",
+      "word": "tree",
+      "meaning": "cây",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V09",
+      "word": "farm",
+      "meaning": "nông trại",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U06-V10",
+      "word": "flower",
+      "meaning": "hoa",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U06-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "Where is your school?",
+      "answer": "It’s in the city.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "Where is your school?",
+        "It’s in the city."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where is your school?",
+          "speaker_a": "B",
+          "a": "It’s in the city."
+        }
+      ]
+    },
+    {
+      "id": "U06-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "How many computer rooms are there at your school?",
+      "answer": "There are two.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "How many computer rooms are there at your school?",
+        "There are two."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "How many computer rooms are there at your school?",
+          "speaker_a": "B",
+          "a": "There are two."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U06-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “núi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "mountain"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "village",
+        "city",
+        "town",
+        "mountain"
+      ]
+    },
+    {
+      "id": "U06-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thành phố”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "city"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "city",
+        "village",
+        "mountain",
+        "town"
+      ]
+    },
+    {
+      "id": "U06-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “làng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "village"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "village",
+        "city",
+        "mountain",
+        "town"
+      ]
+    },
+    {
+      "id": "U06-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thị trấn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "town"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "village",
+        "town",
+        "city",
+        "mountain"
+      ]
+    },
+    {
+      "id": "U06-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “các tòa nhà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "buildings"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "city",
+        "buildings",
+        "village",
+        "mountain"
+      ]
+    },
+    {
+      "id": "U06-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “sân chơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "playground"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "city",
+        "playground",
+        "village",
+        "mountain"
+      ]
+    },
+    {
+      "id": "U06-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “phòng máy tính”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "computer room"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "mountain",
+        "village",
+        "city",
+        "computer room"
+      ]
+    },
+    {
+      "id": "U06-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cây”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "tree"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "city",
+        "tree",
+        "mountain",
+        "village"
+      ]
+    },
+    {
+      "id": "U06-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nông trại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "farm"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "mountain",
+        "farm",
+        "city",
+        "village"
+      ]
+    },
+    {
+      "id": "U06-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “hoa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "flower"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "mountain",
+        "flower",
+        "city",
+        "village"
+      ]
+    },
+    {
+      "id": "U06-Q011",
+      "type": "multiple_choice",
+      "prompt": "Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "It’s in the city.",
+        "I am nine.",
+        "There are two."
+      ]
+    },
+    {
+      "id": "U06-Q012",
+      "type": "multiple_choice",
+      "prompt": "How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s in the city.",
+        "There are two.",
+        "Goodbye.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U06-Q013",
+      "type": "multiple_choice",
+      "prompt": "Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "There are two.",
+        "It’s in the city.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U06-Q014",
+      "type": "multiple_choice",
+      "prompt": "How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "There are two.",
+        "I am nine.",
+        "It’s in the city."
+      ]
+    },
+    {
+      "id": "U06-Q015",
+      "type": "multiple_choice",
+      "prompt": "Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "It’s in the city.",
+        "There are two.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U06-Q016",
+      "type": "multiple_choice",
+      "prompt": "How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s in the city.",
+        "Goodbye.",
+        "I am nine.",
+        "There are two."
+      ]
+    },
+    {
+      "id": "U06-Q017",
+      "type": "multiple_choice",
+      "prompt": "Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "It’s in the city.",
+        "Goodbye.",
+        "There are two."
+      ]
+    },
+    {
+      "id": "U06-Q018",
+      "type": "multiple_choice",
+      "prompt": "How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "It’s in the city.",
+        "There are two.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U06-Q019",
+      "type": "multiple_choice",
+      "prompt": "Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "Goodbye.",
+        "There are two.",
+        "It’s in the city."
+      ]
+    },
+    {
+      "id": "U06-Q020",
+      "type": "multiple_choice",
+      "prompt": "How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "There are two.",
+        "Goodbye.",
+        "It’s in the city."
+      ]
+    },
+    {
+      "id": "U06-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I like apples.",
+        "I am fine, thank you.",
+        "My name is Nam.",
+        "It’s in the city."
+      ]
+    },
+    {
+      "id": "U06-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "There are two.",
+        "I like apples.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U06-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "It’s in the city.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U06-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "There are two.",
+        "I am fine, thank you.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U06-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I like apples.",
+        "It’s in the city."
+      ]
+    },
+    {
+      "id": "U06-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "There are two.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U06-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I like apples.",
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "It’s in the city."
+      ]
+    },
+    {
+      "id": "U06-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "There are two.",
+        "I am fine, thank you.",
+        "I like apples.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U06-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where is your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "I like apples.",
+        "It’s in the city.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U06-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: How many computer rooms are there at your school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "I like apples.",
+        "There are two.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U06-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where is your school?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "your",
+        "is",
+        "?",
+        "Where",
+        "school"
+      ]
+    },
+    {
+      "id": "U06-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        ".",
+        "the",
+        "city",
+        "It",
+        "s",
+        "in"
+      ]
+    },
+    {
+      "id": "U06-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "How many computer rooms are there at your school?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "computer",
+        "rooms",
+        "at",
+        "your",
+        "many",
+        "there",
+        "How",
+        "?",
+        "school",
+        "are"
+      ]
+    },
+    {
+      "id": "U06-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        ".",
+        "two",
+        "are",
+        "There"
+      ]
+    },
+    {
+      "id": "U06-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where is your school?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "school",
+        "?",
+        "your",
+        "Where",
+        "is"
+      ]
+    },
+    {
+      "id": "U06-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "the",
+        "s",
+        "in",
+        "It",
+        "city",
+        "."
+      ]
+    },
+    {
+      "id": "U06-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "How many computer rooms are there at your school?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "computer",
+        "at",
+        "rooms",
+        "your",
+        "school",
+        "many",
+        "are",
+        "there",
+        "How",
+        "?"
+      ]
+    },
+    {
+      "id": "U06-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "There are two."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "are",
+        ".",
+        "two",
+        "There"
+      ]
+    },
+    {
+      "id": "U06-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where is your school?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "Where",
+        "?",
+        "is",
+        "your",
+        "school"
+      ]
+    },
+    {
+      "id": "U06-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s in the city."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "the",
+        "in",
+        "s",
+        ".",
+        "city",
+        "It"
+      ]
+    },
+    {
+      "id": "U06-Q041",
+      "type": "multiple_choice",
+      "prompt": "Where is the school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "a village"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "a village",
+        "a city",
+        "a mountain",
+        "a town"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q042",
+      "type": "multiple_choice",
+      "prompt": "How many buildings are there?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "two"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "three",
+        "two",
+        "one",
+        "four"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q043",
+      "type": "multiple_choice",
+      "prompt": "How many computer rooms are there?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "one"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "two",
+        "three",
+        "one",
+        "four"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q044",
+      "type": "multiple_choice",
+      "prompt": "What is big?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "the playground"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "the farm",
+        "the playground",
+        "the classroom",
+        "the library"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q045",
+      "type": "multiple_choice",
+      "prompt": "Are there many trees?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "No",
+        "Only two",
+        "Only one",
+        "Yes"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q046",
+      "type": "multiple_choice",
+      "prompt": "What do pupils play?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "badminton"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "volleyball",
+        "basketball",
+        "football",
+        "badminton"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q047",
+      "type": "multiple_choice",
+      "prompt": "When do they play?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at break time"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "in the evening",
+        "at night",
+        "on Sunday",
+        "at break time"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q048",
+      "type": "multiple_choice",
+      "prompt": "Are there flowers?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "No",
+        "Only two",
+        "Only one",
+        "Yes"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q049",
+      "type": "multiple_choice",
+      "prompt": "Is the school in a city?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Only on Sunday",
+        "Only on Monday",
+        "Yes",
+        "No"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    },
+    {
+      "id": "U06-Q050",
+      "type": "multiple_choice",
+      "prompt": "Is there a playground?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 6",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 6
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Only a farm",
+        "No",
+        "Yes",
+        "Only a library"
+      ],
+      "passage": "My school is in a village. It has two buildings, one computer room and a big playground. There are many trees and flowers. We play badminton at break time."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U06-W01",
+      "title": "Vocabulary Practice",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U06-Q001",
+        "U06-Q002",
+        "U06-Q003",
+        "U06-Q004",
+        "U06-Q005",
+        "U06-Q006",
+        "U06-Q007",
+        "U06-Q008",
+        "U06-Q009",
+        "U06-Q010"
+      ]
+    },
+    {
+      "id": "U06-W02",
+      "title": "Word Skills",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U06-Q011",
+        "U06-Q012",
+        "U06-Q013",
+        "U06-Q014",
+        "U06-Q015",
+        "U06-Q016",
+        "U06-Q017",
+        "U06-Q018",
+        "U06-Q019",
+        "U06-Q020"
+      ]
+    },
+    {
+      "id": "U06-W03",
+      "title": "Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U06-Q021",
+        "U06-Q022",
+        "U06-Q023",
+        "U06-Q024",
+        "U06-Q025",
+        "U06-Q026",
+        "U06-Q027",
+        "U06-Q028",
+        "U06-Q029",
+        "U06-Q030"
+      ]
+    },
+    {
+      "id": "U06-W04",
+      "title": "Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U06-Q031",
+        "U06-Q032",
+        "U06-Q033",
+        "U06-Q034",
+        "U06-Q035",
+        "U06-Q036",
+        "U06-Q037",
+        "U06-Q038",
+        "U06-Q039",
+        "U06-Q040"
+      ]
+    },
+    {
+      "id": "U06-W05",
+      "title": "Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U06-Q041",
+        "U06-Q042",
+        "U06-Q043",
+        "U06-Q044",
+        "U06-Q045",
+        "U06-Q046",
+        "U06-Q047",
+        "U06-Q048",
+        "U06-Q049",
+        "U06-Q050"
+      ]
+    }
+  ]
+}

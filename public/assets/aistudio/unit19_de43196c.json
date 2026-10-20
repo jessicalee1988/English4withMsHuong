@@ -1,0 +1,1600 @@
+{
+  "unit_id": 19,
+  "unit_number": 19,
+  "title": "Unit 19: The animal world",
+  "title_vi": "Thế giới động vật",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề The animal world.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U19-V001",
+      "word": "animals",
+      "meaning": "động vật",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V002",
+      "word": "giraffe",
+      "meaning": "hươu cao cổ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V003",
+      "word": "hippo",
+      "meaning": "hà mã",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V004",
+      "word": "lion",
+      "meaning": "sư tử",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V005",
+      "word": "crocodile",
+      "meaning": "cá sấu",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V006",
+      "word": "peacock",
+      "meaning": "chim công",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V007",
+      "word": "neck",
+      "meaning": "cổ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V008",
+      "word": "leg",
+      "meaning": "chân",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V009",
+      "word": "brave",
+      "meaning": "dũng cảm",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V010",
+      "word": "strong",
+      "meaning": "khỏe mạnh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V011",
+      "word": "run quickly",
+      "meaning": "chạy nhanh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U19-V012",
+      "word": "roar loudly",
+      "meaning": "gầm lớn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U19-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What are these animals?",
+      "answer": "They’re giraffes.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What are these animals?",
+        "They’re giraffes."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What are these animals?",
+          "speaker_a": "B",
+          "a": "They’re giraffes."
+        }
+      ]
+    },
+    {
+      "id": "U19-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "Why do you like hippos?",
+      "answer": "Because they’re strong.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Why do you like hippos?",
+        "Because they’re strong."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Why do you like hippos?",
+          "speaker_a": "B",
+          "a": "Because they’re strong."
+        }
+      ]
+    },
+    {
+      "id": "U19-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "Do you like lions?",
+      "answer": "Yes, I do.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Do you like lions?",
+        "Yes, I do."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Do you like lions?",
+          "speaker_a": "B",
+          "a": "Yes, I do."
+        }
+      ]
+    },
+    {
+      "id": "U19-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "What can lions do?",
+      "answer": "They can roar loudly.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What can lions do?",
+        "They can roar loudly."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What can lions do?",
+          "speaker_a": "B",
+          "a": "They can roar loudly."
+        }
+      ]
+    },
+    {
+      "id": "U19-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "What are those animals?",
+      "answer": "They’re peacocks.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What are those animals?",
+        "They’re peacocks."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What are those animals?",
+          "speaker_a": "B",
+          "a": "They’re peacocks."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U19-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “động vật”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "animals"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "i",
+        "a",
+        "l",
+        "n",
+        "m",
+        "a",
+        "s"
+      ],
+      "hint": "động vật",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “hươu cao cổ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "giraffe"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "r",
+        "a",
+        "f",
+        "e",
+        "g",
+        "f",
+        "i"
+      ],
+      "hint": "hươu cao cổ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “hà mã”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "hippo"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "p",
+        "p",
+        "h",
+        "i",
+        "o"
+      ],
+      "hint": "hà mã",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “sư tử”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "lion"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "o",
+        "i",
+        "l"
+      ],
+      "hint": "sư tử",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cá sấu”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "crocodile"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "c",
+        "o",
+        "r",
+        "o",
+        "l",
+        "i",
+        "e",
+        "c",
+        "d"
+      ],
+      "hint": "cá sấu",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “chim công”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "peacock"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "e",
+        "c",
+        "k",
+        "a",
+        "c",
+        "p"
+      ],
+      "hint": "chim công",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cổ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "neck"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "c",
+        "e",
+        "n",
+        "k"
+      ],
+      "hint": "cổ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “chân”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "leg"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "l",
+        "g"
+      ],
+      "hint": "chân",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “dũng cảm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "brave"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "v",
+        "b",
+        "a",
+        "r"
+      ],
+      "hint": "dũng cảm",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “khỏe mạnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "strong"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "n",
+        "r",
+        "o",
+        "s",
+        "g"
+      ],
+      "hint": "khỏe mạnh",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “động vật”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "animals"
+      ],
+      "status": "approved",
+      "explanation": "“animals” có nghĩa là “động vật”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "animals",
+        "crocodile",
+        "neck",
+        "strong"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “hươu cao cổ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "giraffe"
+      ],
+      "status": "approved",
+      "explanation": "“giraffe” có nghĩa là “hươu cao cổ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "neck",
+        "strong",
+        "giraffe",
+        "hippo"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “hà mã”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "hippo"
+      ],
+      "status": "approved",
+      "explanation": "“hippo” có nghĩa là “hà mã”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "roar loudly",
+        "giraffe",
+        "neck",
+        "hippo"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “sư tử”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "lion"
+      ],
+      "status": "approved",
+      "explanation": "“lion” có nghĩa là “sư tử”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "lion",
+        "giraffe",
+        "peacock",
+        "roar loudly"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cá sấu”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "crocodile"
+      ],
+      "status": "approved",
+      "explanation": "“crocodile” có nghĩa là “cá sấu”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "hippo",
+        "crocodile",
+        "roar loudly",
+        "lion"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “chim công”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "peacock"
+      ],
+      "status": "approved",
+      "explanation": "“peacock” có nghĩa là “chim công”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "peacock",
+        "neck",
+        "crocodile",
+        "run quickly"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cổ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "neck"
+      ],
+      "status": "approved",
+      "explanation": "“neck” có nghĩa là “cổ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "neck",
+        "roar loudly",
+        "run quickly",
+        "hippo"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “chân”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "leg"
+      ],
+      "status": "approved",
+      "explanation": "“leg” có nghĩa là “chân”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "lion",
+        "strong",
+        "peacock",
+        "leg"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “dũng cảm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "brave"
+      ],
+      "status": "approved",
+      "explanation": "“brave” có nghĩa là “dũng cảm”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "animals",
+        "brave",
+        "leg",
+        "strong"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “khỏe mạnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "strong"
+      ],
+      "status": "approved",
+      "explanation": "“strong” có nghĩa là “khỏe mạnh”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "crocodile",
+        "leg",
+        "animals",
+        "strong"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are these animals?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re giraffes."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are these animals? — They’re giraffes.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re peacocks.",
+        "Yes, I do.",
+        "Yes, I can.",
+        "They’re giraffes."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Why do you like hippos?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because they’re strong."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Why do you like hippos? — Because they’re strong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re peacocks.",
+        "I am from Japan.",
+        "Because they’re strong.",
+        "It is a pencil."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Do you like lions?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Do you like lions? — Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, I don’t.",
+        "Yes, I do.",
+        "I am from Japan.",
+        "Yes, I can."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What can lions do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They can roar loudly."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What can lions do? — They can roar loudly.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Because they’re strong.",
+        "At seven o’clock.",
+        "They are my friends.",
+        "They can roar loudly."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are those animals?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re peacocks."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are those animals? — They’re peacocks.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re giraffes.",
+        "I am from Japan.",
+        "They can roar loudly.",
+        "They’re peacocks."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are these animals?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re giraffes."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are these animals? — They’re giraffes.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Because they’re strong.",
+        "It is a pencil.",
+        "They’re giraffes.",
+        "They’re peacocks."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Why do you like hippos?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because they’re strong."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Why do you like hippos? — Because they’re strong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "It is a pencil.",
+        "They’re peacocks.",
+        "Because they’re strong."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Do you like lions?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Do you like lions? — Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re peacocks.",
+        "No, I don’t.",
+        "Yes, I do.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What can lions do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They can roar loudly."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What can lions do? — They can roar loudly.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Because they’re strong.",
+        "They can roar loudly.",
+        "Yes, I can.",
+        "I am from Japan."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are those animals?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re peacocks."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are those animals? — They’re peacocks.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "They’re peacocks.",
+        "Because they’re strong.",
+        "I am from Japan."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What are these animals?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What are these animals?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "these",
+        "?",
+        "are",
+        "animals",
+        "What"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Why do you like hippos?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Why do you like hippos?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "hippos",
+        "you",
+        "like",
+        "do",
+        "?",
+        "Why"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Do you like lions?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Do you like lions?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "you",
+        "Do",
+        "lions",
+        "like",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What can lions do?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What can lions do?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "can",
+        "?",
+        "What",
+        "do",
+        "lions"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What are those animals?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What are those animals?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "are",
+        "What",
+        "those",
+        "?",
+        "animals"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re giraffes."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They’re giraffes.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "giraffes",
+        "They’re"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because they’re strong."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Because they’re strong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "they’re",
+        "Because",
+        "strong",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "do",
+        "Yes",
+        "I",
+        ",",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They can roar loudly."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They can roar loudly.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "can",
+        "loudly",
+        ".",
+        "They",
+        "roar"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re peacocks."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They’re peacocks.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "They’re",
+        ".",
+        "peacocks"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q041",
+      "type": "true_false",
+      "prompt": "Mai sees giraffes, hippos and lions at the zoo.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q042",
+      "type": "true_false",
+      "prompt": "The giraffes have short necks.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q043",
+      "type": "true_false",
+      "prompt": "The hippos are strong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q044",
+      "type": "true_false",
+      "prompt": "Mai likes lions because they are tall.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q045",
+      "type": "true_false",
+      "prompt": "Her brother likes lions.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Mai"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Mai”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "peacock",
+        "Mai",
+        "animals",
+        "crocodile"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "giraffes"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “giraffes”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "animals",
+        "giraffes",
+        "crocodile",
+        "peacock"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "hippos"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “hippos”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "animals",
+        "peacock",
+        "hippos",
+        "crocodile"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "strong"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “strong”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "strong",
+        "crocodile",
+        "animals",
+        "peacock"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U19-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "lions"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “lions”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 19; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 19,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "lions",
+        "animals",
+        "peacock",
+        "crocodile"
+      ],
+      "passage": "At the zoo, Mai sees giraffes, hippos and lions. The giraffes have long necks. The hippos are strong. The lions can roar loudly. Mai likes giraffes because they are tall. Her brother likes lions.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U19-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U19-Q001",
+        "U19-Q002",
+        "U19-Q003",
+        "U19-Q004",
+        "U19-Q005",
+        "U19-Q006",
+        "U19-Q007",
+        "U19-Q008",
+        "U19-Q009",
+        "U19-Q010"
+      ]
+    },
+    {
+      "id": "U19-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U19-Q011",
+        "U19-Q012",
+        "U19-Q013",
+        "U19-Q014",
+        "U19-Q015",
+        "U19-Q016",
+        "U19-Q017",
+        "U19-Q018",
+        "U19-Q019",
+        "U19-Q020"
+      ]
+    },
+    {
+      "id": "U19-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U19-Q021",
+        "U19-Q022",
+        "U19-Q023",
+        "U19-Q024",
+        "U19-Q025",
+        "U19-Q026",
+        "U19-Q027",
+        "U19-Q028",
+        "U19-Q029",
+        "U19-Q030"
+      ]
+    },
+    {
+      "id": "U19-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U19-Q031",
+        "U19-Q032",
+        "U19-Q033",
+        "U19-Q034",
+        "U19-Q035",
+        "U19-Q036",
+        "U19-Q037",
+        "U19-Q038",
+        "U19-Q039",
+        "U19-Q040"
+      ]
+    },
+    {
+      "id": "U19-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U19-Q041",
+        "U19-Q042",
+        "U19-Q043",
+        "U19-Q044",
+        "U19-Q045",
+        "U19-Q046",
+        "U19-Q047",
+        "U19-Q048",
+        "U19-Q049",
+        "U19-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

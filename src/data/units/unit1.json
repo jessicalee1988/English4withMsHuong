@@ -1,0 +1,1973 @@
+{
+  "unit_id": 1,
+  "unit_number": 1,
+  "title": "Unit 1: My friends",
+  "title_vi": "Những người bạn của mình",
+  "semester": 1,
+  "grade": 4,
+  "description": "Learn names of countries, greeting friends, and asking where someone is from.",
+  "source": "Global Success English 4 - Unit 1: My friends",
+  "vocabulary": [
+    {
+      "id": "voc_1",
+      "word": "Vietnam",
+      "meaning": "nước Việt Nam",
+      "ipa": "/ˌvjetˈnæm/",
+      "part_of_speech": "noun",
+      "example": "I am from Vietnam.",
+      "example_vi": "Mình đến từ Việt Nam."
+    },
+    {
+      "id": "voc_2",
+      "word": "America",
+      "meaning": "nước Mỹ",
+      "ipa": "/əˈmer.ɪ.kə/",
+      "part_of_speech": "noun",
+      "example": "She is from America.",
+      "example_vi": "Bạn ấy đến từ nước Mỹ."
+    },
+    {
+      "id": "voc_3",
+      "word": "Britain",
+      "meaning": "nước Anh",
+      "ipa": "/ˈbrɪt.ən/",
+      "part_of_speech": "noun",
+      "example": "He is from Britain.",
+      "example_vi": "Cậu ấy đến từ nước Anh."
+    },
+    {
+      "id": "voc_4",
+      "word": "Japan",
+      "meaning": "nước Nhật Bản",
+      "ipa": "/dʒəˈpæn/",
+      "part_of_speech": "noun",
+      "example": "Akiko is from Japan.",
+      "example_vi": "Akiko đến từ Nhật Bản."
+    },
+    {
+      "id": "voc_5",
+      "word": "Australia",
+      "meaning": "nước Úc",
+      "ipa": "/ɒsˈtreɪ.li.ə/",
+      "part_of_speech": "noun",
+      "example": "Tony is from Australia.",
+      "example_vi": "Tony đến từ nước Úc."
+    },
+    {
+      "id": "voc_6",
+      "word": "Malaysia",
+      "meaning": "nước Ma-lai-xi-a",
+      "ipa": "/məˈleɪ.ʒə/",
+      "part_of_speech": "noun",
+      "example": "Hakim is from Malaysia.",
+      "example_vi": "Hakim đến từ Ma-lai-xi-a."
+    },
+    {
+      "id": "voc_7",
+      "word": "Singapore",
+      "meaning": "nước Xinh-ga-po",
+      "ipa": "/ˌsɪŋ.əˈpɔːr/",
+      "part_of_speech": "noun",
+      "example": "My friend is from Singapore.",
+      "example_vi": "Bạn của mình đến từ Xinh-ga-po."
+    },
+    {
+      "id": "voc_8",
+      "word": "Thailand",
+      "meaning": "nước Thái Lan",
+      "ipa": "/ˈtaɪ.lænd/",
+      "part_of_speech": "noun",
+      "example": "They are from Thailand.",
+      "example_vi": "Họ đến từ Thái Lan."
+    },
+    {
+      "id": "voc_9",
+      "word": "friend",
+      "meaning": "người bạn, bạn bè",
+      "ipa": "/frend/",
+      "part_of_speech": "noun",
+      "example": "This is my friend, Mai.",
+      "example_vi": "Đây là bạn của mình, Mai."
+    },
+    {
+      "id": "voc_10",
+      "word": "country",
+      "meaning": "đất nước, quốc gia",
+      "ipa": "/ˈkʌn.tri/",
+      "part_of_speech": "noun",
+      "example": "Vietnam is a beautiful country.",
+      "example_vi": "Việt Nam là một đất nước tươi đẹp."
+    },
+    {
+      "id": "voc_11",
+      "word": "classmate",
+      "meaning": "bạn cùng lớp",
+      "ipa": "/ˈklɑːs.meɪt/",
+      "part_of_speech": "noun",
+      "example": "Nam and Phong are classmates.",
+      "example_vi": "Nam và Phong là bạn cùng lớp."
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "pat_1",
+      "title": "Asking where you are from",
+      "title_vi": "Hỏi và trả lời bạn đến từ đâu",
+      "question": "Where are you from?",
+      "answer": "I'm from + [Country].",
+      "explanation_vi": "Dùng để hỏi về quê hương hoặc đất nước của người bạn đang nói chuyện.",
+      "highlights": [
+        "Where are you from?",
+        "I'm from"
+      ],
+      "examples": [
+        {
+          "speaker_q": "Nam",
+          "q": "Where are you from, Mary?",
+          "speaker_a": "Mary",
+          "a": "I'm from America."
+        },
+        {
+          "speaker_q": "Quan",
+          "q": "Where are you from, Linda?",
+          "speaker_a": "Linda",
+          "a": "I'm from Britain."
+        }
+      ]
+    },
+    {
+      "id": "pat_2",
+      "title": "Asking where he / she is from",
+      "title_vi": "Hỏi và trả lời cậu ấy / cô ấy đến từ đâu",
+      "question": "Where is he / she from?",
+      "answer": "He's / She's from + [Country].",
+      "explanation_vi": "Dùng 'Where is he from?' cho bạn nam và 'Where is she from?' cho bạn nữ.",
+      "highlights": [
+        "Where is he from?",
+        "Where is she from?",
+        "He's from",
+        "She's from"
+      ],
+      "examples": [
+        {
+          "speaker_q": "Mai",
+          "q": "Where is he from?",
+          "speaker_a": "Nam",
+          "a": "He's from Japan."
+        },
+        {
+          "speaker_q": "Phong",
+          "q": "Where is she from?",
+          "speaker_a": "Hoa",
+          "a": "She's from Australia."
+        }
+      ]
+    },
+    {
+      "id": "pat_3",
+      "title": "Introducing a friend and greeting",
+      "title_vi": "Giới thiệu bạn bè và chào hỏi",
+      "question": "This is my friend, [Name].",
+      "answer": "Nice to meet you. / Nice to meet you, too.",
+      "explanation_vi": "Dùng 'This is my friend...' để giới thiệu một người bạn mới với mọi người.",
+      "highlights": [
+        "This is my friend",
+        "Nice to meet you",
+        "Nice to meet you, too"
+      ],
+      "examples": [
+        {
+          "speaker_q": "Mai",
+          "q": "Nam, this is my friend, Akiko.",
+          "speaker_a": "Nam",
+          "a": "Hi, Akiko. Nice to meet you!"
+        },
+        {
+          "speaker_q": "Akiko",
+          "q": "Nice to meet you, too, Nam.",
+          "speaker_a": "Nam",
+          "a": "Welcome to Vietnam!"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U01-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: E n g d n a l",
+      "prompt_vi": "",
+      "correct_answers": [
+        "England"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "E",
+        "n",
+        "g",
+        "d",
+        "n",
+        "a",
+        "l"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: i a i r n B t",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Britain"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "i",
+        "a",
+        "i",
+        "r",
+        "n",
+        "B",
+        "t"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: a J p n a",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Japan"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "a",
+        "J",
+        "p",
+        "n",
+        "a"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: r t s u A a l i a",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Australia"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "r",
+        "t",
+        "s",
+        "u",
+        "A",
+        "a",
+        "l",
+        "i",
+        "a"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: M t i V a e n",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Vietnam"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "M",
+        "t",
+        "i",
+        "V",
+        "a",
+        "e",
+        "n"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: M a l a y s i a",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Malaysia"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "M",
+        "a",
+        "l",
+        "a",
+        "y",
+        "s",
+        "i",
+        "a"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: h a T i l a n d",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Thailand"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "h",
+        "a",
+        "T",
+        "i",
+        "l",
+        "a",
+        "n",
+        "d"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Reorder the letters to make a country name: F r a n e c",
+      "prompt_vi": "",
+      "correct_answers": [
+        "France"
+      ],
+      "status": "approved",
+      "explanation": "Kiểm tra đủ số chữ cái trước khi mở khóa câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 1",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 1",
+        "derivation": "adapted_from_source"
+      },
+      "scrambled_letters": [
+        "F",
+        "r",
+        "a",
+        "n",
+        "e",
+        "c"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "England",
+        "America",
+        "Japan",
+        "Where"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Singapore"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "good morning",
+        "goodbye",
+        "Singapore",
+        "good afternoon"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "three"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "three",
+        "this",
+        "that",
+        "these"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Thailand"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "red",
+        "Thailand",
+        "green",
+        "yellow"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "six"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "six",
+        "ruler",
+        "pen",
+        "book"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "chicken"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "mother",
+        "chicken",
+        "father",
+        "sister"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "mother"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "mother",
+        "bread",
+        "beans",
+        "chicken"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "book"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "living room",
+        "book",
+        "bathroom",
+        "bedroom"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the word or phrase that does not belong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "zoo"
+      ],
+      "status": "approved",
+      "explanation": "Dựa trên nhóm từ vựng và chức năng từ trong sách.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 6",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 6",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "zoo",
+        "elephant",
+        "monkey",
+        "bear"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q018",
+      "type": "fill_in_the_blank",
+      "prompt": "My name is ____. I am a pupil.",
+      "prompt_vi": "Choose the name that completes the introduction.",
+      "correct_answers": [
+        "Trang"
+      ],
+      "status": "approved",
+      "explanation": "Tên riêng Trang phù hợp với câu giới thiệu.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "Trang",
+        "Singapore",
+        "from",
+        "How"
+      ],
+      "sentence_template": "My name is ____. I am a pupil.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q019",
+      "type": "fill_in_the_blank",
+      "prompt": "____ is my friend, Mai.",
+      "prompt_vi": "Choose the demonstrative word used to introduce a friend.",
+      "correct_answers": [
+        "This"
+      ],
+      "status": "approved",
+      "explanation": "This is my friend, Mai. là câu giới thiệu bạn.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "This",
+        "How",
+        "from",
+        "Singapore"
+      ],
+      "sentence_template": "____ is my friend, Mai.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q020",
+      "type": "fill_in_the_blank",
+      "prompt": "I'm ____ Vietnam.",
+      "prompt_vi": "Complete the sentence about where someone is from.",
+      "correct_answers": [
+        "from"
+      ],
+      "status": "approved",
+      "explanation": "I’m from Vietnam. dùng from chỉ xuất xứ.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "from",
+        "How",
+        "This",
+        "thanks"
+      ],
+      "sentence_template": "I'm ____ Vietnam.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q021",
+      "type": "fill_in_the_blank",
+      "prompt": "Good morning, ____.",
+      "prompt_vi": "Choose the suitable form of address for a teacher named Hien.",
+      "correct_answers": [
+        "Miss Hien"
+      ],
+      "status": "approved",
+      "explanation": "Miss Hien là cách gọi cô giáo Hiền trong ngữ cảnh đã nêu.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "Miss Hien",
+        "Singapore",
+        "from",
+        "thanks"
+      ],
+      "sentence_template": "Good morning, ____.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q022",
+      "type": "fill_in_the_blank",
+      "prompt": "Jane is from ____. She is Singaporean.",
+      "prompt_vi": "Choose the country that matches the nationality.",
+      "correct_answers": [
+        "Singapore"
+      ],
+      "status": "approved",
+      "explanation": "Singaporean chỉ người Singapore.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "Singapore",
+        "Trang",
+        "This",
+        "How"
+      ],
+      "sentence_template": "Jane is from ____. She is Singaporean.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q023",
+      "type": "multiple_choice",
+      "prompt": "Nam: Goodbye, Mai!  Mai: ____.",
+      "prompt_vi": "Choose the appropriate reply when saying goodbye.",
+      "correct_answers": [
+        "Goodbye, Nam!"
+      ],
+      "status": "approved",
+      "explanation": "Goodbye, Nam! là lời đáp phù hợp với Goodbye, Mai!",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "Goodbye, Nam!",
+        "Good morning, Nam!",
+        "Nice to meet you.",
+        "I am from Vietnam."
+      ],
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q024",
+      "type": "fill_in_the_blank",
+      "prompt": "Nam: ____ are you?  Mai: I’m fine, thank you.",
+      "prompt_vi": "Complete the greeting question.",
+      "correct_answers": [
+        "How"
+      ],
+      "status": "approved",
+      "explanation": "How are you? là câu hỏi thăm sức khỏe.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "How",
+        "Where",
+        "What",
+        "Who"
+      ],
+      "sentence_template": "Nam: ____ are you?  Mai: I’m fine, thank you.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q025",
+      "type": "fill_in_the_blank",
+      "prompt": "Nam: How are you?  Mai: I’m fine, ____.",
+      "prompt_vi": "Complete the polite response.",
+      "correct_answers": [
+        "thanks"
+      ],
+      "status": "approved",
+      "explanation": "I’m fine, thanks. là lời đáp lịch sự.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.6, Reading & Writing Exercise 2",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 6,
+        "printed_page": 14,
+        "exercise": "Reading & Writing Exercise 2",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "thanks",
+        "from",
+        "This",
+        "Singapore"
+      ],
+      "sentence_template": "Nam: How are you?  Mai: I’m fine, ____.",
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q026",
+      "type": "multiple_choice",
+      "prompt": "According to the table, where is Minh from?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "Vietnam"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, where is Minh from?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "America",
+        "Singapore",
+        "Thailand"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q027",
+      "type": "multiple_choice",
+      "prompt": "According to the table, which class is Minh in?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "3A"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, which class is Minh in?",
+      "options": [
+        "3A",
+        "3C",
+        "2B",
+        "5F",
+        "4G"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q028",
+      "type": "multiple_choice",
+      "prompt": "According to the table, where is Lan from?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "Japan"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, where is Lan from?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "America",
+        "Singapore",
+        "Thailand"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q029",
+      "type": "multiple_choice",
+      "prompt": "According to the table, which class is Lan in?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "3C"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, which class is Lan in?",
+      "options": [
+        "3A",
+        "3C",
+        "2B",
+        "5F",
+        "4G"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q030",
+      "type": "multiple_choice",
+      "prompt": "According to the table, where is Lucy from?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "America"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, where is Lucy from?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "America",
+        "Singapore",
+        "Thailand"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q031",
+      "type": "multiple_choice",
+      "prompt": "According to the table, which class is Lucy in?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "2B"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, which class is Lucy in?",
+      "options": [
+        "3A",
+        "3C",
+        "2B",
+        "5F",
+        "4G"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q032",
+      "type": "multiple_choice",
+      "prompt": "According to the table, where is Linh from?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "Singapore"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, where is Linh from?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "America",
+        "Singapore",
+        "Thailand"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q033",
+      "type": "multiple_choice",
+      "prompt": "According to the table, which class is Linh in?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "5F"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, which class is Linh in?",
+      "options": [
+        "3A",
+        "3C",
+        "2B",
+        "5F",
+        "4G"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q034",
+      "type": "multiple_choice",
+      "prompt": "According to the table, where is Trang from?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "Thailand"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, where is Trang from?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "America",
+        "Singapore",
+        "Thailand"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q035",
+      "type": "multiple_choice",
+      "prompt": "According to the table, which class is Trang in?",
+      "prompt_vi": "Đọc bảng thông tin rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "4G"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu hàng tên học sinh trong bảng thông tin.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.7, Reading & Writing Exercise 3",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 7,
+        "printed_page": 15,
+        "exercise": "Reading & Writing Exercise 3",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "According to the table, which class is Trang in?",
+      "options": [
+        "3A",
+        "3C",
+        "2B",
+        "5F",
+        "4G"
+      ],
+      "passage": "Name | Country | Age | Class\nMinh | Vietnam | eight | 3A\nLan | Japan | eight | 3C\nLucy | America | seven | 2B\nLinh | Singapore | ten | 5F\nTrang | Thailand | nine | 4G",
+      "review_note_vi": "Đã đối chiếu đáp án với bảng dữ liệu đính kèm; cần kiểm thử ứng dụng hiển thị bảng.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q036",
+      "type": "fill_in_the_blank",
+      "prompt": "Hello. My name ____ Tom.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "is"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.10, Reading & Writing Exercise 9",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 10,
+        "printed_page": 18,
+        "exercise": "Reading & Writing Exercise 9",
+        "derivation": "adapted_from_source"
+      },
+      "options": [],
+      "sentence_template": "Hello. My name ____ Tom.",
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q037",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ from America.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "am"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.10, Reading & Writing Exercise 9",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 10,
+        "printed_page": 18,
+        "exercise": "Reading & Writing Exercise 9",
+        "derivation": "adapted_from_source"
+      },
+      "options": [],
+      "sentence_template": "I ____ from America.",
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q038",
+      "type": "fill_in_the_blank",
+      "prompt": "Where ____ she from?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "is"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.10, Reading & Writing Exercise 9",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 10,
+        "printed_page": 18,
+        "exercise": "Reading & Writing Exercise 9",
+        "derivation": "adapted_from_source"
+      },
+      "options": [],
+      "sentence_template": "Where ____ she from?",
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q039",
+      "type": "fill_in_the_blank",
+      "prompt": "Those are my friends. They ____ from England.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "are"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.10, Reading & Writing Exercise 9",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 10,
+        "printed_page": 18,
+        "exercise": "Reading & Writing Exercise 9",
+        "derivation": "adapted_from_source"
+      },
+      "options": [],
+      "sentence_template": "Those are my friends. They ____ from England.",
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q040",
+      "type": "fill_in_the_blank",
+      "prompt": "Nick is my friend. He is ____ Australia.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "from"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.10, Reading & Writing Exercise 9",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 10,
+        "printed_page": 18,
+        "exercise": "Reading & Writing Exercise 9",
+        "derivation": "adapted_from_source"
+      },
+      "options": [],
+      "sentence_template": "Nick is my friend. He is ____ Australia.",
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q041",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words: from / are / Where / you / ?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where are you from?"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.11, Reading & Writing Exercise 10",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 11,
+        "printed_page": 19,
+        "exercise": "Reading & Writing Exercise 10",
+        "derivation": "adapted_from_source"
+      },
+      "words": [
+        "from",
+        "are",
+        "Where",
+        "you",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q042",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words: morning, / Good / teacher / !",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Good morning, teacher!"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.11, Reading & Writing Exercise 10",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 11,
+        "printed_page": 19,
+        "exercise": "Reading & Writing Exercise 10",
+        "derivation": "adapted_from_source"
+      },
+      "words": [
+        "morning,",
+        "Good",
+        "teacher",
+        "!"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q043",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words: he / from / Where / is / ?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where is he from?"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.11, Reading & Writing Exercise 10",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 11,
+        "printed_page": 19,
+        "exercise": "Reading & Writing Exercise 10",
+        "derivation": "adapted_from_source"
+      },
+      "words": [
+        "he",
+        "from",
+        "Where",
+        "is",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q044",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words: Britain / from / She / is / .",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is from Britain."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.11, Reading & Writing Exercise 10",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 11,
+        "printed_page": 19,
+        "exercise": "Reading & Writing Exercise 10",
+        "derivation": "adapted_from_source"
+      },
+      "words": [
+        "Britain",
+        "from",
+        "She",
+        "is",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q045",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words: Lucy / Japan / from / is / .",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Lucy is from Japan."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.11, Reading & Writing Exercise 10",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 11,
+        "printed_page": 19,
+        "exercise": "Reading & Writing Exercise 10",
+        "derivation": "adapted_from_source"
+      },
+      "words": [
+        "Lucy",
+        "Japan",
+        "from",
+        "is",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra nội dung/đáp án; cần kiểm thử hiển thị và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q046",
+      "type": "multiple_choice",
+      "prompt": "Nice to meet you.",
+      "prompt_vi": "Chọn câu trả lời phù hợp nhất.",
+      "correct_answers": [
+        "Nice to meet you, too."
+      ],
+      "status": "approved",
+      "explanation": "Chọn lời đáp đúng theo mẫu câu hỏi và đại từ nhân xưng.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 7",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 7",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Nice to meet you. → ______",
+      "options": [
+        "Nice to meet you, too.",
+        "Goodbye.",
+        "I am ten.",
+        "I am from Vietnam."
+      ],
+      "review_note_vi": "Chuyển bài nối thành trắc nghiệm để chấm tự động; nội dung đã rà soát.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q047",
+      "type": "multiple_choice",
+      "prompt": "Where is she from?",
+      "prompt_vi": "Chọn câu trả lời phù hợp nhất.",
+      "correct_answers": [
+        "She is from Britain."
+      ],
+      "status": "approved",
+      "explanation": "Chọn lời đáp đúng theo mẫu câu hỏi và đại từ nhân xưng.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 7",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 7",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Where is she from? → ______",
+      "options": [
+        "She is from Britain.",
+        "He is from Britain.",
+        "I am from Britain.",
+        "They are from Britain."
+      ],
+      "review_note_vi": "Chuyển bài nối thành trắc nghiệm để chấm tự động; nội dung đã rà soát.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q048",
+      "type": "multiple_choice",
+      "prompt": "Where are you from?",
+      "prompt_vi": "Chọn câu trả lời phù hợp nhất.",
+      "correct_answers": [
+        "I'm from Australia."
+      ],
+      "status": "approved",
+      "explanation": "Chọn lời đáp đúng theo mẫu câu hỏi và đại từ nhân xưng.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 7",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 7",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Where are you from? → ______",
+      "options": [
+        "I'm from Australia.",
+        "He's from Australia.",
+        "She's from Australia.",
+        "It's from Australia."
+      ],
+      "review_note_vi": "Chuyển bài nối thành trắc nghiệm để chấm tự động; nội dung đã rà soát.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q049",
+      "type": "multiple_choice",
+      "prompt": "Are you from Japan?",
+      "prompt_vi": "Chọn câu trả lời phù hợp nhất.",
+      "correct_answers": [
+        "Yes, I am."
+      ],
+      "status": "approved",
+      "explanation": "Chọn lời đáp đúng theo mẫu câu hỏi và đại từ nhân xưng.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 7",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 7",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Are you from Japan? → ______",
+      "options": [
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, I can.",
+        "Yes, she is."
+      ],
+      "review_note_vi": "Chuyển bài nối thành trắc nghiệm để chấm tự động; nội dung đã rà soát.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q050",
+      "type": "multiple_choice",
+      "prompt": "A: Is he from Singapore?  B: No, he isn’t. He is from France.  Where is he from?",
+      "prompt_vi": "Read the dialogue and choose the country.",
+      "correct_answers": [
+        "France"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn hội thoại nói rõ he is from France.",
+      "source": "Biên soạn điều chỉnh từ BTBT 4 TẬP 1.pdf, PDF p.9, Reading & Writing Exercise 7",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 9,
+        "printed_page": 17,
+        "exercise": "Reading & Writing Exercise 7",
+        "derivation": "substantially_rewritten_from_source"
+      },
+      "options": [
+        "France",
+        "Singapore",
+        "Japan",
+        "Vietnam"
+      ],
+      "review_note_vi": "Đã rà soát tính đúng ngữ pháp, ngữ cảnh và đáp án. Chưa kiểm thử chấm điểm trên giao diện.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q051",
+      "type": "true_false",
+      "prompt": "His name is Jack.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu trực tiếp thông tin trong đoạn đọc Our International Class (Jack).",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11A",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11A",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đáp án True/False đã đối chiếu đoạn văn; cần kiểm thử đoạn đọc hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q052",
+      "type": "true_false",
+      "prompt": "Jack is from Britain.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu trực tiếp thông tin trong đoạn đọc Our International Class (Jack).",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11A",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11A",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đáp án True/False đã đối chiếu đoạn văn; cần kiểm thử đoạn đọc hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q053",
+      "type": "true_false",
+      "prompt": "James and Joe are from America.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu trực tiếp thông tin trong đoạn đọc Our International Class (Jack).",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11A",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11A",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đáp án True/False đã đối chiếu đoạn văn; cần kiểm thử đoạn đọc hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q054",
+      "type": "true_false",
+      "prompt": "There are thirty-four students in his class.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu trực tiếp thông tin trong đoạn đọc Our International Class (Jack).",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11A",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11A",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đáp án True/False đã đối chiếu đoạn văn; cần kiểm thử đoạn đọc hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q055",
+      "type": "true_false",
+      "prompt": "Johnny is from Japan.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu trực tiếp thông tin trong đoạn đọc Our International Class (Jack).",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11A",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11A",
+        "derivation": "adapted_from_source"
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đáp án True/False đã đối chiếu đoạn văn; cần kiểm thử đoạn đọc hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q056",
+      "type": "multiple_choice",
+      "prompt": "Where is Jack from?",
+      "prompt_vi": "Đọc đoạn văn rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "Vietnam"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án được xác định trực tiếp từ đoạn văn đính kèm.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11B",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11B",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Where is Jack from?",
+      "options": [
+        "Vietnam",
+        "Britain",
+        "America",
+        "Australia"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đã chuyển câu trả lời mở sang trắc nghiệm, đối chiếu đoạn đọc; cần kiểm thử hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q057",
+      "type": "multiple_choice",
+      "prompt": "Where are James and Joe from?",
+      "prompt_vi": "Đọc đoạn văn rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "America"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án được xác định trực tiếp từ đoạn văn đính kèm.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11B",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11B",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Where are James and Joe from?",
+      "options": [
+        "America",
+        "Vietnam",
+        "Britain",
+        "Australia"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đã chuyển câu trả lời mở sang trắc nghiệm, đối chiếu đoạn đọc; cần kiểm thử hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q058",
+      "type": "multiple_choice",
+      "prompt": "What do they usually do in their free time?",
+      "prompt_vi": "Đọc đoạn văn rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "play badminton and hide and seek"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án được xác định trực tiếp từ đoạn văn đính kèm.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11B",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11B",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "What do they usually do in their free time?",
+      "options": [
+        "play badminton and hide and seek",
+        "play football",
+        "watch TV",
+        "go shopping"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đã chuyển câu trả lời mở sang trắc nghiệm, đối chiếu đoạn đọc; cần kiểm thử hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q059",
+      "type": "multiple_choice",
+      "prompt": "Where is Lisa from?",
+      "prompt_vi": "Đọc đoạn văn rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "England"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án được xác định trực tiếp từ đoạn văn đính kèm.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11B",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11B",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Where is Lisa from?",
+      "options": [
+        "England",
+        "Japan",
+        "Vietnam",
+        "Singapore"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đã chuyển câu trả lời mở sang trắc nghiệm, đối chiếu đoạn đọc; cần kiểm thử hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    },
+    {
+      "id": "U01-Q060",
+      "type": "multiple_choice",
+      "prompt": "Where is Johnny from?",
+      "prompt_vi": "Đọc đoạn văn rồi chọn đáp án đúng.",
+      "correct_answers": [
+        "Australia"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án được xác định trực tiếp từ đoạn văn đính kèm.",
+      "source": "BTBT 4 TẬP 1.pdf, PDF p.12, Reading & Writing Exercise 11B",
+      "source_detail": {
+        "file": "BTBT 4 TẬP 1.pdf",
+        "pdf_page": 12,
+        "printed_page": 20,
+        "exercise": "Reading & Writing Exercise 11B",
+        "derivation": "adapted_from_source"
+      },
+      "sentence_template": "Where is Johnny from?",
+      "options": [
+        "Australia",
+        "Japan",
+        "Thailand",
+        "Malaysia"
+      ],
+      "passage": "Hello everyone. My name is Jack. I’m from Vietnam. I’m a pupil at Nguyen Dinh Chieu Primary school. I have got a lot of friends. There are thirty-five students in my class. They are from different countries. Lisa is from England. James and Joe are from America. Johnny is from Australia. We often play badminton and hide and seek together in our free time.",
+      "review_note_vi": "Đã chuyển câu trả lời mở sang trắc nghiệm, đối chiếu đoạn đọc; cần kiểm thử hiển thị.",
+      "review_level": "content_and_key_checked_pending_ui"
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U01-W01",
+      "title": "Worksheet 1: Vocabulary Practice",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Phiếu ôn tập Unit 1; câu hỏi đã kiểm tra nội dung và đáp án, cần kiểm thử chấm điểm trên ứng dụng.",
+      "question_ids": [
+        "U01-Q001",
+        "U01-Q002",
+        "U01-Q003",
+        "U01-Q004",
+        "U01-Q005",
+        "U01-Q006",
+        "U01-Q007",
+        "U01-Q008",
+        "U01-Q009",
+        "U01-Q010",
+        "U01-Q011",
+        "U01-Q012",
+        "U01-Q013",
+        "U01-Q014",
+        "U01-Q015"
+      ]
+    },
+    {
+      "id": "U01-W02",
+      "title": "Worksheet 2: Word Skills",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Phiếu ôn tập Unit 1; câu hỏi đã kiểm tra nội dung và đáp án, cần kiểm thử chấm điểm trên ứng dụng.",
+      "question_ids": [
+        "U01-Q016",
+        "U01-Q017",
+        "U01-Q018",
+        "U01-Q019",
+        "U01-Q020",
+        "U01-Q021",
+        "U01-Q022",
+        "U01-Q023",
+        "U01-Q024",
+        "U01-Q025"
+      ]
+    },
+    {
+      "id": "U01-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Phiếu ôn tập Unit 1; câu hỏi đã kiểm tra nội dung và đáp án, cần kiểm thử chấm điểm trên ứng dụng.",
+      "question_ids": [
+        "U01-Q026",
+        "U01-Q027",
+        "U01-Q028",
+        "U01-Q029",
+        "U01-Q030",
+        "U01-Q031",
+        "U01-Q032",
+        "U01-Q033",
+        "U01-Q034",
+        "U01-Q035",
+        "U01-Q036",
+        "U01-Q037",
+        "U01-Q038",
+        "U01-Q039",
+        "U01-Q040"
+      ]
+    },
+    {
+      "id": "U01-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Phiếu ôn tập Unit 1; câu hỏi đã kiểm tra nội dung và đáp án, cần kiểm thử chấm điểm trên ứng dụng.",
+      "question_ids": [
+        "U01-Q041",
+        "U01-Q042",
+        "U01-Q043",
+        "U01-Q044",
+        "U01-Q045",
+        "U01-Q046",
+        "U01-Q047",
+        "U01-Q048",
+        "U01-Q049",
+        "U01-Q050"
+      ]
+    },
+    {
+      "id": "U01-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Phiếu ôn tập Unit 1; câu hỏi đã kiểm tra nội dung và đáp án, cần kiểm thử chấm điểm trên ứng dụng.",
+      "question_ids": [
+        "U01-Q051",
+        "U01-Q052",
+        "U01-Q053",
+        "U01-Q054",
+        "U01-Q055",
+        "U01-Q056",
+        "U01-Q057",
+        "U01-Q058",
+        "U01-Q059",
+        "U01-Q060"
+      ]
+    }
+  ]
+}

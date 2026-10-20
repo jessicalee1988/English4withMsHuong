@@ -1,0 +1,363 @@
+{
+  "unit_id": 1,
+  "unit_number": 1,
+  "title": "Unit 1: My friends",
+  "title_vi": "Những người bạn của mình",
+  "semester": 1,
+  "grade": 4,
+  "description": "Learn names of countries, greeting friends, and asking where someone is from.",
+  "source": "Global Success English 4 - Unit 1: My friends",
+  "vocabulary": [
+    {
+      "id": "voc_1",
+      "word": "Vietnam",
+      "meaning": "nước Việt Nam",
+      "ipa": "/ˌvjetˈnæm/",
+      "part_of_speech": "noun",
+      "example": "I am from Vietnam.",
+      "example_vi": "Mình đến từ Việt Nam."
+    },
+    {
+      "id": "voc_2",
+      "word": "America",
+      "meaning": "nước Mỹ",
+      "ipa": "/əˈmer.ɪ.kə/",
+      "part_of_speech": "noun",
+      "example": "She is from America.",
+      "example_vi": "Bạn ấy đến từ nước Mỹ."
+    },
+    {
+      "id": "voc_3",
+      "word": "Britain",
+      "meaning": "nước Anh",
+      "ipa": "/ˈbrɪt.ən/",
+      "part_of_speech": "noun",
+      "example": "He is from Britain.",
+      "example_vi": "Cậu ấy đến từ nước Anh."
+    },
+    {
+      "id": "voc_4",
+      "word": "Japan",
+      "meaning": "nước Nhật Bản",
+      "ipa": "/dʒəˈpæn/",
+      "part_of_speech": "noun",
+      "example": "Akiko is from Japan.",
+      "example_vi": "Akiko đến từ Nhật Bản."
+    },
+    {
+      "id": "voc_5",
+      "word": "Australia",
+      "meaning": "nước Úc",
+      "ipa": "/ɒsˈtreɪ.li.ə/",
+      "part_of_speech": "noun",
+      "example": "Tony is from Australia.",
+      "example_vi": "Tony đến từ nước Úc."
+    },
+    {
+      "id": "voc_6",
+      "word": "Malaysia",
+      "meaning": "nước Ma-lai-xi-a",
+      "ipa": "/məˈleɪ.ʒə/",
+      "part_of_speech": "noun",
+      "example": "Hakim is from Malaysia.",
+      "example_vi": "Hakim đến từ Ma-lai-xi-a."
+    },
+    {
+      "id": "voc_7",
+      "word": "Singapore",
+      "meaning": "nước Xinh-ga-po",
+      "ipa": "/ˌsɪŋ.əˈpɔːr/",
+      "part_of_speech": "noun",
+      "example": "My friend is from Singapore.",
+      "example_vi": "Bạn của mình đến từ Xinh-ga-po."
+    },
+    {
+      "id": "voc_8",
+      "word": "Thailand",
+      "meaning": "nước Thái Lan",
+      "ipa": "/ˈtaɪ.lænd/",
+      "part_of_speech": "noun",
+      "example": "They are from Thailand.",
+      "example_vi": "Họ đến từ Thái Lan."
+    },
+    {
+      "id": "voc_9",
+      "word": "friend",
+      "meaning": "người bạn, bạn bè",
+      "ipa": "/frend/",
+      "part_of_speech": "noun",
+      "example": "This is my friend, Mai.",
+      "example_vi": "Đây là bạn của mình, Mai."
+    },
+    {
+      "id": "voc_10",
+      "word": "country",
+      "meaning": "đất nước, quốc gia",
+      "ipa": "/ˈkʌn.tri/",
+      "part_of_speech": "noun",
+      "example": "Vietnam is a beautiful country.",
+      "example_vi": "Việt Nam là một đất nước tươi đẹp."
+    },
+    {
+      "id": "voc_11",
+      "word": "classmate",
+      "meaning": "bạn cùng lớp",
+      "ipa": "/ˈklɑːs.meɪt/",
+      "part_of_speech": "noun",
+      "example": "Nam and Phong are classmates.",
+      "example_vi": "Nam và Phong là bạn cùng lớp."
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "pat_1",
+      "title": "Asking where you are from",
+      "title_vi": "Hỏi và trả lời bạn đến từ đâu",
+      "question": "Where are you from?",
+      "answer": "I'm from + [Country].",
+      "explanation_vi": "Dùng để hỏi về quê hương hoặc đất nước của người bạn đang nói chuyện.",
+      "highlights": ["Where are you from?", "I'm from"],
+      "examples": [
+        {
+          "speaker_q": "Nam",
+          "q": "Where are you from, Mary?",
+          "speaker_a": "Mary",
+          "a": "I'm from America."
+        },
+        {
+          "speaker_q": "Quan",
+          "q": "Where are you from, Linda?",
+          "speaker_a": "Linda",
+          "a": "I'm from Britain."
+        }
+      ]
+    },
+    {
+      "id": "pat_2",
+      "title": "Asking where he / she is from",
+      "title_vi": "Hỏi và trả lời cậu ấy / cô ấy đến từ đâu",
+      "question": "Where is he / she from?",
+      "answer": "He's / She's from + [Country].",
+      "explanation_vi": "Dùng 'Where is he from?' cho bạn nam và 'Where is she from?' cho bạn nữ.",
+      "highlights": ["Where is he from?", "Where is she from?", "He's from", "She's from"],
+      "examples": [
+        {
+          "speaker_q": "Mai",
+          "q": "Where is he from?",
+          "speaker_a": "Nam",
+          "a": "He's from Japan."
+        },
+        {
+          "speaker_q": "Phong",
+          "q": "Where is she from?",
+          "speaker_a": "Hoa",
+          "a": "She's from Australia."
+        }
+      ]
+    },
+    {
+      "id": "pat_3",
+      "title": "Introducing a friend and greeting",
+      "title_vi": "Giới thiệu bạn bè và chào hỏi",
+      "question": "This is my friend, [Name].",
+      "answer": "Nice to meet you. / Nice to meet you, too.",
+      "explanation_vi": "Dùng 'This is my friend...' để giới thiệu một người bạn mới với mọi người.",
+      "highlights": ["This is my friend", "Nice to meet you", "Nice to meet you, too"],
+      "examples": [
+        {
+          "speaker_q": "Mai",
+          "q": "Nam, this is my friend, Akiko.",
+          "speaker_a": "Nam",
+          "a": "Hi, Akiko. Nice to meet you!"
+        },
+        {
+          "speaker_q": "Akiko",
+          "q": "Nice to meet you, too, Nam.",
+          "speaker_a": "Nam",
+          "a": "Welcome to Vietnam!"
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "ws_1",
+      "title": "Worksheet 1: Vocabulary & Sentence Building",
+      "title_vi": "Phiếu 1: Từ vựng & Mẫu câu cơ bản",
+      "description": "Practice countries, question patterns, matching pairs and word unscrambling.",
+      "question_ids": ["q_mc_1", "q_mat_1", "q_unsc_1", "q_fib_1", "q_reord_1"]
+    },
+    {
+      "id": "ws_2",
+      "title": "Worksheet 2: Comprehensive Review & Reading",
+      "title_vi": "Phiếu 2: Ôn tập tổng hợp & Đọc hiểu",
+      "description": "Read the international classroom passage, complete sentences, and review grammar.",
+      "question_ids": ["q_read_1", "q_mc_2", "q_reord_2", "q_fib_2", "q_draft_1"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_mc_1",
+      "type": "multiple_choice",
+      "prompt": "Where ______ you from? - I'm from Vietnam.",
+      "prompt_vi": "Chọn từ thích hợp nhất để hoàn thành câu hỏi.",
+      "options": ["is", "are", "am", "do"],
+      "correct_answers": ["are"],
+      "status": "approved",
+      "explanation": "Chủ ngữ là 'you', nên động từ to be đi kèm là 'are': 'Where are you from?'",
+      "source": "Global Success 4, Unit 1 Lesson 1, p. 10"
+    },
+    {
+      "id": "q_mat_1",
+      "type": "matching",
+      "prompt": "Match the questions on the left with the correct answers on the right.",
+      "prompt_vi": "Nối câu hỏi ở cột bên trái với câu trả lời tương ứng ở cột bên phải.",
+      "left_items": [
+        { "id": "l1", "text": "1. Where are you from?" },
+        { "id": "l2", "text": "2. Nice to meet you." },
+        { "id": "l3", "text": "3. Where is Tony from?" },
+        { "id": "l4", "text": "4. This is my friend, Linh." }
+      ],
+      "right_items": [
+        { "id": "r1", "text": "a. He's from Australia." },
+        { "id": "r2", "text": "b. I'm from Britain." },
+        { "id": "r3", "text": "c. Hi, Linh. Nice to meet you." },
+        { "id": "r4", "text": "d. Nice to meet you, too." }
+      ],
+      "correct_answers": {
+        "l1": "r2",
+        "l2": "r4",
+        "l3": "r1",
+        "l4": "r3"
+      },
+      "status": "approved",
+      "explanation": "1-b (Where are you from? - I'm from Britain), 2-d (Nice to meet you. - Nice to meet you, too), 3-a (Where is Tony from? - He's from Australia), 4-c (This is my friend, Linh. - Hi, Linh. Nice to meet you).",
+      "source": "Global Success 4, Unit 1 Lesson 2, p. 12"
+    },
+    {
+      "id": "q_unsc_1",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to form the correct country name.",
+      "prompt_vi": "Sắp xếp lại các chữ cái xáo trộn để tạo thành tên quốc gia đúng.",
+      "hint": "Thủ đô Hà Nội (Southeast Asia)",
+      "scrambled_letters": ["M", "A", "N", "T", "E", "I", "V"],
+      "correct_answers": ["VIETNAM"],
+      "status": "approved",
+      "explanation": "Các chữ cái sắp xếp lại thành tên đất nước VIETNAM (Việt Nam).",
+      "source": "Global Success 4, Unit 1 Word Game"
+    },
+    {
+      "id": "q_fib_1",
+      "type": "fill_in_the_blank",
+      "prompt": "Choose the correct pronoun to complete the sentence.",
+      "prompt_vi": "Chọn đại từ thích hợp để điền vào chỗ trống.",
+      "sentence_template": "Mary is from America. ______ is American.",
+      "options": ["He", "She", "They", "We"],
+      "correct_answers": ["She"],
+      "status": "approved",
+      "explanation": "Mary là bạn nữ, vì vậy chúng ta dùng đại từ 'She'.",
+      "source": "Global Success 4, Unit 1 Lesson 2, p. 13"
+    },
+    {
+      "id": "q_reord_1",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "Sắp xếp các từ theo đúng thứ tự để tạo thành câu hoàn chỉnh.",
+      "words": ["she", "is", "Where", "from", "?"],
+      "correct_answers": ["Where is she from?"],
+      "status": "approved",
+      "explanation": "Cấu trúc câu hỏi quê quán cho nữ: Where + is + she + from?",
+      "source": "Global Success 4, Unit 1 Lesson 3, p. 14"
+    },
+    {
+      "id": "q_read_1",
+      "type": "reading_comprehension",
+      "prompt": "Read the passage and choose the correct answer for each question.",
+      "prompt_vi": "Đọc kĩ đoạn văn ngắn sau rồi chọn câu trả lời đúng cho từng câu hỏi.",
+      "passage_title": "Our International Class",
+      "passage": "Hello! My name is Nam and I am from Hanoi, Vietnam. In my English club, I have many friendly classmates from different countries. Tony is from Sydney, Australia. Akiko is a cheerful girl from Tokyo, Japan. Linda is from London, Britain. We all love playing games and learning English together after school.",
+      "sub_questions": [
+        {
+          "id": "sq1",
+          "question": "Where is Nam from?",
+          "question_vi": "Nam đến từ đâu?",
+          "options": ["America", "Vietnam", "Japan", "Britain"],
+          "correct_answer": "Vietnam"
+        },
+        {
+          "id": "sq2",
+          "question": "Where is Tony from?",
+          "question_vi": "Tony đến từ đâu?",
+          "options": ["Australia", "Malaysia", "Singapore", "Thailand"],
+          "correct_answer": "Australia"
+        },
+        {
+          "id": "sq3",
+          "question": "Who is from Japan?",
+          "question_vi": "Ai đến từ Nhật Bản?",
+          "options": ["Linda", "Nam", "Akiko", "Mary"],
+          "correct_answer": "Akiko"
+        }
+      ],
+      "correct_answers": {
+        "sq1": "Vietnam",
+        "sq2": "Australia",
+        "sq3": "Akiko"
+      },
+      "status": "approved",
+      "explanation": "Theo bài đọc: Nam đến từ Vietnam, Tony đến từ Australia, và Akiko đến từ Japan.",
+      "source": "Global Success 4, Unit 1 Reading, p. 15"
+    },
+    {
+      "id": "q_mc_2",
+      "type": "multiple_choice",
+      "prompt": "Linda: 'Nice to meet you, Nam!' - Nam: '______'",
+      "prompt_vi": "Chọn câu đáp lại lịch sự khi ai đó nói 'Nice to meet you!'.",
+      "options": [
+        "Nice to meet you, too.",
+        "I'm from Britain.",
+        "Good morning.",
+        "Goodbye!"
+      ],
+      "correct_answers": ["Nice to meet you, too."],
+      "status": "approved",
+      "explanation": "Khi ai đó nói 'Nice to meet you' (Rất vui được gặp bạn), câu đáp lại lịch sự chuẩn là 'Nice to meet you, too.'",
+      "source": "Global Success 4, Unit 1 Lesson 1"
+    },
+    {
+      "id": "q_reord_2",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to form a correct sentence.",
+      "prompt_vi": "Sắp xếp các từ theo đúng thứ tự để tạo thành câu hoàn chỉnh.",
+      "words": ["friend", "This", "is", "my", "Tony", "."],
+      "correct_answers": ["This is my friend Tony."],
+      "status": "approved",
+      "explanation": "Cấu trúc giới thiệu bạn bè: This is my friend + Tên bạn.",
+      "source": "Global Success 4, Unit 1 Lesson 1"
+    },
+    {
+      "id": "q_fib_2",
+      "type": "fill_in_the_blank",
+      "prompt": "Fill in the blank with the appropriate word.",
+      "prompt_vi": "Điền từ thích hợp vào chỗ trống.",
+      "sentence_template": "Akiko is from Tokyo. She is from ______.",
+      "options": ["Japan", "America", "Vietnam", "Malaysia"],
+      "correct_answers": ["Japan"],
+      "status": "approved",
+      "explanation": "Thủ đô Tokyo thuộc đất nước Nhật Bản (Japan).",
+      "source": "Global Success 4, Unit 1 Culture Notes"
+    },
+    {
+      "id": "q_draft_1",
+      "type": "fill_in_the_blank",
+      "prompt": "[DRAFT - TEACHER APPROVAL REQUIRED] Choose the correct spelling to complete the greeting response.",
+      "prompt_vi": "[BẢN THẢO - CẦN GIÁO VIÊN DUYỆT] Chọn từ viết đúng chính tả để hoàn thành câu chào.",
+      "sentence_template": "Nice to meet you! - Nice to meet you, ______.",
+      "options": ["too", "to", "two", "tu"],
+      "correct_answers": ["too"],
+      "status": "draft",
+      "explanation": "Từ 'too' mang nghĩa 'cũng vậy'. (Lưu ý: Câu hỏi này đang ở trạng thái bản thảo và không tính vào điểm số chính thức).",
+      "source": "Ms Huong - Draft Review Queue"
+    }
+  ]
+}

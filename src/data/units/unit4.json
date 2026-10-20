@@ -1,0 +1,1468 @@
+{
+  "unit_id": 4,
+  "unit_number": 4,
+  "title": "Unit 4: My birthday party",
+  "title_vi": "Bữa tiệc sinh nhật của mình",
+  "semester": 1,
+  "grade": 4,
+  "description": "My birthday party",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 4",
+  "vocabulary": [
+    {
+      "id": "U04-V01",
+      "word": "January",
+      "meaning": "tháng 1",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V02",
+      "word": "February",
+      "meaning": "tháng 2",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V03",
+      "word": "March",
+      "meaning": "tháng 3",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V04",
+      "word": "April",
+      "meaning": "tháng 4",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V05",
+      "word": "May",
+      "meaning": "tháng 5",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V06",
+      "word": "June",
+      "meaning": "tháng 6",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V07",
+      "word": "July",
+      "meaning": "tháng 7",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V08",
+      "word": "August",
+      "meaning": "tháng 8",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V09",
+      "word": "September",
+      "meaning": "tháng 9",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V10",
+      "word": "October",
+      "meaning": "tháng 10",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V11",
+      "word": "November",
+      "meaning": "tháng 11",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V12",
+      "word": "December",
+      "meaning": "tháng 12",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V13",
+      "word": "eat",
+      "meaning": "ăn",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V14",
+      "word": "drink",
+      "meaning": "uống",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V15",
+      "word": "jam",
+      "meaning": "mứt",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V16",
+      "word": "chips",
+      "meaning": "khoai tây chiên",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V17",
+      "word": "juice",
+      "meaning": "nước ép",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V18",
+      "word": "water",
+      "meaning": "nước",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V19",
+      "word": "grapes",
+      "meaning": "nho",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U04-V20",
+      "word": "lemonade",
+      "meaning": "nước chanh",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U04-P1",
+      "title": "Sentence pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "When’s your birthday?",
+      "answer": "It’s in August.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "When’s your birthday?",
+        "It’s in August."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "When’s your birthday?",
+          "speaker_a": "B",
+          "a": "It’s in August."
+        }
+      ]
+    },
+    {
+      "id": "U04-P2",
+      "title": "Sentence pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "When is her birthday?",
+      "answer": "It’s in April.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "When is her birthday?",
+        "It’s in April."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "When is her birthday?",
+          "speaker_a": "B",
+          "a": "It’s in April."
+        }
+      ]
+    },
+    {
+      "id": "U04-P3",
+      "title": "Sentence pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "What do you want to drink?",
+      "answer": "I want some juice.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "What do you want to drink?",
+        "I want some juice."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What do you want to drink?",
+          "speaker_a": "B",
+          "a": "I want some juice."
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U04-W01",
+      "title": "Worksheet 1",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U04-Q001",
+        "U04-Q002",
+        "U04-Q003",
+        "U04-Q004",
+        "U04-Q005",
+        "U04-Q006",
+        "U04-Q007",
+        "U04-Q008",
+        "U04-Q009",
+        "U04-Q010",
+        "U04-Q011",
+        "U04-Q012",
+        "U04-Q013",
+        "U04-Q014",
+        "U04-Q015"
+      ]
+    },
+    {
+      "id": "U04-W02",
+      "title": "Worksheet 2",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U04-Q016",
+        "U04-Q017",
+        "U04-Q018",
+        "U04-Q019",
+        "U04-Q020",
+        "U04-Q021",
+        "U04-Q022",
+        "U04-Q023",
+        "U04-Q024",
+        "U04-Q025"
+      ]
+    },
+    {
+      "id": "U04-W03",
+      "title": "Worksheet 3",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U04-Q026",
+        "U04-Q027",
+        "U04-Q028",
+        "U04-Q029",
+        "U04-Q030",
+        "U04-Q031",
+        "U04-Q032",
+        "U04-Q033",
+        "U04-Q034",
+        "U04-Q035",
+        "U04-Q036",
+        "U04-Q037"
+      ]
+    },
+    {
+      "id": "U04-W04",
+      "title": "Worksheet 4",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U04-Q038",
+        "U04-Q039",
+        "U04-Q040",
+        "U04-Q041",
+        "U04-Q042",
+        "U04-Q043",
+        "U04-Q044",
+        "U04-Q045",
+        "U04-Q046",
+        "U04-Q047"
+      ]
+    },
+    {
+      "id": "U04-W05",
+      "title": "Worksheet 5",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U04-Q048",
+        "U04-Q049",
+        "U04-Q050",
+        "U04-Q051",
+        "U04-Q052",
+        "U04-Q053",
+        "U04-Q054",
+        "U04-Q055",
+        "U04-Q056",
+        "U04-Q057"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U04-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 1”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "January"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "March",
+        "February",
+        "April",
+        "January"
+      ]
+    },
+    {
+      "id": "U04-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 2”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "February"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "March",
+        "April",
+        "February",
+        "January"
+      ]
+    },
+    {
+      "id": "U04-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 3”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "March"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "February",
+        "March",
+        "January",
+        "April"
+      ]
+    },
+    {
+      "id": "U04-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 4”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "April"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "March",
+        "January",
+        "April",
+        "February"
+      ]
+    },
+    {
+      "id": "U04-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 5”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "May"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "February",
+        "May",
+        "March",
+        "January"
+      ]
+    },
+    {
+      "id": "U04-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 6”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "June"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "March",
+        "June",
+        "February",
+        "January"
+      ]
+    },
+    {
+      "id": "U04-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 7”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "July"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "January",
+        "March",
+        "July",
+        "February"
+      ]
+    },
+    {
+      "id": "U04-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 8”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "August"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "August",
+        "February",
+        "January",
+        "March"
+      ]
+    },
+    {
+      "id": "U04-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 9”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "September"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "September",
+        "March",
+        "January",
+        "February"
+      ]
+    },
+    {
+      "id": "U04-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 10”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "October"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "February",
+        "March",
+        "January",
+        "October"
+      ]
+    },
+    {
+      "id": "U04-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 11”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "November"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "November",
+        "January",
+        "March",
+        "February"
+      ]
+    },
+    {
+      "id": "U04-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “tháng 12”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "December"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "December",
+        "March",
+        "February",
+        "January"
+      ]
+    },
+    {
+      "id": "U04-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “ăn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "eat"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "January",
+        "March",
+        "February",
+        "eat"
+      ]
+    },
+    {
+      "id": "U04-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “uống”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "drink"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "drink",
+        "February",
+        "January",
+        "March"
+      ]
+    },
+    {
+      "id": "U04-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English for “mứt”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "jam"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "jam",
+        "February",
+        "January",
+        "March"
+      ]
+    },
+    {
+      "id": "U04-Q016",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ January.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "from",
+        "in",
+        "on"
+      ],
+      "sentence_template": "My birthday is ____ January."
+    },
+    {
+      "id": "U04-Q017",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ February.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "from"
+      ],
+      "sentence_template": "My birthday is ____ February."
+    },
+    {
+      "id": "U04-Q018",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ March.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "on",
+        "at",
+        "from",
+        "in"
+      ],
+      "sentence_template": "My birthday is ____ March."
+    },
+    {
+      "id": "U04-Q019",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ April.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "in",
+        "from",
+        "on"
+      ],
+      "sentence_template": "My birthday is ____ April."
+    },
+    {
+      "id": "U04-Q020",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ May.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "at",
+        "from",
+        "in",
+        "on"
+      ],
+      "sentence_template": "My birthday is ____ May."
+    },
+    {
+      "id": "U04-Q021",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ June.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "on",
+        "at",
+        "from",
+        "in"
+      ],
+      "sentence_template": "My birthday is ____ June."
+    },
+    {
+      "id": "U04-Q022",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ July.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "in",
+        "from",
+        "on",
+        "at"
+      ],
+      "sentence_template": "My birthday is ____ July."
+    },
+    {
+      "id": "U04-Q023",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ August.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "from",
+        "in",
+        "at",
+        "on"
+      ],
+      "sentence_template": "My birthday is ____ August."
+    },
+    {
+      "id": "U04-Q024",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ September.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "on",
+        "from",
+        "at",
+        "in"
+      ],
+      "sentence_template": "My birthday is ____ September."
+    },
+    {
+      "id": "U04-Q025",
+      "type": "fill_in_the_blank",
+      "prompt": "My birthday is ____ October.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "from",
+        "in",
+        "on",
+        "at"
+      ],
+      "sentence_template": "My birthday is ____ October."
+    },
+    {
+      "id": "U04-Q026",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: January)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in January."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's at January.",
+        "It's on January.",
+        "It's in January.",
+        "I'm January."
+      ]
+    },
+    {
+      "id": "U04-Q027",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: February)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in February."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's at February.",
+        "It's on February.",
+        "It's in February.",
+        "I'm February."
+      ]
+    },
+    {
+      "id": "U04-Q028",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: March)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in March."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's in March.",
+        "I'm March.",
+        "It's on March.",
+        "It's at March."
+      ]
+    },
+    {
+      "id": "U04-Q029",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: April)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in April."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's at April.",
+        "It's on April.",
+        "I'm April.",
+        "It's in April."
+      ]
+    },
+    {
+      "id": "U04-Q030",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: May)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in May."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's in May.",
+        "It's at May.",
+        "I'm May.",
+        "It's on May."
+      ]
+    },
+    {
+      "id": "U04-Q031",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: June)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in June."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's on June.",
+        "It's in June.",
+        "I'm June.",
+        "It's at June."
+      ]
+    },
+    {
+      "id": "U04-Q032",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: July)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in July."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I'm July.",
+        "It's at July.",
+        "It's in July.",
+        "It's on July."
+      ]
+    },
+    {
+      "id": "U04-Q033",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: August)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in August."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's in August.",
+        "I'm August.",
+        "It's on August.",
+        "It's at August."
+      ]
+    },
+    {
+      "id": "U04-Q034",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: September)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in September."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I'm September.",
+        "It's in September.",
+        "It's on September.",
+        "It's at September."
+      ]
+    },
+    {
+      "id": "U04-Q035",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: October)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in October."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "I'm October.",
+        "It's at October.",
+        "It's in October.",
+        "It's on October."
+      ]
+    },
+    {
+      "id": "U04-Q036",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: November)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in November."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's on November.",
+        "It's at November.",
+        "I'm November.",
+        "It's in November."
+      ]
+    },
+    {
+      "id": "U04-Q037",
+      "type": "multiple_choice",
+      "prompt": "When's your birthday? (Month: December)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in December."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It's in December.",
+        "I'm December.",
+        "It's on December.",
+        "It's at December."
+      ]
+    },
+    {
+      "id": "U04-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When's your birthday?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "?",
+        "your",
+        "When's",
+        "birthday"
+      ]
+    },
+    {
+      "id": "U04-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in August."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "It's",
+        ".",
+        "August",
+        "in"
+      ]
+    },
+    {
+      "id": "U04-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When is his birthday?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "is",
+        "?",
+        "When",
+        "birthday",
+        "his"
+      ]
+    },
+    {
+      "id": "U04-Q041",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in June."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        ".",
+        "June",
+        "in",
+        "It's"
+      ]
+    },
+    {
+      "id": "U04-Q042",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "When is her birthday?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "?",
+        "birthday",
+        "When",
+        "her",
+        "is"
+      ]
+    },
+    {
+      "id": "U04-Q043",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It's in April."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "in",
+        ".",
+        "April",
+        "It's"
+      ]
+    },
+    {
+      "id": "U04-Q044",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What do you want to eat?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "eat",
+        "do",
+        "What",
+        "?",
+        "to",
+        "you",
+        "want"
+      ]
+    },
+    {
+      "id": "U04-Q045",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I want some chips."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "want",
+        ".",
+        "some",
+        "chips",
+        "I"
+      ]
+    },
+    {
+      "id": "U04-Q046",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What do you want to drink?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "?",
+        "want",
+        "you",
+        "What",
+        "do",
+        "to",
+        "drink"
+      ]
+    },
+    {
+      "id": "U04-Q047",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I want some lemonade."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "want",
+        "some",
+        "I",
+        "lemonade",
+        "."
+      ]
+    },
+    {
+      "id": "U04-Q048",
+      "type": "multiple_choice",
+      "prompt": "When is Trang’s birthday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "August"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "August",
+        "June",
+        "December",
+        "May"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q049",
+      "type": "multiple_choice",
+      "prompt": "When is Mr Trung’s birthday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "May"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "August",
+        "December",
+        "April",
+        "May"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q050",
+      "type": "multiple_choice",
+      "prompt": "When is Mrs Thuy’s birthday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "December"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "January",
+        "August",
+        "December",
+        "May"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q051",
+      "type": "multiple_choice",
+      "prompt": "When is Duyen’s birthday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "May"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "May",
+        "December",
+        "August",
+        "June"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q052",
+      "type": "multiple_choice",
+      "prompt": "When is Duy’s birthday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "December"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "April",
+        "December",
+        "May",
+        "August"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q053",
+      "type": "multiple_choice",
+      "prompt": "Who is Trang’s father?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Mr Trung"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Duyen",
+        "Duy",
+        "Mr Trung",
+        "Mrs Thuy"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q054",
+      "type": "multiple_choice",
+      "prompt": "Who is Trang’s mother?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Mrs Thuy"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Mr Trung",
+        "Duyen",
+        "Mrs Thuy",
+        "Trang"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q055",
+      "type": "multiple_choice",
+      "prompt": "How old is Trang’s father?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "fifty-five"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "fifty-two",
+        "fifty-five",
+        "seventy",
+        "forty-five"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q056",
+      "type": "multiple_choice",
+      "prompt": "How old is Trang’s mother?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "fifty-two"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "seventy",
+        "fifty-five",
+        "fifty-two",
+        "sixty"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    },
+    {
+      "id": "U04-Q057",
+      "type": "multiple_choice",
+      "prompt": "Where does Trang live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Vinh Phuc Province"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 4; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "London",
+        "Singapore",
+        "Vinh Phuc Province",
+        "Tokyo"
+      ],
+      "passage": "My name is Trang. I live in Vinh Phuc Province with my family. My birthday is in August. Mr Trung and Mrs Thuy are my parents. My father’s birthday is in May and he is fifty-five years old. My mother is fifty-two years old and her birthday is in December. I have a brother and a sister, Duy and Duyen. Duyen’s birthday is in May and Duy’s birthday is in December."
+    }
+  ]
+}

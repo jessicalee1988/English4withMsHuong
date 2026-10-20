@@ -1,0 +1,1395 @@
+{
+  "unit_id": 5,
+  "unit_number": 5,
+  "title": "Unit 5: Things we can do",
+  "title_vi": "Những việc chúng mình có thể làm",
+  "semester": 1,
+  "grade": 4,
+  "description": "Things we can do",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 5",
+  "vocabulary": [
+    {
+      "id": "U05-V01",
+      "word": "fly a kite",
+      "meaning": "thả diều",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V02",
+      "word": "skip",
+      "meaning": "nhảy dây",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V03",
+      "word": "ride a bike",
+      "meaning": "đi xe đạp",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V04",
+      "word": "ride a horse",
+      "meaning": "cưỡi ngựa",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V05",
+      "word": "play the piano",
+      "meaning": "chơi đàn piano",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V06",
+      "word": "play the guitar",
+      "meaning": "chơi đàn ghi-ta",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V07",
+      "word": "cook",
+      "meaning": "nấu ăn",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V08",
+      "word": "draw",
+      "meaning": "vẽ",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V09",
+      "word": "swim",
+      "meaning": "bơi",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V10",
+      "word": "play badminton",
+      "meaning": "chơi cầu lông",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V11",
+      "word": "roller skate",
+      "meaning": "trượt patin",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V12",
+      "word": "play football",
+      "meaning": "chơi bóng đá",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V13",
+      "word": "sing",
+      "meaning": "hát",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U05-V14",
+      "word": "dance",
+      "meaning": "nhảy múa",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U05-P1",
+      "title": "Sentence pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What can you do?",
+      "answer": "I can cook.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "What can you do?",
+        "I can cook."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What can you do?",
+          "speaker_a": "B",
+          "a": "I can cook."
+        }
+      ]
+    },
+    {
+      "id": "U05-P2",
+      "title": "Sentence pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "Can you swim?",
+      "answer": "Yes, I can.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "Can you swim?",
+        "Yes, I can."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Can you swim?",
+          "speaker_a": "B",
+          "a": "Yes, I can."
+        }
+      ]
+    },
+    {
+      "id": "U05-P3",
+      "title": "Sentence pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "Can she cook?",
+      "answer": "No, she can’t.",
+      "explanation_vi": "Cấu trúc theo Unit.",
+      "highlights": [
+        "Can she cook?",
+        "No, she can’t."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Can she cook?",
+          "speaker_a": "B",
+          "a": "No, she can’t."
+        }
+      ]
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U05-W01",
+      "title": "Worksheet 1",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U05-Q001",
+        "U05-Q002",
+        "U05-Q003",
+        "U05-Q004",
+        "U05-Q005",
+        "U05-Q006",
+        "U05-Q007",
+        "U05-Q008",
+        "U05-Q009",
+        "U05-Q010",
+        "U05-Q011",
+        "U05-Q012",
+        "U05-Q013",
+        "U05-Q014"
+      ]
+    },
+    {
+      "id": "U05-W02",
+      "title": "Worksheet 2",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U05-Q015",
+        "U05-Q016",
+        "U05-Q017",
+        "U05-Q018",
+        "U05-Q019",
+        "U05-Q020",
+        "U05-Q021",
+        "U05-Q022",
+        "U05-Q023",
+        "U05-Q024"
+      ]
+    },
+    {
+      "id": "U05-W03",
+      "title": "Worksheet 3",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U05-Q025",
+        "U05-Q026",
+        "U05-Q027",
+        "U05-Q028",
+        "U05-Q029",
+        "U05-Q030",
+        "U05-Q031",
+        "U05-Q032",
+        "U05-Q033",
+        "U05-Q034",
+        "U05-Q035",
+        "U05-Q036"
+      ]
+    },
+    {
+      "id": "U05-W04",
+      "title": "Worksheet 4",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U05-Q037",
+        "U05-Q038",
+        "U05-Q039",
+        "U05-Q040",
+        "U05-Q041",
+        "U05-Q042",
+        "U05-Q043",
+        "U05-Q044",
+        "U05-Q045",
+        "U05-Q046"
+      ]
+    },
+    {
+      "id": "U05-W05",
+      "title": "Worksheet 5",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Content checked; application scoring test pending.",
+      "question_ids": [
+        "U05-Q047",
+        "U05-Q048",
+        "U05-Q049",
+        "U05-Q050",
+        "U05-Q051",
+        "U05-Q052",
+        "U05-Q053",
+        "U05-Q054",
+        "U05-Q055",
+        "U05-Q056"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U05-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “thả diều”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "fly a kite"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "ride a bike",
+        "fly a kite",
+        "ride a horse"
+      ]
+    },
+    {
+      "id": "U05-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “nhảy dây”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "skip"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "ride a horse",
+        "fly a kite",
+        "skip"
+      ]
+    },
+    {
+      "id": "U05-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “đi xe đạp”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ride a bike"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a horse",
+        "ride a bike",
+        "fly a kite",
+        "skip"
+      ]
+    },
+    {
+      "id": "U05-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “cưỡi ngựa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ride a horse"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "ride a bike",
+        "ride a horse",
+        "fly a kite"
+      ]
+    },
+    {
+      "id": "U05-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “chơi đàn piano”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play the piano"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "play the piano",
+        "fly a kite",
+        "skip"
+      ]
+    },
+    {
+      "id": "U05-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “chơi đàn ghi-ta”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play the guitar"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "fly a kite",
+        "play the guitar",
+        "ride a bike"
+      ]
+    },
+    {
+      "id": "U05-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “nấu ăn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cook"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "fly a kite",
+        "cook",
+        "ride a bike",
+        "skip"
+      ]
+    },
+    {
+      "id": "U05-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “vẽ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "draw"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "fly a kite",
+        "ride a bike",
+        "draw",
+        "skip"
+      ]
+    },
+    {
+      "id": "U05-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “bơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "swim"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "ride a bike",
+        "fly a kite",
+        "swim"
+      ]
+    },
+    {
+      "id": "U05-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “chơi cầu lông”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play badminton"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "fly a kite",
+        "skip",
+        "ride a bike",
+        "play badminton"
+      ]
+    },
+    {
+      "id": "U05-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “trượt patin”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "roller skate"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "roller skate",
+        "skip",
+        "ride a bike",
+        "fly a kite"
+      ]
+    },
+    {
+      "id": "U05-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “chơi bóng đá”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play football"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "fly a kite",
+        "skip",
+        "ride a bike",
+        "play football"
+      ]
+    },
+    {
+      "id": "U05-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “hát”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sing"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "fly a kite",
+        "ride a bike",
+        "sing"
+      ]
+    },
+    {
+      "id": "U05-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the activity meaning “nhảy múa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "dance"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "ride a bike",
+        "fly a kite",
+        "dance"
+      ]
+    },
+    {
+      "id": "U05-Q015",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: fly a kite)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "fly a kite"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "fly a kite",
+        "ride a horse",
+        "skip"
+      ],
+      "sentence_template": "I can ____ . (Activity: fly a kite)"
+    },
+    {
+      "id": "U05-Q016",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: skip)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "skip"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "ride a horse",
+        "skip",
+        "fly a kite"
+      ],
+      "sentence_template": "I can ____ . (Activity: skip)"
+    },
+    {
+      "id": "U05-Q017",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: ride a bike)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ride a bike"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "ride a horse",
+        "ride a bike",
+        "fly a kite"
+      ],
+      "sentence_template": "I can ____ . (Activity: ride a bike)"
+    },
+    {
+      "id": "U05-Q018",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: ride a horse)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ride a horse"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a horse",
+        "ride a bike",
+        "fly a kite",
+        "skip"
+      ],
+      "sentence_template": "I can ____ . (Activity: ride a horse)"
+    },
+    {
+      "id": "U05-Q019",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: play the piano)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play the piano"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "play the piano",
+        "skip",
+        "fly a kite"
+      ],
+      "sentence_template": "I can ____ . (Activity: play the piano)"
+    },
+    {
+      "id": "U05-Q020",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: play the guitar)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play the guitar"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "skip",
+        "fly a kite",
+        "play the guitar",
+        "ride a bike"
+      ],
+      "sentence_template": "I can ____ . (Activity: play the guitar)"
+    },
+    {
+      "id": "U05-Q021",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: cook)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cook"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "cook",
+        "ride a bike",
+        "skip",
+        "fly a kite"
+      ],
+      "sentence_template": "I can ____ . (Activity: cook)"
+    },
+    {
+      "id": "U05-Q022",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: draw)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "draw"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "draw",
+        "ride a bike",
+        "skip",
+        "fly a kite"
+      ],
+      "sentence_template": "I can ____ . (Activity: draw)"
+    },
+    {
+      "id": "U05-Q023",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: swim)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "swim"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "skip",
+        "fly a kite",
+        "swim"
+      ],
+      "sentence_template": "I can ____ . (Activity: swim)"
+    },
+    {
+      "id": "U05-Q024",
+      "type": "fill_in_the_blank",
+      "prompt": "I can ____ . (Activity: play badminton)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "play badminton"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a bike",
+        "skip",
+        "fly a kite",
+        "play badminton"
+      ],
+      "sentence_template": "I can ____ . (Activity: play badminton)"
+    },
+    {
+      "id": "U05-Q025",
+      "type": "multiple_choice",
+      "prompt": "Can you fly a kite? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I can.",
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, I does."
+      ]
+    },
+    {
+      "id": "U05-Q026",
+      "type": "multiple_choice",
+      "prompt": "Can you skip? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I do.",
+        "Yes, I can.",
+        "Yes, I does.",
+        "Yes, I am."
+      ]
+    },
+    {
+      "id": "U05-Q027",
+      "type": "multiple_choice",
+      "prompt": "Can you ride a bike? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I am.",
+        "Yes, I does.",
+        "Yes, I do.",
+        "Yes, I can."
+      ]
+    },
+    {
+      "id": "U05-Q028",
+      "type": "multiple_choice",
+      "prompt": "Can you ride a horse? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I does.",
+        "Yes, I am.",
+        "Yes, I can.",
+        "Yes, I do."
+      ]
+    },
+    {
+      "id": "U05-Q029",
+      "type": "multiple_choice",
+      "prompt": "Can you play the piano? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I can.",
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, I does."
+      ]
+    },
+    {
+      "id": "U05-Q030",
+      "type": "multiple_choice",
+      "prompt": "Can you play the guitar? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I can.",
+        "Yes, I do.",
+        "Yes, I am.",
+        "Yes, I does."
+      ]
+    },
+    {
+      "id": "U05-Q031",
+      "type": "multiple_choice",
+      "prompt": "Can you cook? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, I can.",
+        "Yes, I does."
+      ]
+    },
+    {
+      "id": "U05-Q032",
+      "type": "multiple_choice",
+      "prompt": "Can you draw? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I does.",
+        "Yes, I can.",
+        "Yes, I am.",
+        "Yes, I do."
+      ]
+    },
+    {
+      "id": "U05-Q033",
+      "type": "multiple_choice",
+      "prompt": "Can you swim? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I do.",
+        "Yes, I does.",
+        "Yes, I can.",
+        "Yes, I am."
+      ]
+    },
+    {
+      "id": "U05-Q034",
+      "type": "multiple_choice",
+      "prompt": "Can you play badminton? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I can.",
+        "Yes, I am.",
+        "Yes, I do.",
+        "Yes, I does."
+      ]
+    },
+    {
+      "id": "U05-Q035",
+      "type": "multiple_choice",
+      "prompt": "Can you roller skate? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I can.",
+        "Yes, I does.",
+        "Yes, I do.",
+        "Yes, I am."
+      ]
+    },
+    {
+      "id": "U05-Q036",
+      "type": "multiple_choice",
+      "prompt": "Can you play football? (Answer: yes)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes, I can.",
+        "Yes, I do.",
+        "Yes, I am.",
+        "Yes, I does."
+      ]
+    },
+    {
+      "id": "U05-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What can you do?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "?",
+        "What",
+        "can",
+        "you",
+        "do"
+      ]
+    },
+    {
+      "id": "U05-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I can cook."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "cook",
+        "can",
+        ".",
+        "I"
+      ]
+    },
+    {
+      "id": "U05-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Can you ride a bike?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "you",
+        "?",
+        "ride",
+        "bike",
+        "a",
+        "Can"
+      ]
+    },
+    {
+      "id": "U05-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I can."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        ".",
+        "I",
+        "Yes",
+        "can",
+        ","
+      ]
+    },
+    {
+      "id": "U05-Q041",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No, I cannot."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        ".",
+        "No",
+        "I",
+        "cannot",
+        ","
+      ]
+    },
+    {
+      "id": "U05-Q042",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Can she swim?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "?",
+        "Can",
+        "swim",
+        "she"
+      ]
+    },
+    {
+      "id": "U05-Q043",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She can play the guitar."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "play",
+        "guitar",
+        ".",
+        "can",
+        "She",
+        "the"
+      ]
+    },
+    {
+      "id": "U05-Q044",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He can ride a horse."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "can",
+        "a",
+        ".",
+        "horse",
+        "ride",
+        "He"
+      ]
+    },
+    {
+      "id": "U05-Q045",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I can play badminton."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "can",
+        "badminton",
+        "play",
+        ".",
+        "I"
+      ]
+    },
+    {
+      "id": "U05-Q046",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Can he play football?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "play",
+        "he",
+        "football",
+        "Can",
+        "?"
+      ]
+    },
+    {
+      "id": "U05-Q047",
+      "type": "multiple_choice",
+      "prompt": "Where is Sally from?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "England"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Vietnam",
+        "America",
+        "England",
+        "Japan"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q048",
+      "type": "multiple_choice",
+      "prompt": "How old is Sally?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ten"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ten",
+        "seven",
+        "eleven",
+        "nine"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q049",
+      "type": "multiple_choice",
+      "prompt": "How old is Grace?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "seven"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ten",
+        "seven",
+        "nine",
+        "eight"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q050",
+      "type": "multiple_choice",
+      "prompt": "Who is Grace?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Sally’s sister"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Sally’s teacher",
+        "Sally’s mother",
+        "Sally’s sister",
+        "Sally’s friend"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q051",
+      "type": "multiple_choice",
+      "prompt": "What can Sally do very well?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "draw pictures"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ride a horse",
+        "cook",
+        "roller skate",
+        "draw pictures"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q052",
+      "type": "multiple_choice",
+      "prompt": "What can the parrot do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sing"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "draw",
+        "sing",
+        "cook",
+        "swim"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q053",
+      "type": "multiple_choice",
+      "prompt": "What can the bird do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "fly"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "cook",
+        "dance",
+        "fly",
+        "sing"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q054",
+      "type": "multiple_choice",
+      "prompt": "Can Grace play the piano?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "No",
+        "Only on Sunday",
+        "Yes",
+        "Only on Monday"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q055",
+      "type": "multiple_choice",
+      "prompt": "Can Sally play the guitar?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes",
+        "Only on Tuesday",
+        "Only on Sunday",
+        "No"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    },
+    {
+      "id": "U05-Q056",
+      "type": "multiple_choice",
+      "prompt": "What do the sisters often play together?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "the piano"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án đã được kiểm tra với dữ kiện trong câu hỏi.",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 5; adapted/teacher-authored",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "badminton",
+        "volleyball",
+        "the piano",
+        "football"
+      ],
+      "passage": "This is my friend Sally. She is ten years old. She is from England. She can draw pictures very well. She has a bird and a parrot. The parrot can sing and the bird can fly. Sally has a sister called Grace. Grace is seven years old. Grace can play the piano and the guitar. Sally can play the guitar and the piano too. The sisters often play the piano together."
+    }
+  ]
+}

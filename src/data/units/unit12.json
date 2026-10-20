@@ -1,0 +1,1624 @@
+{
+  "unit_id": 12,
+  "unit_number": 12,
+  "title": "Unit 12: Jobs",
+  "title_vi": "Nghề nghiệp",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề Jobs.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U12-V001",
+      "word": "farmer",
+      "meaning": "nông dân",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V002",
+      "word": "office worker",
+      "meaning": "nhân viên văn phòng",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V003",
+      "word": "actor",
+      "meaning": "diễn viên",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V004",
+      "word": "teacher",
+      "meaning": "giáo viên",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V005",
+      "word": "pupil",
+      "meaning": "học sinh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V006",
+      "word": "doctor",
+      "meaning": "bác sĩ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V007",
+      "word": "nurse",
+      "meaning": "y tá",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V008",
+      "word": "gardener",
+      "meaning": "người làm vườn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V009",
+      "word": "firefighter",
+      "meaning": "lính cứu hỏa",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V010",
+      "word": "factory",
+      "meaning": "nhà máy",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V011",
+      "word": "hospital",
+      "meaning": "bệnh viện",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U12-V012",
+      "word": "farm",
+      "meaning": "nông trại",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U12-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What does your mother do?",
+      "answer": "She is a teacher.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does your mother do?",
+        "She is a teacher."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does your mother do?",
+          "speaker_a": "B",
+          "a": "She is a teacher."
+        }
+      ]
+    },
+    {
+      "id": "U12-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "Where does she work?",
+      "answer": "She works at a school.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where does she work?",
+        "She works at a school."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where does she work?",
+          "speaker_a": "B",
+          "a": "She works at a school."
+        }
+      ]
+    },
+    {
+      "id": "U12-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "What does your father do?",
+      "answer": "He is a doctor.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does your father do?",
+        "He is a doctor."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does your father do?",
+          "speaker_a": "B",
+          "a": "He is a doctor."
+        }
+      ]
+    },
+    {
+      "id": "U12-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Where does he work?",
+      "answer": "He works at a hospital.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where does he work?",
+        "He works at a hospital."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where does he work?",
+          "speaker_a": "B",
+          "a": "He works at a hospital."
+        }
+      ]
+    },
+    {
+      "id": "U12-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "Is your aunt a nurse?",
+      "answer": "Yes, she is.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Is your aunt a nurse?",
+        "Yes, she is."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Is your aunt a nurse?",
+          "speaker_a": "B",
+          "a": "Yes, she is."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U12-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nông dân”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "farmer"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "e",
+        "f",
+        "m",
+        "r",
+        "r"
+      ],
+      "hint": "nông dân",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nhân viên văn phòng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "office worker"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "f",
+        "o",
+        "r",
+        "e",
+        "f",
+        "k",
+        "i",
+        "r",
+        "o",
+        "c",
+        "w",
+        "e"
+      ],
+      "hint": "nhân viên văn phòng",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “diễn viên”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "actor"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "r",
+        "t",
+        "c",
+        "a",
+        "o"
+      ],
+      "hint": "diễn viên",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “giáo viên”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "teacher"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "a",
+        "e",
+        "r",
+        "e",
+        "c",
+        "t"
+      ],
+      "hint": "giáo viên",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “học sinh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "pupil"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "p",
+        "u",
+        "p",
+        "l",
+        "i"
+      ],
+      "hint": "học sinh",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “bác sĩ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "doctor"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "c",
+        "o",
+        "t",
+        "d",
+        "r",
+        "o"
+      ],
+      "hint": "bác sĩ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “y tá”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "nurse"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "r",
+        "u",
+        "e",
+        "n",
+        "s"
+      ],
+      "hint": "y tá",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “người làm vườn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gardener"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "a",
+        "r",
+        "r",
+        "e",
+        "d",
+        "n",
+        "g"
+      ],
+      "hint": "người làm vườn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “lính cứu hỏa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "firefighter"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "h",
+        "f",
+        "r",
+        "e",
+        "t",
+        "r",
+        "f",
+        "g",
+        "i",
+        "i"
+      ],
+      "hint": "lính cứu hỏa",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nhà máy”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "factory"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "t",
+        "o",
+        "r",
+        "y",
+        "f",
+        "c"
+      ],
+      "hint": "nhà máy",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nông dân”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "farmer"
+      ],
+      "status": "approved",
+      "explanation": "“farmer” có nghĩa là “nông dân”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "actor",
+        "doctor",
+        "teacher",
+        "farmer"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nhân viên văn phòng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "office worker"
+      ],
+      "status": "approved",
+      "explanation": "“office worker” có nghĩa là “nhân viên văn phòng”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "factory",
+        "farmer",
+        "gardener",
+        "office worker"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “diễn viên”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "actor"
+      ],
+      "status": "approved",
+      "explanation": "“actor” có nghĩa là “diễn viên”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "nurse",
+        "farm",
+        "actor",
+        "gardener"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “giáo viên”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "teacher"
+      ],
+      "status": "approved",
+      "explanation": "“teacher” có nghĩa là “giáo viên”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "firefighter",
+        "pupil",
+        "factory",
+        "teacher"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “học sinh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "pupil"
+      ],
+      "status": "approved",
+      "explanation": "“pupil” có nghĩa là “học sinh”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "teacher",
+        "doctor",
+        "pupil",
+        "office worker"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “bác sĩ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "doctor"
+      ],
+      "status": "approved",
+      "explanation": "“doctor” có nghĩa là “bác sĩ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "doctor",
+        "office worker",
+        "gardener",
+        "farm"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “y tá”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "nurse"
+      ],
+      "status": "approved",
+      "explanation": "“nurse” có nghĩa là “y tá”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "farmer",
+        "office worker",
+        "nurse",
+        "hospital"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “người làm vườn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gardener"
+      ],
+      "status": "approved",
+      "explanation": "“gardener” có nghĩa là “người làm vườn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "farmer",
+        "gardener",
+        "actor",
+        "teacher"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “lính cứu hỏa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "firefighter"
+      ],
+      "status": "approved",
+      "explanation": "“firefighter” có nghĩa là “lính cứu hỏa”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "farm",
+        "hospital",
+        "firefighter",
+        "gardener"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nhà máy”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "factory"
+      ],
+      "status": "approved",
+      "explanation": "“factory” có nghĩa là “nhà máy”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "actor",
+        "office worker",
+        "farmer",
+        "factory"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your mother do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is a teacher."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your mother do? — She is a teacher.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She is a teacher.",
+        "Yes, she is.",
+        "Yes, I can.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does she work?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She works at a school."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does she work? — She works at a school.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "He is a doctor.",
+        "At seven o’clock.",
+        "She works at a school."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your father do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He is a doctor."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your father do? — He is a doctor.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, she is.",
+        "She is a teacher.",
+        "He is a doctor.",
+        "Yes, I can."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does he work?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He works at a hospital."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does he work? — He works at a hospital.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, she is.",
+        "It is a pencil.",
+        "She is a teacher.",
+        "He works at a hospital."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is your aunt a nurse?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is your aunt a nurse? — Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "At seven o’clock.",
+        "Yes, she is.",
+        "He works at a hospital."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your mother do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is a teacher."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your mother do? — She is a teacher.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "He is a doctor.",
+        "She is a teacher.",
+        "It is a pencil."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does she work?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She works at a school."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does she work? — She works at a school.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "No, I don’t.",
+        "She works at a school.",
+        "He works at a hospital."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your father do?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He is a doctor."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your father do? — He is a doctor.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, I don’t.",
+        "He works at a hospital.",
+        "He is a doctor.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does he work?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He works at a hospital."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does he work? — He works at a hospital.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She works at a school.",
+        "I am from Japan.",
+        "They are my friends.",
+        "He works at a hospital."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is your aunt a nurse?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is your aunt a nurse? — Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, she is.",
+        "Yes, I can.",
+        "They are my friends.",
+        "He is a doctor."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does your mother do?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does your mother do?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "do",
+        "What",
+        "your",
+        "does",
+        "mother",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where does she work?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where does she work?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "work",
+        "does",
+        "?",
+        "Where",
+        "she"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does your father do?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does your father do?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "do",
+        "What",
+        "does",
+        "your",
+        "?",
+        "father"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where does he work?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where does he work?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "?",
+        "does",
+        "work",
+        "he",
+        "Where"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Is your aunt a nurse?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Is your aunt a nurse?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "your",
+        "Is",
+        "?",
+        "nurse",
+        "aunt",
+        "a"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is a teacher."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: She is a teacher.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "She",
+        ".",
+        "teacher",
+        "a",
+        "is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She works at a school."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: She works at a school.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "school",
+        "She",
+        ".",
+        "works",
+        "a",
+        "at"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He is a doctor."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: He is a doctor.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "He",
+        ".",
+        "a",
+        "doctor",
+        "is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He works at a hospital."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: He works at a hospital.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "hospital",
+        "at",
+        "a",
+        "works",
+        "He",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "she",
+        ".",
+        ",",
+        "Yes",
+        "is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q041",
+      "type": "true_false",
+      "prompt": "Lucy’s mother is a teacher.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q042",
+      "type": "true_false",
+      "prompt": "Lucy’s father works at a school.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q043",
+      "type": "true_false",
+      "prompt": "Lucy’s father is a doctor.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q044",
+      "type": "true_false",
+      "prompt": "Lucy’s aunt works at a hospital.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q045",
+      "type": "true_false",
+      "prompt": "Lucy’s aunt is a farmer.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "mother"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “mother”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "actor",
+        "mother",
+        "pupil",
+        "office worker"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "teacher"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “teacher”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "pupil",
+        "actor",
+        "office worker",
+        "teacher"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "father"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “father”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "office worker",
+        "pupil",
+        "father",
+        "actor"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "doctor"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “doctor”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "doctor",
+        "actor",
+        "office worker",
+        "pupil"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U12-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "hospital"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “hospital”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 12; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 12,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "hospital",
+        "pupil",
+        "actor",
+        "office worker"
+      ],
+      "passage": "My name is Lucy. My mother is a teacher. She works at a school. My father is a doctor. He works at a hospital. My aunt is a farmer. She works on a farm.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U12-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U12-Q001",
+        "U12-Q002",
+        "U12-Q003",
+        "U12-Q004",
+        "U12-Q005",
+        "U12-Q006",
+        "U12-Q007",
+        "U12-Q008",
+        "U12-Q009",
+        "U12-Q010"
+      ]
+    },
+    {
+      "id": "U12-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U12-Q011",
+        "U12-Q012",
+        "U12-Q013",
+        "U12-Q014",
+        "U12-Q015",
+        "U12-Q016",
+        "U12-Q017",
+        "U12-Q018",
+        "U12-Q019",
+        "U12-Q020"
+      ]
+    },
+    {
+      "id": "U12-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U12-Q021",
+        "U12-Q022",
+        "U12-Q023",
+        "U12-Q024",
+        "U12-Q025",
+        "U12-Q026",
+        "U12-Q027",
+        "U12-Q028",
+        "U12-Q029",
+        "U12-Q030"
+      ]
+    },
+    {
+      "id": "U12-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U12-Q031",
+        "U12-Q032",
+        "U12-Q033",
+        "U12-Q034",
+        "U12-Q035",
+        "U12-Q036",
+        "U12-Q037",
+        "U12-Q038",
+        "U12-Q039",
+        "U12-Q040"
+      ]
+    },
+    {
+      "id": "U12-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U12-Q041",
+        "U12-Q042",
+        "U12-Q043",
+        "U12-Q044",
+        "U12-Q045",
+        "U12-Q046",
+        "U12-Q047",
+        "U12-Q048",
+        "U12-Q049",
+        "U12-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

@@ -1,0 +1,1616 @@
+{
+  "unit_id": 16,
+  "unit_number": 16,
+  "title": "Unit 16: Weather",
+  "title_vi": "Thời tiết",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề Weather.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U16-V001",
+      "word": "weather",
+      "meaning": "thời tiết",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V002",
+      "word": "sunny",
+      "meaning": "có nắng",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V003",
+      "word": "rainy",
+      "meaning": "có mưa",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V004",
+      "word": "windy",
+      "meaning": "có gió",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V005",
+      "word": "cloudy",
+      "meaning": "nhiều mây",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V006",
+      "word": "foggy",
+      "meaning": "có sương mù",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V007",
+      "word": "snowy",
+      "meaning": "có tuyết",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V008",
+      "word": "water park",
+      "meaning": "công viên nước",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V009",
+      "word": "food stall",
+      "meaning": "quầy bán đồ ăn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V010",
+      "word": "bookshop",
+      "meaning": "hiệu sách",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V011",
+      "word": "supermarket",
+      "meaning": "siêu thị",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U16-V012",
+      "word": "bakery",
+      "meaning": "tiệm bánh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U16-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What’s the weather like today?",
+      "answer": "It’s sunny.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What’s the weather like today?",
+        "It’s sunny."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What’s the weather like today?",
+          "speaker_a": "B",
+          "a": "It’s sunny."
+        }
+      ]
+    },
+    {
+      "id": "U16-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "What was the weather like yesterday?",
+      "answer": "It was rainy.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What was the weather like yesterday?",
+        "It was rainy."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What was the weather like yesterday?",
+          "speaker_a": "B",
+          "a": "It was rainy."
+        }
+      ]
+    },
+    {
+      "id": "U16-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "Do you want to go to the food stall?",
+      "answer": "Yes, I do.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Do you want to go to the food stall?",
+        "Yes, I do."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Do you want to go to the food stall?",
+          "speaker_a": "B",
+          "a": "Yes, I do."
+        }
+      ]
+    },
+    {
+      "id": "U16-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Is it windy today?",
+      "answer": "No, it isn’t.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Is it windy today?",
+        "No, it isn’t."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Is it windy today?",
+          "speaker_a": "B",
+          "a": "No, it isn’t."
+        }
+      ]
+    },
+    {
+      "id": "U16-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "Was it cloudy yesterday?",
+      "answer": "Yes, it was.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Was it cloudy yesterday?",
+        "Yes, it was."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Was it cloudy yesterday?",
+          "speaker_a": "B",
+          "a": "Yes, it was."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U16-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “thời tiết”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "weather"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "t",
+        "r",
+        "e",
+        "e",
+        "w",
+        "h"
+      ],
+      "hint": "thời tiết",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “có nắng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sunny"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "u",
+        "n",
+        "n",
+        "s",
+        "y"
+      ],
+      "hint": "có nắng",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “có mưa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "rainy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "y",
+        "n",
+        "i",
+        "a",
+        "r"
+      ],
+      "hint": "có mưa",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “có gió”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "windy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "d",
+        "w",
+        "i",
+        "y"
+      ],
+      "hint": "có gió",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nhiều mây”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cloudy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "u",
+        "y",
+        "l",
+        "c",
+        "o",
+        "d"
+      ],
+      "hint": "nhiều mây",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “có sương mù”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "foggy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "f",
+        "o",
+        "g",
+        "y",
+        "g"
+      ],
+      "hint": "có sương mù",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “có tuyết”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "snowy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "y",
+        "n",
+        "w",
+        "s",
+        "o"
+      ],
+      "hint": "có tuyết",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “công viên nước”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "water park"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "k",
+        "e",
+        "r",
+        "r",
+        "p",
+        "a",
+        "w",
+        "t",
+        "a"
+      ],
+      "hint": "công viên nước",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “quầy bán đồ ăn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "food stall"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "l",
+        "o",
+        "d",
+        "s",
+        "l",
+        "f",
+        "t",
+        "o"
+      ],
+      "hint": "quầy bán đồ ăn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “hiệu sách”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "bookshop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "p",
+        "b",
+        "o",
+        "o",
+        "s",
+        "o",
+        "k",
+        "h"
+      ],
+      "hint": "hiệu sách",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thời tiết”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "weather"
+      ],
+      "status": "approved",
+      "explanation": "“weather” có nghĩa là “thời tiết”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "windy",
+        "weather",
+        "water park",
+        "food stall"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “có nắng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sunny"
+      ],
+      "status": "approved",
+      "explanation": "“sunny” có nghĩa là “có nắng”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "rainy",
+        "windy",
+        "cloudy",
+        "sunny"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “có mưa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "rainy"
+      ],
+      "status": "approved",
+      "explanation": "“rainy” có nghĩa là “có mưa”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cloudy",
+        "rainy",
+        "foggy",
+        "snowy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “có gió”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "windy"
+      ],
+      "status": "approved",
+      "explanation": "“windy” có nghĩa là “có gió”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "weather",
+        "rainy",
+        "windy",
+        "snowy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án and dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nhiều mây”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cloudy"
+      ],
+      "status": "approved",
+      "explanation": "“cloudy” có nghĩa là “nhiều mây”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "food stall",
+        "weather",
+        "cloudy",
+        "bakery"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “có sương mù”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "foggy"
+      ],
+      "status": "approved",
+      "explanation": "“foggy” có nghĩa là “có sương mù”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "weather",
+        "bookshop",
+        "foggy",
+        "bakery"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “có tuyết”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "snowy"
+      ],
+      "status": "approved",
+      "explanation": "“snowy” có nghĩa là “có tuyết”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "food stall",
+        "windy",
+        "weather",
+        "snowy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “công viên nước”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "water park"
+      ],
+      "status": "approved",
+      "explanation": "“water park” có nghĩa là “công viên nước”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "water park",
+        "foggy",
+        "cloudy",
+        "snowy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “quầy bán đồ ăn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "food stall"
+      ],
+      "status": "approved",
+      "explanation": "“food stall” có nghĩa là “quầy bán đồ ăn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "snowy",
+        "water park",
+        "supermarket",
+        "food stall"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “hiệu sách”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "bookshop"
+      ],
+      "status": "approved",
+      "explanation": "“bookshop” có nghĩa là “hiệu sách”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "bookshop",
+        "water park",
+        "snowy",
+        "rainy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What’s the weather like today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s sunny."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What’s the weather like today? — It’s sunny.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "It’s sunny.",
+        "Yes, I can.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What was the weather like yesterday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It was rainy."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What was the weather like yesterday? — It was rainy.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It was rainy.",
+        "No, it isn’t.",
+        "Yes, it was.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Do you want to go to the food stall?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Do you want to go to the food stall? — Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, it isn’t.",
+        "Yes, I do.",
+        "Yes, it was.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is it windy today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No, it isn’t."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is it windy today? — No, it isn’t.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, it isn’t.",
+        "They are my friends.",
+        "It was rainy.",
+        "Yes, I can."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Was it cloudy yesterday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it was."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Was it cloudy yesterday? — Yes, it was.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, it was.",
+        "Yes, I can.",
+        "No, it isn’t.",
+        "Yes, I do."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What’s the weather like today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s sunny."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What’s the weather like today? — It’s sunny.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "It’s sunny.",
+        "At seven o’clock.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What was the weather like yesterday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It was rainy."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What was the weather like yesterday? — It was rainy.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, I don’t.",
+        "It was rainy.",
+        "It’s sunny.",
+        "Yes, I do."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Do you want to go to the food stall?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Do you want to go to the food stall? — Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "Yes, I do.",
+        "It is a pencil.",
+        "No, it isn’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is it windy today?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No, it isn’t."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is it windy today? — No, it isn’t.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, it isn’t.",
+        "At seven o’clock.",
+        "No, I don’t.",
+        "Yes, I do."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Was it cloudy yesterday?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it was."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Was it cloudy yesterday? — Yes, it was.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I do.",
+        "Yes, I can.",
+        "Yes, it was.",
+        "No, it isn’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What’s the weather like today?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What’s the weather like today?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "weather",
+        "What’s",
+        "?",
+        "like",
+        "today",
+        "the"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What was the weather like yesterday?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What was the weather like yesterday?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "?",
+        "like",
+        "the",
+        "What",
+        "weather",
+        "was",
+        "yesterday"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Do you want to go to the food stall?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Do you want to go to the food stall?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "to",
+        "want",
+        "Do",
+        "?",
+        "to",
+        "you",
+        "go",
+        "food",
+        "stall",
+        "the"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Is it windy today?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Is it windy today?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "today",
+        "?",
+        "it",
+        "windy",
+        "Is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Was it cloudy yesterday?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Was it cloudy yesterday?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "it",
+        "cloudy",
+        "Was",
+        "?",
+        "yesterday"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s sunny."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: It’s sunny.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "It’s",
+        ".",
+        "sunny"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It was rainy."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: It was rainy.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "was",
+        ".",
+        "It",
+        "rainy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I do."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, I do.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "do",
+        "Yes",
+        ",",
+        "I"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No, it isn’t."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: No, it isn’t.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "No",
+        "isn’t",
+        "it",
+        ","
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it was."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, it was.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "it",
+        ",",
+        "was",
+        "Yes",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q041",
+      "type": "true_false",
+      "prompt": "Today is sunny.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q042",
+      "type": "true_false",
+      "prompt": "Yesterday was sunny.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q043",
+      "type": "true_false",
+      "prompt": "Mai and Ben want to go to the water park today.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q044",
+      "type": "true_false",
+      "prompt": "They buy bread at the bookshop.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q045",
+      "type": "true_false",
+      "prompt": "They go to the bookshop in the afternoon.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "today"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “today”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cloudy",
+        "today",
+        "windy",
+        "weather"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sunny"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “sunny”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "weather",
+        "windy",
+        "sunny",
+        "cloudy"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "yesterday"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “yesterday”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "yesterday",
+        "windy",
+        "cloudy",
+        "weather"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "rainy"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “rainy”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "rainy",
+        "windy",
+        "weather",
+        "cloudy"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U16-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "water park"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “water park”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 16; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 16,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "weather",
+        "cloudy",
+        "windy",
+        "water park"
+      ],
+      "passage": "Today is sunny. Yesterday was rainy. Mai and Ben want to go to the water park today. They buy bread at the bakery. In the afternoon, they go to the bookshop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U16-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U16-Q001",
+        "U16-Q002",
+        "U16-Q003",
+        "U16-Q004",
+        "U16-Q005",
+        "U16-Q006",
+        "U16-Q007",
+        "U16-Q008",
+        "U16-Q009",
+        "U16-Q010"
+      ]
+    },
+    {
+      "id": "U16-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U16-Q011",
+        "U16-Q012",
+        "U16-Q013",
+        "U16-Q014",
+        "U16-Q015",
+        "U16-Q016",
+        "U16-Q017",
+        "U16-Q018",
+        "U16-Q019",
+        "U16-Q020"
+      ]
+    },
+    {
+      "id": "U16-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U16-Q021",
+        "U16-Q022",
+        "U16-Q023",
+        "U16-Q024",
+        "U16-Q025",
+        "U16-Q026",
+        "U16-Q027",
+        "U16-Q028",
+        "U16-Q029",
+        "U16-Q030"
+      ]
+    },
+    {
+      "id": "U16-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U16-Q031",
+        "U16-Q032",
+        "U16-Q033",
+        "U16-Q034",
+        "U16-Q035",
+        "U16-Q036",
+        "U16-Q037",
+        "U16-Q038",
+        "U16-Q039",
+        "U16-Q040"
+      ]
+    },
+    {
+      "id": "U16-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U16-Q041",
+        "U16-Q042",
+        "U16-Q043",
+        "U16-Q044",
+        "U16-Q045",
+        "U16-Q046",
+        "U16-Q047",
+        "U16-Q048",
+        "U16-Q049",
+        "U16-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

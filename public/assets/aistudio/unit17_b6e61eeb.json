@@ -1,0 +1,1637 @@
+{
+  "unit_id": 17,
+  "unit_number": 17,
+  "title": "Unit 17: In the city",
+  "title_vi": "Trong thành phố",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề In the city.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U17-V001",
+      "word": "go straight",
+      "meaning": "đi thẳng",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V002",
+      "word": "turn left",
+      "meaning": "rẽ trái",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V003",
+      "word": "turn right",
+      "meaning": "rẽ phải",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V004",
+      "word": "stop",
+      "meaning": "dừng lại",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V005",
+      "word": "cross the road",
+      "meaning": "băng qua đường",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V006",
+      "word": "red light",
+      "meaning": "đèn đỏ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V007",
+      "word": "green light",
+      "meaning": "đèn xanh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V008",
+      "word": "turn round",
+      "meaning": "quay lại",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V009",
+      "word": "listen",
+      "meaning": "lắng nghe",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V010",
+      "word": "think",
+      "meaning": "suy nghĩ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V011",
+      "word": "look",
+      "meaning": "nhìn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U17-V012",
+      "word": "campsite",
+      "meaning": "khu cắm trại",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U17-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What does the sign say?",
+      "answer": "It says “Stop”.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does the sign say?",
+        "It says “Stop”."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does the sign say?",
+          "speaker_a": "B",
+          "a": "It says “Stop”."
+        }
+      ]
+    },
+    {
+      "id": "U17-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "How can I get to the bookshop?",
+      "answer": "Go straight and turn left.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "How can I get to the bookshop?",
+        "Go straight and turn left."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "How can I get to the bookshop?",
+          "speaker_a": "B",
+          "a": "Go straight and turn left."
+        }
+      ]
+    },
+    {
+      "id": "U17-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "What should you do at a red light?",
+      "answer": "Stop.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What should you do at a red light?",
+        "Stop."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What should you do at a red light?",
+          "speaker_a": "B",
+          "a": "Stop."
+        }
+      ]
+    },
+    {
+      "id": "U17-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Can I cross at a green light?",
+      "answer": "Yes, you can.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Can I cross at a green light?",
+        "Yes, you can."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Can I cross at a green light?",
+          "speaker_a": "B",
+          "a": "Yes, you can."
+        }
+      ]
+    },
+    {
+      "id": "U17-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "How can I get to the park?",
+      "answer": "Turn right.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "How can I get to the park?",
+        "Turn right."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "How can I get to the park?",
+          "speaker_a": "B",
+          "a": "Turn right."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U17-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đi thẳng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go straight"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "g",
+        "i",
+        "t",
+        "r",
+        "t",
+        "o",
+        "a",
+        "s",
+        "h",
+        "g"
+      ],
+      "hint": "đi thẳng",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “rẽ trái”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn left"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "u",
+        "l",
+        "t",
+        "n",
+        "e",
+        "f",
+        "r"
+      ],
+      "hint": "rẽ trái",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “rẽ phải”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn right"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "t",
+        "r",
+        "n",
+        "r",
+        "h",
+        "g",
+        "u",
+        "i"
+      ],
+      "hint": "rẽ phải",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “dừng lại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "stop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "p",
+        "o",
+        "t",
+        "s"
+      ],
+      "hint": "dừng lại",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “băng qua đường”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cross the road"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "r",
+        "t",
+        "d",
+        "h",
+        "r",
+        "o",
+        "e",
+        "s",
+        "s",
+        "a",
+        "c"
+      ],
+      "hint": "băng qua đường",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đèn đỏ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "red light"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "g",
+        "r",
+        "h",
+        "e",
+        "i",
+        "d",
+        "l"
+      ],
+      "hint": "đèn đỏ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đèn xanh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "green light"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "g",
+        "t",
+        "i",
+        "l",
+        "g",
+        "n",
+        "r",
+        "e",
+        "e"
+      ],
+      "hint": "đèn xanh",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “quay lại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn round"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "d",
+        "u",
+        "n",
+        "n",
+        "r",
+        "t",
+        "r",
+        "u"
+      ],
+      "hint": "quay lại",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “lắng nghe”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "listen"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "s",
+        "t",
+        "n",
+        "i",
+        "l"
+      ],
+      "hint": "lắng nghe",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “suy nghĩ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "think"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "k",
+        "t",
+        "h",
+        "n",
+        "i"
+      ],
+      "hint": "suy nghĩ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đi thẳng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go straight"
+      ],
+      "status": "approved",
+      "explanation": "“go straight” có nghĩa là “đi thẳng”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "campsite",
+        "go straight",
+        "green light",
+        "turn round"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “rẽ trái”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn left"
+      ],
+      "status": "approved",
+      "explanation": "“turn left” có nghĩa là “rẽ trái”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "go straight",
+        "campsite",
+        "turn left",
+        "green light"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “rẽ phải”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn right"
+      ],
+      "status": "approved",
+      "explanation": "“turn right” có nghĩa là “rẽ phải”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "turn round",
+        "turn right",
+        "listen",
+        "campsite"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “dừng lại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "stop"
+      ],
+      "status": "approved",
+      "explanation": "“stop” có nghĩa là “dừng lại”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "stop",
+        "listen",
+        "turn right",
+        "turn left"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “băng qua đường”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "cross the road"
+      ],
+      "status": "approved",
+      "explanation": "“cross the road” có nghĩa là “băng qua đường”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "turn right",
+        "cross the road",
+        "think",
+        "turn left"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đèn đỏ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "red light"
+      ],
+      "status": "approved",
+      "explanation": "“red light” có nghĩa là “đèn đỏ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "listen",
+        "stop",
+        "red light",
+        "green light"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đèn xanh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "green light"
+      ],
+      "status": "approved",
+      "explanation": "“green light” có nghĩa là “đèn xanh”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cross the road",
+        "turn right",
+        "green light",
+        "red light"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “quay lại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn round"
+      ],
+      "status": "approved",
+      "explanation": "“turn round” có nghĩa là “quay lại”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cross the road",
+        "turn round",
+        "go straight",
+        "think"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “lắng nghe”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "listen"
+      ],
+      "status": "approved",
+      "explanation": "“listen” có nghĩa là “lắng nghe”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "stop",
+        "listen",
+        "campsite",
+        "cross the road"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “suy nghĩ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "think"
+      ],
+      "status": "approved",
+      "explanation": "“think” có nghĩa là “suy nghĩ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "stop",
+        "cross the road",
+        "think",
+        "listen"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does the sign say?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It says “Stop”."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does the sign say? — It says “Stop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I can.",
+        "It says “Stop”.",
+        "No, I don’t.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How can I get to the bookshop?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Go straight and turn left."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How can I get to the bookshop? — Go straight and turn left.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Stop.",
+        "At seven o’clock.",
+        "It is a pencil.",
+        "Go straight and turn left."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What should you do at a red light?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Stop."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What should you do at a red light? — Stop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, you can.",
+        "Stop.",
+        "It is a pencil.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Can I cross at a green light?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, you can."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Can I cross at a green light? — Yes, you can.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, you can.",
+        "Stop.",
+        "Turn right.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How can I get to the park?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Turn right."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How can I get to the park? — Turn right.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, I don’t.",
+        "Yes, you can.",
+        "Turn right.",
+        "Stop."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does the sign say?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It says “Stop”."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does the sign say? — It says “Stop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It says “Stop”.",
+        "I am from Japan.",
+        "No, I don’t.",
+        "Turn right."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How can I get to the bookshop?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Go straight and turn left."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How can I get to the bookshop? — Go straight and turn left.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Turn right.",
+        "No, I don’t.",
+        "It is a pencil.",
+        "Go straight and turn left."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What should you do at a red light?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Stop."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What should you do at a red light? — Stop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "Stop.",
+        "They are my friends.",
+        "Yes, I can."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Can I cross at a green light?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, you can."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Can I cross at a green light? — Yes, you can.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I can.",
+        "Yes, you can.",
+        "I am from Japan.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How can I get to the park?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Turn right."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How can I get to the park? — Turn right.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "Turn right.",
+        "I am from Japan.",
+        "Stop."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does the sign say?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does the sign say?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "the",
+        "does",
+        "sign",
+        "say",
+        "What",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "How can I get to the bookshop?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: How can I get to the bookshop?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "can",
+        "?",
+        "bookshop",
+        "the",
+        "How",
+        "I",
+        "get",
+        "to"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What should you do at a red light?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What should you do at a red light?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "red",
+        "you",
+        "should",
+        "?",
+        "light",
+        "do",
+        "a",
+        "What",
+        "at"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Can I cross at a green light?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Can I cross at a green light?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "?",
+        "Can",
+        "cross",
+        "I",
+        "green",
+        "light",
+        "a",
+        "at"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "How can I get to the park?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: How can I get to the park?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "to",
+        "I",
+        "get",
+        "can",
+        "park",
+        "the",
+        "?",
+        "How"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It says Stop."
+      ],
+      "status": "approved",
+      "explanation": "Sắp xếp thành câu: It says Stop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "says",
+        "It",
+        "Stop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Go straight and turn left."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Go straight and turn left.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "turn",
+        "left",
+        "and",
+        "straight",
+        ".",
+        "Go"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Stop."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Stop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "Stop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, you can."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, you can.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "can",
+        ",",
+        "you",
+        ".",
+        "Yes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Turn right."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Turn right.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "right",
+        ".",
+        "Turn"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q041",
+      "type": "true_false",
+      "prompt": "Ben wants to go to the bookshop.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q042",
+      "type": "true_false",
+      "prompt": "The woman tells Ben to turn right.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q043",
+      "type": "true_false",
+      "prompt": "Ben stops at the red light.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q044",
+      "type": "true_false",
+      "prompt": "Ben crosses the road when the light is red.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q045",
+      "type": "true_false",
+      "prompt": "Ben finds the bookshop.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Ben"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Ben”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Ben",
+        "turn right",
+        "cross the road",
+        "green light"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "bookshop"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “bookshop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "turn right",
+        "bookshop",
+        "cross the road",
+        "green light"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go straight"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “go straight”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cross the road",
+        "green light",
+        "turn right",
+        "go straight"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "turn left"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “turn left”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "turn left",
+        "turn right",
+        "cross the road",
+        "green light"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U17-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "red light"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “red light”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 17; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 17,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "cross the road",
+        "green light",
+        "turn right",
+        "red light"
+      ],
+      "passage": "Ben is in the city. He wants to go to the bookshop. A woman says, “Go straight and turn left.” Ben stops at the red light. He crosses the road when the light is green. He finds the bookshop.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U17-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U17-Q001",
+        "U17-Q002",
+        "U17-Q003",
+        "U17-Q004",
+        "U17-Q005",
+        "U17-Q006",
+        "U17-Q007",
+        "U17-Q008",
+        "U17-Q009",
+        "U17-Q010"
+      ]
+    },
+    {
+      "id": "U17-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U17-Q011",
+        "U17-Q012",
+        "U17-Q013",
+        "U17-Q014",
+        "U17-Q015",
+        "U17-Q016",
+        "U17-Q017",
+        "U17-Q018",
+        "U17-Q019",
+        "U17-Q020"
+      ]
+    },
+    {
+      "id": "U17-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U17-Q021",
+        "U17-Q022",
+        "U17-Q023",
+        "U17-Q024",
+        "U17-Q025",
+        "U17-Q026",
+        "U17-Q027",
+        "U17-Q028",
+        "U17-Q029",
+        "U17-Q030"
+      ]
+    },
+    {
+      "id": "U17-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U17-Q031",
+        "U17-Q032",
+        "U17-Q033",
+        "U17-Q034",
+        "U17-Q035",
+        "U17-Q036",
+        "U17-Q037",
+        "U17-Q038",
+        "U17-Q039",
+        "U17-Q040"
+      ]
+    },
+    {
+      "id": "U17-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U17-Q041",
+        "U17-Q042",
+        "U17-Q043",
+        "U17-Q044",
+        "U17-Q045",
+        "U17-Q046",
+        "U17-Q047",
+        "U17-Q048",
+        "U17-Q049",
+        "U17-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

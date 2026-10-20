@@ -1,0 +1,1595 @@
+{
+  "unit_id": 11,
+  "unit_number": 11,
+  "title": "Unit 11: My home",
+  "title_vi": "Nhà của em",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề My home.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U11-V001",
+      "word": "street",
+      "meaning": "đường phố",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V002",
+      "word": "road",
+      "meaning": "con đường",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V003",
+      "word": "busy",
+      "meaning": "nhộn nhịp",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V004",
+      "word": "quiet",
+      "meaning": "yên tĩnh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V005",
+      "word": "noisy",
+      "meaning": "ồn ào",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V006",
+      "word": "town",
+      "meaning": "thị trấn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V007",
+      "word": "city",
+      "meaning": "thành phố",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V008",
+      "word": "big",
+      "meaning": "to lớn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V009",
+      "word": "small",
+      "meaning": "nhỏ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V010",
+      "word": "village",
+      "meaning": "làng quê",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V011",
+      "word": "flat",
+      "meaning": "căn hộ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U11-V012",
+      "word": "hotel",
+      "meaning": "khách sạn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U11-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "Where do you live?",
+      "answer": "I live in a village.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where do you live?",
+        "I live in a village."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where do you live?",
+          "speaker_a": "B",
+          "a": "I live in a village."
+        }
+      ]
+    },
+    {
+      "id": "U11-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "Where does she live?",
+      "answer": "She lives in a town.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where does she live?",
+        "She lives in a town."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where does she live?",
+          "speaker_a": "B",
+          "a": "She lives in a town."
+        }
+      ]
+    },
+    {
+      "id": "U11-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "What’s the street like?",
+      "answer": "It’s busy.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What’s the street like?",
+        "It’s busy."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What’s the street like?",
+          "speaker_a": "B",
+          "a": "It’s busy."
+        }
+      ]
+    },
+    {
+      "id": "U11-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Where do they live?",
+      "answer": "They live in a city.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where do they live?",
+        "They live in a city."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where do they live?",
+          "speaker_a": "B",
+          "a": "They live in a city."
+        }
+      ]
+    },
+    {
+      "id": "U11-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "Is your street quiet?",
+      "answer": "Yes, it is.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Is your street quiet?",
+        "Yes, it is."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Is your street quiet?",
+          "speaker_a": "B",
+          "a": "Yes, it is."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U11-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đường phố”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "street"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "s",
+        "t",
+        "t",
+        "e",
+        "e",
+        "r"
+      ],
+      "hint": "đường phố",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “con đường”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "road"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+          },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "r",
+        "d",
+        "a"
+      ],
+      "hint": "con đường",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nhộn nhịp”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "busy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "y",
+        "u",
+        "s",
+        "b"
+      ],
+      "hint": "nhộn nhịp",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “yên tĩnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "quiet"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "i",
+        "u",
+        "t",
+        "q"
+      ],
+      "hint": "yên tĩnh",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “ồn ào”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "noisy"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "y",
+        "i",
+        "o",
+        "s"
+      ],
+      "hint": "ồn ào",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “thị trấn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "town"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "t",
+        "o",
+        "w"
+      ],
+      "hint": "thị trấn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “thành phố”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "city"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "i",
+        "c",
+        "y"
+      ],
+      "hint": "thành phố",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “to lớn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "big"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "i",
+        "b",
+        "g"
+      ],
+      "hint": "to lớn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nhỏ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "small"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "l",
+        "l",
+        "a",
+        "m",
+        "s"
+      ],
+      "hint": "nhỏ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “làng quê”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "village"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "l",
+        "v",
+        "e",
+        "i",
+        "l",
+        "g",
+        "a"
+      ],
+      "hint": "làng quê",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đường phố”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "street"
+      ],
+      "status": "approved",
+      "explanation": "“street” có nghĩa là “đường phố”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "big",
+        "street",
+        "quiet",
+        "small"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “con đường”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "road"
+      ],
+      "status": "approved",
+      "explanation": "“road” có nghĩa là “con đường”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "hotel",
+        "big",
+        "road",
+        "street"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nhộn nhịp”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "busy"
+      ],
+      "status": "approved",
+      "explanation": "“busy” có nghĩa là “nhộn nhịp”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "town",
+        "busy",
+        "city",
+        "noisy"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “yên tĩnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "quiet"
+      ],
+      "status": "approved",
+      "explanation": "“quiet” có nghĩa là “yên tĩnh”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "quiet",
+        "hotel",
+        "road",
+        "city"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “ồn ào”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "noisy"
+      ],
+      "status": "approved",
+      "explanation": "“noisy” có nghĩa là “ồn ào”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "hotel",
+        "busy",
+        "noisy",
+        "street"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thị trấn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "town"
+      ],
+      "status": "approved",
+      "explanation": "“town” có nghĩa là “thị trấn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "flat",
+        "noisy",
+        "town",
+        "quiet"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thành phố”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "city"
+      ],
+      "status": "approved",
+      "explanation": "“city” có nghĩa là “thành phố”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "village",
+        "city",
+        "big",
+        "street"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+        },
+    {
+      "id": "U11-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “to lớn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "big"
+      ],
+      "status": "approved",
+      "explanation": "“big” có nghĩa là “to lớn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "busy",
+        "big",
+        "road",
+        "flat"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nhỏ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "small"
+      ],
+      "status": "approved",
+      "explanation": "“small” có nghĩa là “nhỏ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "village",
+        "flat",
+        "small",
+        "street"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “làng quê”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "village"
+      ],
+      "status": "approved",
+      "explanation": "“village” có nghĩa là “làng quê”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "village",
+        "hotel",
+        "road",
+        "city"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where do you live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I live in a village."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where do you live? — I live in a village.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She lives in a town.",
+        "I am from Japan.",
+        "I live in a village.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does she live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She lives in a town."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does she live? — She lives in a town.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "Yes, I can.",
+        "They are my friends.",
+        "She lives in a town."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What’s the street like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s busy."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What’s the street like? — It’s busy.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "It’s busy.",
+        "At seven o’clock.",
+        "I live in a village."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where do they live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They live in a city."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where do they live? — They live in a city.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "Yes, I can.",
+        "They live in a city.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is your street quiet?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is your street quiet? — Yes, it is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "No, I don’t.",
+        "She lives in a town.",
+        "Yes, I can.",
+        "Yes, it is."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where do you live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I live in a village."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where do you live? — I live in a village.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I can.",
+        "No, I don’t.",
+        "I live in a village.",
+        "It is a pencil."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where does she live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She lives in a town."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where does she live? — She lives in a town.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "I live in a village.",
+        "It is a pencil.",
+        "She lives in a town."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What’s the street like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s busy."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What’s the street like? — It’s busy.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "No, I don’t.",
+        "I live in a village.",
+        "It’s busy."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where do they live?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They live in a city."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where do they live? — They live in a city.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She lives in a town.",
+        "It’s busy.",
+        "They live in a city.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is your street quiet?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is your street quiet? — Yes, it is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I live in a village.",
+        "Yes, I can.",
+        "Yes, it is.",
+        "It’s busy."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where do you live?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where do you live?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "you",
+        "live",
+        "do",
+        "Where",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where does she live?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where does she live?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "does",
+        "Where",
+        "live",
+        "she",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What’s the street like?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What’s the street like?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "street",
+        "?",
+        "like",
+        "the",
+        "What’s"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where do they live?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where do they live?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "they",
+        "live",
+        "do",
+        "?",
+        "Where"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Is your street quiet?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Is your street quiet?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "quiet",
+        "your",
+        "street",
+        "?",
+        "Is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I live in a village."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: I live in a village.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "a",
+        "in",
+        "I",
+        ".",
+        "live",
+        "village"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She lives in a town."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: She lives in a town.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "in",
+        "She",
+        "lives",
+        "a",
+        "town",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s busy."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: It’s busy.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "busy",
+        "It’s"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They live in a city."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They live in a city.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "a",
+        "city",
+        "They",
+        "live",
+        "in",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it is."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, it is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "it",
+        ",",
+        "is",
+        "Yes",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q041",
+      "type": "true_false",
+      "prompt": "Mai lives in a small village.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q042",
+      "type": "true_false",
+      "prompt": "Ben lives in a quiet village.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q043",
+      "type": "true_false",
+      "prompt": "Mai lives near a quiet road.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q044",
+      "type": "true_false",
+      "prompt": "Ben lives in a house on a quiet street.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q045",
+      "type": "true_false",
+      "prompt": "Mai and Ben are good friends.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Mai"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Mai”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "town",
+        "Mai",
+        "hotel",
+        "big"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "village"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “village”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "village",
+        "big",
+        "hotel",
+        "town"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Ben"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Ben”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "hotel",
+        "town",
+        "big",
+        "Ben"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "city"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “city”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "hotel",
+        "town",
+        "big",
+        "city"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U11-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "quiet"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “quiet”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 11; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 11,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "quiet",
+        "hotel",
+        "big",
+        "town"
+      ],
+      "passage": "Mai lives in a small village. Her friend Ben lives in a busy city. Mai lives in a house near a quiet road. Ben lives in a flat on a noisy street. They are good friends.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U11-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U11-Q001",
+        "U11-Q002",
+        "U11-Q003",
+        "U11-Q004",
+        "U11-Q005",
+        "U11-Q006",
+        "U11-Q007",
+        "U11-Q008",
+        "U11-Q009",
+        "U11-Q010"
+      ]
+    },
+    {
+      "id": "U11-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U11-Q011",
+        "U11-Q012",
+        "U11-Q013",
+        "U11-Q014",
+        "U11-Q015",
+        "U11-Q016",
+        "U11-Q017",
+        "U11-Q018",
+        "U11-Q019",
+        "U11-Q020"
+      ]
+    },
+    {
+      "id": "U11-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U11-Q021",
+        "U11-Q022",
+        "U11-Q023",
+        "U11-Q024",
+        "U11-Q025",
+        "U11-Q026",
+        "U11-Q027",
+        "U11-Q028",
+        "U11-Q029",
+        "U11-Q030"
+      ]
+    },
+    {
+      "id": "U11-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U11-Q031",
+        "U11-Q032",
+        "U11-Q033",
+        "U11-Q034",
+        "U11-Q035",
+        "U11-Q036",
+        "U11-Q037",
+        "U11-Q038",
+        "U11-Q039",
+        "U11-Q040"
+      ]
+    },
+    {
+      "id": "U11-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U11-Q041",
+        "U11-Q042",
+        "U11-Q043",
+        "U11-Q044",
+        "U11-Q045",
+        "U11-Q046",
+        "U11-Q047",
+        "U11-Q048",
+        "U11-Q049",
+        "U11-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

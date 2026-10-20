@@ -1,0 +1,1579 @@
+{
+  "unit_id": 2,
+  "unit_number": 2,
+  "title": "Unit 2: Time and daily routines",
+  "title_vi": "Thời gian và các hoạt động hằng ngày",
+  "semester": 1,
+  "grade": 4,
+  "description": "Tell the time and ask when people do daily activities.",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed pages 23–35",
+  "vocabulary": [
+    {
+      "id": "U02-V01",
+      "word": "get up",
+      "meaning": "thức dậy",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I get up at six o’clock.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V02",
+      "word": "have breakfast",
+      "meaning": "ăn sáng",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I have breakfast at six thirty.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V03",
+      "word": "go to school",
+      "meaning": "đi học",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I go to school at seven o’clock.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V04",
+      "word": "go to bed",
+      "meaning": "đi ngủ",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I go to bed at nine thirty.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V05",
+      "word": "thirty",
+      "meaning": "ba mươi",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "It’s six thirty.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V06",
+      "word": "forty-five",
+      "meaning": "bốn mươi lăm",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "It’s five forty-five.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V07",
+      "word": "have lunch",
+      "meaning": "ăn trưa",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I have lunch at eleven thirty.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V08",
+      "word": "have dinner",
+      "meaning": "ăn tối",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I have dinner at seven o’clock.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V09",
+      "word": "do homework",
+      "meaning": "làm bài tập về nhà",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I do my homework in the evening.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V10",
+      "word": "watch TV",
+      "meaning": "xem ti vi",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "I watch TV after dinner.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V11",
+      "word": "o’clock",
+      "meaning": "giờ đúng",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "It’s two o’clock.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    },
+    {
+      "id": "U02-V12",
+      "word": "fifteen",
+      "meaning": "mười lăm",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "It’s seven fifteen.",
+      "example_vi": "",
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.23, Vocabulary"
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U02-P1",
+      "title": "Telling the time",
+      "title_vi": "Hỏi và trả lời về giờ",
+      "question": "What time is it?",
+      "answer": "It’s + time.",
+      "explanation_vi": "Hỏi và trả lời về giờ",
+      "highlights": [
+        "What time is it?",
+        "It’s + time."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What time is it?",
+          "speaker_a": "B",
+          "a": "It’s six forty."
+        }
+      ],
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.24, Structures"
+    },
+    {
+      "id": "U02-P2",
+      "title": "Asking about your daily routine",
+      "title_vi": "Hỏi thời gian thực hiện hoạt động của bạn",
+      "question": "What time do you + activity?",
+      "answer": "I + activity + at + time.",
+      "explanation_vi": "Hỏi thời gian thực hiện hoạt động của bạn",
+      "highlights": [
+        "What time do you + activity?",
+        "I + activity + at + time."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What time do you get up?",
+          "speaker_a": "B",
+          "a": "I get up at five forty-five."
+        }
+      ],
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.24, Structures"
+    },
+    {
+      "id": "U02-P3",
+      "title": "Asking about someone else’s routine",
+      "title_vi": "Hỏi thời gian hoạt động của người khác",
+      "question": "What time does he/she + base verb?",
+      "answer": "He/She + verb(s/es) + at + time.",
+      "explanation_vi": "Hỏi thời gian hoạt động của người khác",
+      "highlights": [
+        "What time does he/she + base verb?",
+        "He/She + verb(s/es) + at + time."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What time does he go to school?",
+          "speaker_a": "B",
+          "a": "He goes to school at six thirty."
+        }
+      ],
+      "status": "draft",
+      "source": "BTBT 4 TẬP 1.pdf, printed p.24, Structures"
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U02-W01",
+      "title": "Worksheet 1: Vocabulary Practice",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Bản nháp cần cô Hường kiểm duyệt trước khi chấm điểm chính thức.",
+      "question_ids": [
+        "U02-Q001",
+        "U02-Q002",
+        "U02-Q003",
+        "U02-Q004",
+        "U02-Q005",
+        "U02-Q006",
+        "U02-Q007",
+        "U02-Q008",
+        "U02-Q009",
+        "U02-Q010",
+        "U02-Q011",
+        "U02-Q012"
+      ]
+    },
+    {
+      "id": "U02-W02",
+      "title": "Worksheet 2: Word Skills & Grammar",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Bản nháp cần cô Hường kiểm duyệt trước khi chấm điểm chính thức.",
+      "question_ids": [
+        "U02-Q013",
+        "U02-Q014",
+        "U02-Q015",
+        "U02-Q016",
+        "U02-Q017",
+        "U02-Q018",
+        "U02-Q019",
+        "U02-Q020",
+        "U02-Q021",
+        "U02-Q022"
+      ]
+    },
+    {
+      "id": "U02-W03",
+      "title": "Worksheet 3: Sentence Building",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Bản nháp cần cô Hường kiểm duyệt trước khi chấm điểm chính thức.",
+      "question_ids": [
+        "U02-Q023",
+        "U02-Q024",
+        "U02-Q025",
+        "U02-Q026",
+        "U02-Q027",
+        "U02-Q028",
+        "U02-Q029",
+        "U02-Q030",
+        "U02-Q031",
+        "U02-Q032",
+        "U02-Q033",
+        "U02-Q034",
+        "U02-Q035",
+        "U02-Q036",
+        "U02-Q037"
+      ]
+    },
+    {
+      "id": "U02-W04",
+      "title": "Worksheet 4: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Bản nháp cần cô Hường kiểm duyệt trước khi chấm điểm chính thức.",
+      "question_ids": [
+        "U02-Q038",
+        "U02-Q039",
+        "U02-Q040",
+        "U02-Q041",
+        "U02-Q042",
+        "U02-Q043",
+        "U02-Q044",
+        "U02-Q045",
+        "U02-Q046",
+        "U02-Q047",
+        "U02-Q048",
+        "U02-Q049",
+        "U02-Q050"
+      ]
+    },
+    {
+      "id": "U02-W05",
+      "title": "Worksheet 5: Time & Unit Review",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Bản nháp cần cô Hường kiểm duyệt trước khi chấm điểm chính thức.",
+      "question_ids": [
+        "U02-Q051",
+        "U02-Q052",
+        "U02-Q053",
+        "U02-Q054",
+        "U02-Q055",
+        "U02-Q056",
+        "U02-Q057",
+        "U02-Q058",
+        "U02-Q059",
+        "U02-Q060"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U02-Q001",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ at six o’clock. (wake up)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "get up"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "I ____ at six o’clock. (wake up)",
+      "options": [
+        "get up",
+        "go to bed",
+        "have dinner",
+        "watch TV"
+      ]
+    },
+    {
+      "id": "U02-Q002",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ at seven o’clock. (morning meal)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "have breakfast"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "I ____ at seven o’clock. (morning meal)",
+      "options": [
+        "have breakfast",
+        "have lunch",
+        "go to bed",
+        "watch TV"
+      ]
+    },
+    {
+      "id": "U02-Q003",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ at seven o’clock. (travel to class)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go to school"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "I ____ at seven o’clock. (travel to class)",
+      "options": [
+        "go to school",
+        "go to bed",
+        "have dinner",
+        "get up"
+      ]
+    },
+    {
+      "id": "U02-Q004",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ at nine thirty. (sleep)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "go to bed"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "I ____ at nine thirty. (sleep)",
+      "options": [
+        "go to bed",
+        "get up",
+        "have lunch",
+        "watch TV"
+      ]
+    },
+    {
+      "id": "U02-Q005",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ at eleven thirty. (midday meal)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "have lunch"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "I ____ at eleven thirty. (midday meal)",
+      "options": [
+        "have lunch",
+        "have breakfast",
+        "go to school",
+        "watch TV"
+      ]
+    },
+    {
+      "id": "U02-Q006",
+      "type": "fill_in_the_blank",
+      "prompt": "I ____ at seven in the evening. (evening meal)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "have dinner"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "I ____ at seven in the evening. (evening meal)",
+      "options": [
+        "have dinner",
+        "have breakfast",
+        "go to school",
+        "get up"
+      ]
+    },
+    {
+      "id": "U02-Q007",
+      "type": "fill_in_the_blank",
+      "prompt": "After school, I ____ . (school assignments)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do homework"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "After school, I ____ . (school assignments)",
+      "options": [
+        "do homework",
+        "have lunch",
+        "go to bed",
+        "get up"
+      ]
+    },
+    {
+      "id": "U02-Q008",
+      "type": "fill_in_the_blank",
+      "prompt": "In the evening, I ____ . (television)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "watch TV"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "In the evening, I ____ . (television)",
+      "options": [
+        "watch TV",
+        "go to school",
+        "have breakfast",
+        "get up"
+      ]
+    },
+    {
+      "id": "U02-Q009",
+      "type": "fill_in_the_blank",
+      "prompt": "It’s six ____ . (6:30)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "thirty"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "It’s six ____ . (6:30)",
+      "options": [
+        "thirty",
+        "fifteen",
+        "o’clock",
+        "forty-five"
+      ]
+    },
+    {
+      "id": "U02-Q010",
+      "type": "fill_in_the_blank",
+      "prompt": "It’s seven ____ . (7:15)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "fifteen"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "It’s seven ____ . (7:15)",
+      "options": [
+        "fifteen",
+        "thirty",
+        "forty-five",
+        "o’clock"
+      ]
+    },
+    {
+      "id": "U02-Q011",
+      "type": "fill_in_the_blank",
+      "prompt": "It’s five ____ . (5:45)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "forty-five"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "It’s five ____ . (5:45)",
+      "options": [
+        "forty-five",
+        "thirty",
+        "fifteen",
+        "o’clock"
+      ]
+    },
+    {
+      "id": "U02-Q012",
+      "type": "fill_in_the_blank",
+      "prompt": "It’s two ____ . (2:00)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "o’clock"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.28, Reading & Writing Exercise 4; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "sentence_template": "It’s two ____ . (2:00)",
+      "options": [
+        "o’clock",
+        "thirty",
+        "fifteen",
+        "forty-five"
+      ]
+    },
+    {
+      "id": "U02-Q013",
+      "type": "multiple_choice",
+      "prompt": "It is 5:00. What time is it?",
+      "prompt_vi": "Nhìn thời gian 5:00 và chọn câu trả lời đúng.",
+      "correct_answers": [
+        "It’s five o’clock."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app; context added for unambiguous answer",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "It’s five o’clock.",
+        "Five time.",
+        "It ten.",
+        "It’s fiveteen."
+      ]
+    },
+    {
+      "id": "U02-Q014",
+      "type": "multiple_choice",
+      "prompt": "What time ____ it?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "is"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "are",
+        "is",
+        "on",
+        "at"
+      ]
+    },
+    {
+      "id": "U02-Q015",
+      "type": "multiple_choice",
+      "prompt": "What time is it? – It ____ nine o’clock.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "is"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "are",
+        "under",
+        "is",
+        "behind"
+      ]
+    },
+    {
+      "id": "U02-Q016",
+      "type": "multiple_choice",
+      "prompt": "What ____ do you get up?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "time"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "have",
+        "look",
+        "time",
+        "do"
+      ]
+    },
+    {
+      "id": "U02-Q017",
+      "type": "multiple_choice",
+      "prompt": "What time ____ you have lunch?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "do",
+        "does",
+        "he",
+        "she"
+      ]
+    },
+    {
+      "id": "U02-Q018",
+      "type": "multiple_choice",
+      "prompt": "I have dinner ____ six thirty.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for"
+      ]
+    },
+    {
+      "id": "U02-Q019",
+      "type": "multiple_choice",
+      "prompt": "What time ____ she go to bed?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "does"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "do",
+        "on",
+        "in",
+        "does"
+      ]
+    },
+    {
+      "id": "U02-Q020",
+      "type": "multiple_choice",
+      "prompt": "____ time do you have lunch?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "When",
+        "How",
+        "Who",
+        "What"
+      ]
+    },
+    {
+      "id": "U02-Q021",
+      "type": "multiple_choice",
+      "prompt": "I have ____ at eleven o’clock in the morning.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "lunch"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "go to bed"
+      ]
+    },
+    {
+      "id": "U02-Q022",
+      "type": "multiple_choice",
+      "prompt": "She always gets ____ at six o’clock.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "up"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.29, Reading & Writing Exercise 5; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "gets",
+        "up",
+        "ups",
+        "have"
+      ]
+    },
+    {
+      "id": "U02-Q023",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Anna has breakfast at 7 o’clock."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "breakfast",
+        "Anna",
+        "at",
+        "has",
+        "7 o’clock",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q024",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time do you go to school?"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "you",
+        "What",
+        "go",
+        "do",
+        "time",
+        "school",
+        "to",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q025",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time does he get up?"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "up",
+        "does",
+        "he",
+        "time",
+        "What",
+        "get",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q026",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time is it?"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "time",
+        "is",
+        "What",
+        "it",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q027",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Lisa does her homework at 7.30."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "homework",
+        "Lisa",
+        "at",
+        "does",
+        "7.30",
+        "her",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q028",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Peter plays football at 5 o’clock."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "football",
+        "Peter",
+        "at",
+        "plays",
+        "5 o’clock",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q029",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Linh has lunch at eleven o’clock."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "Linh",
+        "lunch",
+        "eleven o’clock",
+        "has",
+        "at",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q030",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct question about daily routines.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time do they have breakfast?"
+      ],
+      "status": "approved",
+      "explanation": "Sắp xếp theo cấu trúc hỏi/đáp thời gian của Unit 2.",
+      "source": "Teacher-authored replacement based on Unit 2 target patterns; not a verbatim source exercise",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "breakfast",
+        "they",
+        "do",
+        "time",
+        "What",
+        "have",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct question about bedtime.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time does she go to bed?"
+      ],
+      "status": "approved",
+      "explanation": "Sắp xếp theo cấu trúc hỏi/đáp thời gian của Unit 2.",
+      "source": "Teacher-authored replacement based on Unit 2 target patterns; not a verbatim source exercise",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "bed",
+        "go",
+        "does",
+        "she",
+        "time",
+        "to",
+        "What",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence about a daily routine.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She watches TV at seven o’clock."
+      ],
+      "status": "approved",
+      "explanation": "Sắp xếp theo cấu trúc hỏi/đáp thời gian của Unit 2.",
+      "source": "Teacher-authored replacement based on Unit 2 target patterns; not a verbatim source exercise",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "TV",
+        "watches",
+        "at",
+        "She",
+        "seven o’clock",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time does your mother get up?"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "mother",
+        "does",
+        "What",
+        "get",
+        "time",
+        "up",
+        "your",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct question about school time.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What time does he go to school?"
+      ],
+      "status": "approved",
+      "explanation": "Sắp xếp theo cấu trúc hỏi/đáp thời gian của Unit 2.",
+      "source": "Teacher-authored replacement based on Unit 2 target patterns; not a verbatim source exercise",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "school",
+        "does",
+        "to",
+        "What",
+        "go",
+        "he",
+        "time",
+        "?"
+      ]
+    },
+    {
+      "id": "U02-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I go to school at 7 o’clock in the morning."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.30, Reading & Writing Exercise 6; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "I",
+        "school",
+        "to",
+        "at",
+        "7 o’clock",
+        "go",
+        "in the morning",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He gets up at 5:45."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.35, Reading & Writing Exercise 12; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "he",
+        "gets up",
+        "at",
+        "5:45",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Your sister watches TV at 8 p.m."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.35, Reading & Writing Exercise 12; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "words": [
+        "your sister",
+        "watches TV",
+        "at",
+        "8 p.m.",
+        "."
+      ]
+    },
+    {
+      "id": "U02-Q038",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh get up?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "6:00"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "6:00",
+        "5:30",
+        "7:00",
+        "9:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q039",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh’s father get up?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "5:30"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "5:30",
+        "6:00",
+        "7:15",
+        "10:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q040",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh have breakfast?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "6:00"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "6:00",
+        "6:30",
+        "7:00",
+        "5:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q041",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh’s mother go to work?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "7:15"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "7:15",
+        "7:00",
+        "5:30",
+        "6:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q042",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh go to bed?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "9:30"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "9:30",
+        "10:30",
+        "5:00",
+        "6:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q043",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh’s mother go to bed?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "10:30"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "10:30",
+        "9:30",
+        "7:15",
+        "6:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q044",
+      "type": "multiple_choice",
+      "prompt": "What time does Linh go home?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "5:00"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.32, Reading & Writing Exercise 8; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "5:00",
+        "5:30",
+        "7:00",
+        "6:30"
+      ],
+      "passage": "My name is Linh and this is my Mom and my Dad. Every day, in the morning, I get up at six o’clock. My mom and dad get up at 5.30. I have breakfast with my family at 6 then I go to school at 7 o’clock. My mom goes to work at 7.15. My Dad goes to work at 7.15, too. I go to school by bike. My mom and dad go to work by motorbike. I go home at 5 o’clock. My mom goes home at 5.30 and cooks dinner. We have dinner at 6.30 p.m. I go to bed at 9.30. My parents go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q045",
+      "type": "multiple_choice",
+      "prompt": "What time does the writer get up?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "6:00"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.33, Reading & Writing Exercise 10; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "6:00",
+        "6:30",
+        "7:00",
+        "7:30"
+      ],
+      "passage": "Every day, I get up at 6 o’clock. I have breakfast with my family at 6.30 then I ride my bike to school at 7 o’clock. My school starts at 7.30. I have five lessons in the morning. I have lunch at 11.30 at the school canteen. After that I have three lessons in the afternoon. I go home at 5.30. I have dinner at 7 p.m. I do my homework and read a comic book then I go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q046",
+      "type": "multiple_choice",
+      "prompt": "What time does the writer go home?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "5:30"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.33, Reading & Writing Exercise 10; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "5:30",
+        "5:00",
+        "7:00",
+        "10:30"
+      ],
+      "passage": "Every day, I get up at 6 o’clock. I have breakfast with my family at 6.30 then I ride my bike to school at 7 o’clock. My school starts at 7.30. I have five lessons in the morning. I have lunch at 11.30 at the school canteen. After that I have three lessons in the afternoon. I go home at 5.30. I have dinner at 7 p.m. I do my homework and read a comic book then I go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q047",
+      "type": "multiple_choice",
+      "prompt": "How many lessons does the writer have in the morning?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "five"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.33, Reading & Writing Exercise 10; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "five",
+        "four",
+        "three",
+        "six"
+      ],
+      "passage": "Every day, I get up at 6 o’clock. I have breakfast with my family at 6.30 then I ride my bike to school at 7 o’clock. My school starts at 7.30. I have five lessons in the morning. I have lunch at 11.30 at the school canteen. After that I have three lessons in the afternoon. I go home at 5.30. I have dinner at 7 p.m. I do my homework and read a comic book then I go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q048",
+      "type": "multiple_choice",
+      "prompt": "Does the writer have four lessons in the afternoon?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.33, Reading & Writing Exercise 10; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "passage": "Every day, I get up at 6 o’clock. I have breakfast with my family at 6.30 then I ride my bike to school at 7 o’clock. My school starts at 7.30. I have five lessons in the morning. I have lunch at 11.30 at the school canteen. After that I have three lessons in the afternoon. I go home at 5.30. I have dinner at 7 p.m. I do my homework and read a comic book then I go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q049",
+      "type": "multiple_choice",
+      "prompt": "What time does the writer have lunch?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "11:30"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.33, Reading & Writing Exercise 10; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "11:30",
+        "6:30",
+        "7:30",
+        "5:30"
+      ],
+      "passage": "Every day, I get up at 6 o’clock. I have breakfast with my family at 6.30 then I ride my bike to school at 7 o’clock. My school starts at 7.30. I have five lessons in the morning. I have lunch at 11.30 at the school canteen. After that I have three lessons in the afternoon. I go home at 5.30. I have dinner at 7 p.m. I do my homework and read a comic book then I go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q050",
+      "type": "multiple_choice",
+      "prompt": "What time does the writer have dinner?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "7:00 p.m."
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.33, Reading & Writing Exercise 10; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "7:00 p.m.",
+        "5:30 p.m.",
+        "6:30 a.m.",
+        "10:30 p.m."
+      ],
+      "passage": "Every day, I get up at 6 o’clock. I have breakfast with my family at 6.30 then I ride my bike to school at 7 o’clock. My school starts at 7.30. I have five lessons in the morning. I have lunch at 11.30 at the school canteen. After that I have three lessons in the afternoon. I go home at 5.30. I have dinner at 7 p.m. I do my homework and read a comic book then I go to bed at 10.30."
+    },
+    {
+      "id": "U02-Q051",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct written time for 6:30.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "six thirty"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.27, Reading & Writing Exercise 2; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "six thirty",
+        "six fifteen",
+        "six forty-five",
+        "six o’clock"
+      ]
+    },
+    {
+      "id": "U02-Q052",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct written time for 10:00.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ten o’clock"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.27, Reading & Writing Exercise 2; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "ten o’clock",
+        "ten thirty",
+        "ten fifteen",
+        "ten forty-five"
+      ]
+    },
+    {
+      "id": "U02-Q053",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct written time for 7:15.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "seven fifteen"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.27, Reading & Writing Exercise 2; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "seven fifteen",
+        "seven thirty",
+        "seven forty-five",
+        "seven o’clock"
+      ]
+    },
+    {
+      "id": "U02-Q054",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct written time for 4:45.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "four forty-five"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.27, Reading & Writing Exercise 2; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "four forty-five",
+        "four fifteen",
+        "four thirty",
+        "four o’clock"
+      ]
+    },
+    {
+      "id": "U02-Q055",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct written time for 11:00.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "eleven o’clock"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.27, Reading & Writing Exercise 2; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "eleven o’clock",
+        "eleven fifteen",
+        "eleven thirty",
+        "eleven forty-five"
+      ]
+    },
+    {
+      "id": "U02-Q056",
+      "type": "multiple_choice",
+      "prompt": "Choose the correct written time for 9:15.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "nine fifteen"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.27, Reading & Writing Exercise 2; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "nine fifteen",
+        "nine o’clock",
+        "nine thirty",
+        "nine forty-five"
+      ]
+    },
+    {
+      "id": "U02-Q057",
+      "type": "multiple_choice",
+      "prompt": "What time ____ Nick get up?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "does"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.35, Reading & Writing Exercise 12; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "id": "U02-Q058",
+      "type": "multiple_choice",
+      "prompt": "Nick ____ up at six thirty.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gets"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.35, Reading & Writing Exercise 12; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "get",
+        "gets",
+        "getting",
+        "is get"
+      ]
+    },
+    {
+      "id": "U02-Q059",
+      "type": "multiple_choice",
+      "prompt": "What time ____ you go to school?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "do"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.35, Reading & Writing Exercise 12; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "does",
+        "do",
+        "is",
+        "are"
+      ]
+    },
+    {
+      "id": "U02-Q060",
+      "type": "multiple_choice",
+      "prompt": "I go to school ____ seven o’clock.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at"
+      ],
+      "status": "approved",
+      "explanation": "",
+      "source": "BTBT 4 TẬP 1.pdf, Unit 2, printed p.35, Reading & Writing Exercise 12; adapted for web app",
+      "review_note_vi": "Đã kiểm tra nội dung, dữ kiện và đáp án; cần kiểm thử giao diện và chấm điểm trên app.",
+      "review_level": "content_and_key_checked_pending_ui",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ]
+    }
+  ]
+}

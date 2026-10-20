@@ -1,0 +1,1623 @@
+{
+  "unit_id": 13,
+  "unit_number": 13,
+  "title": "Unit 13: Appearance",
+  "title_vi": "Ngoại hình",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề Appearance.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U13-V001",
+      "word": "tall",
+      "meaning": "cao",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V002",
+      "word": "short",
+      "meaning": "thấp hoặc ngắn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V003",
+      "word": "slim",
+      "meaning": "mảnh mai",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V004",
+      "word": "a round face",
+      "meaning": "khuôn mặt tròn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V005",
+      "word": "short hair",
+      "meaning": "tóc ngắn",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V006",
+      "word": "long hair",
+      "meaning": "tóc dài",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V007",
+      "word": "big eyes",
+      "meaning": "đôi mắt to",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V008",
+      "word": "small eyes",
+      "meaning": "đôi mắt nhỏ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V009",
+      "word": "handsome",
+      "meaning": "đẹp trai",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V010",
+      "word": "beautiful",
+      "meaning": "xinh đẹp",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V011",
+      "word": "old",
+      "meaning": "già",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U13-V012",
+      "word": "young",
+      "meaning": "trẻ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U13-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What does she look like?",
+      "answer": "She is tall.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does she look like?",
+        "She is tall."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does she look like?",
+          "speaker_a": "B",
+          "a": "She is tall."
+        }
+      ]
+    },
+    {
+      "id": "U13-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "What does he look like?",
+      "answer": "He has short hair.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does he look like?",
+        "He has short hair."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does he look like?",
+          "speaker_a": "B",
+          "a": "He has short hair."
+        }
+      ]
+    },
+    {
+      "id": "U13-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "Is she tall?",
+      "answer": "Yes, she is.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Is she tall?",
+        "Yes, she is."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Is she tall?",
+          "speaker_a": "B",
+          "a": "Yes, she is."
+        }
+      ]
+    },
+    {
+      "id": "U13-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Does she have long hair?",
+      "answer": "Yes, she does.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Does she have long hair?",
+        "Yes, she does."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Does she have long hair?",
+          "speaker_a": "B",
+          "a": "Yes, she does."
+        }
+      ]
+    },
+    {
+      "id": "U13-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "What does your brother look like?",
+      "answer": "He has big eyes.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What does your brother look like?",
+        "He has big eyes."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What does your brother look like?",
+          "speaker_a": "B",
+          "a": "He has big eyes."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U13-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cao”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "tall"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "t",
+        "l",
+        "l"
+      ],
+      "hint": "cao",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “thấp hoặc ngắn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "short"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "t",
+        "s",
+        "r",
+        "o"
+      ],
+      "hint": "thấp hoặc ngắn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “mảnh mai”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "slim"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "i",
+        "l",
+        "s",
+        "m"
+      ],
+      "hint": "mảnh mai",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “khuôn mặt tròn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "a round face"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "c",
+        "d",
+        "a",
+        "a",
+        "r",
+        "o",
+        "u",
+        "f",
+        "n"
+      ],
+      "hint": "khuôn mặt tròn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “tóc ngắn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "short hair"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "s",
+        "r",
+        "t",
+        "o",
+        "h",
+        "r",
+        "h",
+        "a",
+        "i"
+      ],
+      "hint": "tóc ngắn",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “tóc dài”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "long hair"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "a",
+        "h",
+        "g",
+        "i",
+        "l",
+        "r",
+        "n"
+      ],
+      "hint": "tóc dài",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đôi mắt to”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "big eyes"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "g",
+        "b",
+        "y",
+        "i",
+        "e",
+        "s"
+      ],
+      "hint": "đôi mắt to",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đôi mắt nhỏ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "small eyes"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "e",
+        "m",
+        "e",
+        "a",
+        "y",
+        "l",
+        "s",
+        "l",
+        "s"
+      ],
+      "hint": "đôi mắt nhỏ",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đẹp trai”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "handsome"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "s",
+        "e",
+        "o",
+        "n",
+        "d",
+        "h",
+        "a",
+        "m"
+      ],
+      "hint": "đẹp trai",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “xinh đẹp”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "beautiful"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "b",
+        "t",
+        "u",
+        "e",
+        "f",
+        "l",
+        "u",
+        "a",
+        "i"
+      ],
+      "hint": "xinh đẹp",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cao”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "tall"
+      ],
+      "status": "approved",
+      "explanation": "“tall” có nghĩa là “cao”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "small eyes",
+        "handsome",
+        "tall",
+        "big eyes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thấp hoặc ngắn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "short"
+      ],
+      "status": "approved",
+      "explanation": "“short” có nghĩa là “thấp hoặc ngắn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "short",
+        "beautiful",
+        "old",
+        "slim"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “mảnh mai”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "slim"
+      ],
+      "status": "approved",
+      "explanation": "“slim” có nghĩa là “mảnh mai”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "long hair",
+        "old",
+        "small eyes",
+        "slim"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “khuôn mặt tròn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "a round face"
+      ],
+      "status": "approved",
+      "explanation": "“a round face” có nghĩa là “khuôn mặt tròn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "a round face",
+        "short hair",
+        "old",
+        "long hair"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “tóc ngắn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "short hair"
+      ],
+      "status": "approved",
+      "explanation": "“short hair” có nghĩa là “tóc ngắn”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "big eyes",
+        "short hair",
+        "slim",
+        "short"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “tóc dài”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "long hair"
+      ],
+      "status": "approved",
+      "explanation": "“long hair” có nghĩa là “tóc dài”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "big eyes",
+        "long hair",
+        "slim",
+        "tall"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đôi mắt to”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "big eyes"
+      ],
+      "status": "approved",
+      "explanation": "“big eyes” có nghĩa là “đôi mắt to”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "beautiful",
+        "short",
+        "big eyes",
+        "short hair"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đôi mắt nhỏ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "small eyes"
+      ],
+      "status": "approved",
+      "explanation": "“small eyes” có nghĩa là “đôi mắt nhỏ”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "long hair",
+        "big eyes",
+        "beautiful",
+        "small eyes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “xinh đẹp”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "beautiful"
+      ],
+      "status": "approved",
+      "explanation": "“beautiful” có nghĩa là “xinh đẹp”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "tall",
+        "handsome",
+        "beautiful",
+        "big eyes"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đẹp trai”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "handsome"
+      ],
+      "status": "approved",
+      "explanation": "“handsome” có nghĩa là “đẹp trai”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "slim",
+        "small eyes",
+        "beautiful",
+        "handsome"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does she look like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is tall."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does she look like? — She is tall.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "I am from Japan.",
+        "She is tall.",
+        "Yes, I can."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does he look like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He has short hair."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does he look like? — He has short hair.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They are my friends.",
+        "She is tall.",
+        "Yes, I can.",
+        "He has short hair."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is she tall?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is she tall? — Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, she does.",
+        "It is a pencil.",
+        "They are my friends.",
+        "Yes, she is."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Does she have long hair?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she does."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Does she have long hair? — Yes, she does.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, she does.",
+        "Yes, I can.",
+        "He has big eyes.",
+        "She is tall."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your brother look like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He has big eyes."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your brother look like? — He has big eyes.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "He has big eyes.",
+        "Yes, she does.",
+        "I am from Japan.",
+        "She is tall."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does she look like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is tall."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does she look like? — She is tall.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "He has short hair.",
+        "No, I don’t.",
+        "She is tall.",
+        "I am from Japan."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does he look like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He has short hair."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does he look like? — He has short hair.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, she does.",
+        "He has short hair.",
+        "I am from Japan.",
+        "They are my friends."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is she tall?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is she tall? — Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "She is tall.",
+        "Yes, she is.",
+        "Yes, I can.",
+        "He has short hair."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Does she have long hair?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she does."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Does she have long hair? — Yes, she does.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "He has short hair.",
+        "Yes, she is.",
+        "They are my friends.",
+        "Yes, she does."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử on app."
+    },
+    {
+      "id": "U13-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What does your brother look like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He has big eyes."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What does your brother look like? — He has big eyes.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "He has big eyes.",
+        "Yes, she does.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does she look like?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does she look like?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "does",
+        "she",
+        "look",
+        "?",
+        "What",
+        "like"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does he look like?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does he look like?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "?",
+        "What",
+        "he",
+        "look",
+        "does",
+        "like"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Is she tall?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Is she tall?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "Is",
+        "she",
+        "?",
+        "tall"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Does she have long hair?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Does she have long hair?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "she",
+        "Does",
+        "?",
+        "long",
+        "have",
+        "hair"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What does your brother look like?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What does your brother look like?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "brother",
+        "does",
+        "like",
+        "What",
+        "your",
+        "look",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "She is tall."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: She is tall.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "is",
+        "tall",
+        "She",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He has short hair."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: He has short hair.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "He",
+        "hair",
+        ".",
+        "has",
+        "short"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "she",
+        ".",
+        "Yes",
+        "is",
+        ","
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she does."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, she does.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "Yes",
+        ".",
+        "she",
+        "does",
+        ","
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He has big eyes."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: He has big eyes.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "eyes",
+        "big",
+        "has",
+        ".",
+        "He"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q041",
+      "type": "true_false",
+      "prompt": "The mother has long hair.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q042",
+      "type": "true_false",
+      "prompt": "The father has long hair.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q043",
+      "type": "true_false",
+      "prompt": "The sister is young and slim.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q044",
+      "type": "true_false",
+      "prompt": "The brother has a square face.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q045",
+      "type": "true_false",
+      "prompt": "The father has big eyes.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "mother"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “mother”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "beautiful",
+        "mother",
+        "handsome",
+        "small eyes"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "tall"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “tall”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "tall",
+        "beautiful",
+        "handsome",
+        "small eyes"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "father"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “father”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "handsome",
+        "father",
+        "small eyes",
+        "beautiful"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "short hair"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “short hair”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "small eyes",
+        "short hair",
+        "handsome",
+        "beautiful"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U13-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "slim"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “slim”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 13; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 13,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "handsome",
+        "small eyes",
+        "slim",
+        "beautiful"
+      ],
+      "passage": "This is my family. My mother is tall and has long hair. My father has short hair and big eyes. My sister is young and slim. My brother has a round face. We love our family.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U13-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U13-Q001",
+        "U13-Q002",
+        "U13-Q003",
+        "U13-Q004",
+        "U13-Q005",
+        "U13-Q006",
+        "U13-Q007",
+        "U13-Q008",
+        "U13-Q009",
+        "U13-Q010"
+      ]
+    },
+    {
+      "id": "U13-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U13-Q011",
+        "U13-Q012",
+        "U13-Q013",
+        "U13-Q014",
+        "U13-Q015",
+        "U13-Q016",
+        "U13-Q017",
+        "U13-Q018",
+        "U13-Q019",
+        "U13-Q020"
+      ]
+    },
+    {
+      "id": "U13-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U13-Q021",
+        "U13-Q022",
+        "U13-Q023",
+        "U13-Q024",
+        "U13-Q025",
+        "U13-Q026",
+        "U13-Q027",
+        "U13-Q028",
+        "U13-Q029",
+        "U13-Q030"
+      ]
+    },
+    {
+      "id": "U13-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U13-Q031",
+        "U13-Q032",
+        "U13-Q033",
+        "U13-Q034",
+        "U13-Q035",
+        "U13-Q036",
+        "U13-Q037",
+        "U13-Q038",
+        "U13-Q039",
+        "U13-Q040"
+      ]
+    },
+    {
+      "id": "U13-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U13-Q041",
+        "U13-Q042",
+        "U13-Q043",
+        "U13-Q044",
+        "U13-Q045",
+        "U13-Q046",
+        "U13-Q047",
+        "U13-Q048",
+        "U13-Q049",
+        "U13-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

@@ -1,0 +1,1697 @@
+{
+  "unit_id": 20,
+  "unit_number": 20,
+  "title": "Unit 20: At summer camp",
+  "title_vi": "Ở trại hè",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề At summer camp.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U20-V001",
+      "word": "visit grandparents",
+      "meaning": "thăm ông bà",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V002",
+      "word": "dancing around the campfire",
+      "meaning": "nhảy múa quanh lửa trại",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V003",
+      "word": "playing card games",
+      "meaning": "chơi bài",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V004",
+      "word": "playing tug of war",
+      "meaning": "chơi kéo co",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V005",
+      "word": "singing songs",
+      "meaning": "hát các bài hát",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V006",
+      "word": "telling a story",
+      "meaning": "kể chuyện",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V007",
+      "word": "taking a photo",
+      "meaning": "chụp ảnh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V008",
+      "word": "building a campfire",
+      "meaning": "dựng lửa trại",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V009",
+      "word": "putting up a tent",
+      "meaning": "dựng lều",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V010",
+      "word": "friends",
+      "meaning": "bạn bè",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V011",
+      "word": "girls",
+      "meaning": "các bạn nữ",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U20-V012",
+      "word": "boys",
+      "meaning": "các bạn nam",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U20-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What’s Tom doing?",
+      "answer": "He’s taking a photo.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What’s Tom doing?",
+        "He’s taking a photo."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What’s Tom doing?",
+          "speaker_a": "B",
+          "a": "He’s taking a photo."
+        }
+      ]
+    },
+    {
+      "id": "U20-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "What are the boys doing?",
+      "answer": "They’re playing tug of war.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What are the boys doing?",
+        "They’re playing tug of war."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What are the boys doing?",
+          "speaker_a": "B",
+          "a": "They’re playing tug of war."
+        }
+      ]
+    },
+    {
+      "id": "U20-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "What are you doing?",
+      "answer": "I’m singing songs.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What are you doing?",
+        "I’m singing songs."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What are you doing?",
+          "speaker_a": "B",
+          "a": "I’m singing songs."
+        }
+      ]
+    },
+    {
+      "id": "U20-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "What are the girls doing?",
+      "answer": "They’re putting up a tent.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "What are the girls doing?",
+        "They’re putting up a tent."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What are the girls doing?",
+          "speaker_a": "B",
+          "a": "They’re putting up a tent."
+        }
+      ]
+    },
+    {
+      "id": "U20-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "Is Mai telling a story?",
+      "answer": "Yes, she is.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Is Mai telling a story?",
+        "Yes, she is."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Is Mai telling a story?",
+          "speaker_a": "B",
+          "a": "Yes, she is."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U20-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “thăm ông bà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "visit grandparents"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "v",
+        "n",
+        "s",
+        "r",
+        "r",
+        "t",
+        "a",
+        "s",
+        "g",
+        "a",
+        "e",
+        "p",
+        "i",
+        "t",
+        "i",
+        "d",
+        "n"
+      ],
+      "hint": "thăm ông bà",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “nhảy múa quanh lửa trại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "dancing around the campfire"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "t",
+        "c",
+        "f",
+        "d",
+        "p",
+        "d",
+        "r",
+        "a",
+        "i",
+        "n",
+        "i",
+        "c",
+        "h",
+        "a",
+        "g",
+        "e",
+        "e",
+        "r",
+        "o",
+        "n",
+        "u",
+        "m",
+        "a"
+      ],
+      "hint": "nhảy múa quanh lửa trại",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “chơi bài”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "playing card games"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "d",
+        "e",
+        "m",
+        "n",
+        "a",
+        "g",
+        "g",
+        "r",
+        "a",
+        "y",
+        "s",
+        "l",
+        "i",
+        "a",
+        "c",
+        "p"
+      ],
+      "hint": "chơi bài",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “chơi kéo co”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "playing tug of war"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "y",
+        "w",
+        "f",
+        "g",
+        "g",
+        "a",
+        "t",
+        "n",
+        "a",
+        "r",
+        "u",
+        "l",
+        "o",
+        "p",
+        "i"
+      ],
+      "hint": "chơi kéo co",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “hát các bài hát”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "singing songs"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "g",
+        "s",
+        "i",
+        "i",
+        "n",
+        "s",
+        "o",
+        "n",
+        "g",
+        "g",
+        "n",
+        "s"
+      ],
+      "hint": "hát các bài hát",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “kể chuyện”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "telling a story"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "a",
+        "g",
+        "t",
+        "r",
+        "i",
+        "n",
+        "l",
+        "o",
+        "e",
+        "s",
+        "y",
+        "t",
+        "l"
+      ],
+      "hint": "kể chuyện",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “chụp ảnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "taking a photo"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "i",
+        "k",
+        "n",
+        "t",
+        "a",
+        "p",
+        "a",
+        "g",
+        "h",
+        "t",
+        "o",
+        "o"
+      ],
+      "hint": "chụp ảnh",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “dựng lửa trại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "building a campfire"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "i",
+        "p",
+        "n",
+        "m",
+        "i",
+        "a",
+        "a",
+        "g",
+        "i",
+        "b",
+        "r",
+        "f",
+        "d",
+        "u",
+        "c",
+        "l",
+        "e"
+      ],
+      "hint": "dựng lửa trại",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “dựng lều”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "putting up a tent"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "p",
+        "g",
+        "p",
+        "n",
+        "e",
+        "i",
+        "t",
+        "t",
+        "t",
+        "a",
+        "t",
+        "u",
+        "u",
+        "n"
+      ],
+      "hint": "dựng lều",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “bạn bè”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "friends"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "d",
+        "s",
+        "i",
+        "r",
+        "n",
+        "e",
+        "f"
+      ],
+      "hint": "bạn bè",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “thăm ông bà”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "visit grandparents"
+      ],
+      "status": "approved",
+      "explanation": "“visit grandparents” có nghĩa là “thăm ông bà”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "girls",
+        "building a campfire",
+        "visit grandparents",
+        "taking a photo"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “nhảy múa quanh lửa trại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "dancing around the campfire"
+      ],
+      "status": "approved",
+      "explanation": "“dancing around the campfire” có nghĩa là “nhảy múa quanh lửa trại”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "dancing around the campfire",
+        "girls",
+        "friends",
+        "singing songs"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “chơi bài”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "playing card games"
+      ],
+      "status": "approved",
+      "explanation": "“playing card games” có nghĩa là “chơi bài”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "friends",
+        "boys",
+        "playing card games",
+        "telling a story"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “chơi kéo co”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "playing tug of war"
+      ],
+      "status": "approved",
+      "explanation": "“playing tug of war” có nghĩa là “chơi kéo co”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "girls",
+        "playing tug of war",
+        "visit grandparents",
+        "putting up a tent"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “hát các bài hát”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "singing songs"
+      ],
+      "status": "approved",
+      "explanation": "“singing songs” có nghĩa là “hát các bài hát”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "friends",
+        "singing songs",
+        "putting up a tent",
+        "taking a photo"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “kể chuyện”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "telling a story"
+      ],
+      "status": "approved",
+      "explanation": "“telling a story” có nghĩa là “kể chuyện”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "playing card games",
+        "girls",
+        "telling a story",
+        "putting up a tent"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “chụp ảnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "taking a photo"
+      ],
+      "status": "approved",
+      "explanation": "“taking a photo” có nghĩa là “chụp ảnh”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "singing songs",
+        "playing tug of war",
+        "telling a story",
+        "taking a photo"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “dựng lửa trại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "building a campfire"
+      ],
+      "status": "approved",
+      "explanation": "“building a campfire” có nghĩa là “dựng lửa trại”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "taking a photo",
+        "putting up a tent",
+        "dancing around the campfire",
+        "building a campfire"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “dựng lều”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "putting up a tent"
+      ],
+      "status": "approved",
+      "explanation": "“putting up a tent” có nghĩa là “dựng lều”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "putting up a tent",
+        "playing card games",
+        "dancing around the campfire",
+        "boys"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “bạn bè”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "friends"
+      ],
+      "status": "approved",
+      "explanation": "“friends” có nghĩa là “bạn bè”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "visit grandparents",
+        "building a campfire",
+        "boys",
+        "friends"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What’s Tom doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He’s taking a photo."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What’s Tom doing? — He’s taking a photo.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "They’re putting up a tent.",
+        "He’s taking a photo.",
+        "It is a pencil."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are the boys doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re playing tug of war."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are the boys doing? — They’re playing tug of war.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re playing tug of war.",
+        "Yes, she is.",
+        "He’s taking a photo.",
+        "I am from Japan."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are you doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I’m singing songs."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are you doing? — I’m singing songs.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I’m singing songs.",
+        "They’re putting up a tent.",
+        "He’s taking a photo.",
+        "Yes, she is."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are the girls doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re putting up a tent."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are the girls doing? — They’re putting up a tent.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "I’m singing songs.",
+        "No, I don’t.",
+        "They’re putting up a tent."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is Mai telling a story?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is Mai telling a story? — Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re putting up a tent.",
+        "Yes, she is.",
+        "They are my friends.",
+        "I’m singing songs."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What’s Tom doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He’s taking a photo."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What’s Tom doing? — He’s taking a photo.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "He’s taking a photo.",
+        "They are my friends.",
+        "At seven o’clock.",
+        "Yes, she is."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are the boys doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re playing tug of war."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are the boys doing? — They’re playing tug of war.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "I’m singing songs.",
+        "Yes, I can.",
+        "They’re playing tug of war."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are you doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I’m singing songs."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are you doing? — I’m singing songs.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "I am from Japan.",
+        "It is a pencil.",
+        "I’m singing songs.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: What are the girls doing?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re putting up a tent."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: What are the girls doing? — They’re putting up a tent.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "Yes, she is.",
+        "They’re putting up a tent.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is Mai telling a story?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is Mai telling a story? — Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "He’s taking a photo.",
+        "Yes, I can.",
+        "Yes, she is.",
+        "It is a pencil."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What’s Tom doing?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What’s Tom doing?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "Tom",
+        "?",
+        "doing",
+        "What’s"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What are the boys doing?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What are the boys doing?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "doing",
+        "?",
+        "What",
+        "the",
+        "boys",
+        "are"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What are you doing?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What are you doing?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "you",
+        "What",
+        "?",
+        "doing",
+        "are"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What are the girls doing?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: What are the girls doing?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "the",
+        "doing",
+        "What",
+        "are",
+        "girls",
+        "?"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Is Mai telling a story?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Is Mai telling a story?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "telling",
+        "story",
+        "a",
+        "Mai",
+        "?",
+        "Is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "He’s taking a photo."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: He’s taking a photo.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "taking",
+        ".",
+        "He’s",
+        "photo",
+        "a"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re playing tug of war."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They’re playing tug of war.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        "playing",
+        "tug",
+        "They’re",
+        "of",
+        "war"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I’m singing songs."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: I’m singing songs.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "singing",
+        ".",
+        "songs",
+        "I’m"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re putting up a tent."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They’re putting up a tent.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "up",
+        "a",
+        ".",
+        "putting",
+        "They’re",
+        "tent"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, she is."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, she is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        ".",
+        ",",
+        "she",
+        "Yes",
+        "is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q041",
+      "type": "true_false",
+      "prompt": "Tom is taking a photo.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q042",
+      "type": "true_false",
+      "prompt": "The boys are putting up a tent.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q043",
+      "type": "true_false",
+      "prompt": "The girls are putting up a tent.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q044",
+      "type": "true_false",
+      "prompt": "Mai is playing tug of war.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q045",
+      "type": "true_false",
+      "prompt": "The children sing songs around the campfire in the evening.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tom"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Tom”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "dancing around the campfire",
+        "Tom",
+        "playing card games",
+        "visit grandparents"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "taking a photo"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “taking a photo”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "dancing around the campfire",
+        "visit grandparents",
+        "taking a photo",
+        "playing card games"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "boys"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “boys”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "visit grandparents",
+        "boys",
+        "dancing around the campfire",
+        "playing card games"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "playing tug of war"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “playing tug of war”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "playing card games",
+        "playing tug of war",
+        "dancing around the campfire",
+        "visit grandparents"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U20-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Mai"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “Mai”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 20; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 20,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "visit grandparents",
+        "dancing around the campfire",
+        "playing card games",
+        "Mai"
+      ],
+      "passage": "At summer camp, Tom is taking a photo. The boys are playing tug of war. The girls are putting up a tent. Mai is telling a story. In the evening, the children are singing songs around the campfire.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U20-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U20-Q001",
+        "U20-Q002",
+        "U20-Q003",
+        "U20-Q004",
+        "U20-Q005",
+        "U20-Q006",
+        "U20-Q007",
+        "U20-Q008",
+        "U20-Q009",
+        "U20-Q010"
+      ]
+    },
+    {
+      "id": "U20-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U20-Q011",
+        "U20-Q012",
+        "U20-Q013",
+        "U20-Q014",
+        "U20-Q015",
+        "U20-Q016",
+        "U20-Q017",
+        "U20-Q018",
+        "U20-Q019",
+        "U20-Q020"
+      ]
+    },
+    {
+      "id": "U20-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U20-Q021",
+        "U20-Q022",
+        "U20-Q023",
+        "U20-Q024",
+        "U20-Q025",
+        "U20-Q026",
+        "U20-Q027",
+        "U20-Q028",
+        "U20-Q029",
+        "U20-Q030"
+      ]
+    },
+    {
+      "id": "U20-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U20-Q031",
+        "U20-Q032",
+        "U20-Q033",
+        "U20-Q034",
+        "U20-Q035",
+        "U20-Q036",
+        "U20-Q037",
+        "U20-Q038",
+        "U20-Q039",
+        "U20-Q040"
+      ]
+    },
+    {
+      "id": "U20-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U20-Q041",
+        "U20-Q042",
+        "U20-Q043",
+        "U20-Q044",
+        "U20-Q045",
+        "U20-Q046",
+        "U20-Q047",
+        "U20-Q048",
+        "U20-Q049",
+        "U20-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

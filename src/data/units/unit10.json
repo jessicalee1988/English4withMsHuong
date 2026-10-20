@@ -1,0 +1,1401 @@
+{
+  "unit_id": 10,
+  "unit_number": 10,
+  "title": "Unit 10: Our summer holidays",
+  "title_vi": "Kì nghỉ hè",
+  "semester": 1,
+  "grade": 4,
+  "description": "Our summer holidays",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 10, Vocabulary and Structures",
+  "vocabulary": [
+    {
+      "id": "U10-V01",
+      "word": "at the zoo",
+      "meaning": "ở sở thú",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V02",
+      "word": "on the beach",
+      "meaning": "trên bãi biển",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V03",
+      "word": "at the campsite",
+      "meaning": "ở khu cắm trại",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V04",
+      "word": "in the countryside",
+      "meaning": "ở nông thôn",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V05",
+      "word": "London",
+      "meaning": "Luân Đôn",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V06",
+      "word": "Sydney",
+      "meaning": "Sydney",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V07",
+      "word": "Tokyo",
+      "meaning": "Tokyo",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U10-V08",
+      "word": "Bangkok",
+      "meaning": "Bangkok",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U10-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "Were you at the zoo last weekend?",
+      "answer": "Yes, I was.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "Were you at the zoo last weekend?",
+        "Yes, I was."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Were you at the zoo last weekend?",
+          "speaker_a": "B",
+          "a": "Yes, I was."
+        }
+      ]
+    },
+    {
+      "id": "U10-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "Where were you last summer?",
+      "answer": "I was in London.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "Where were you last summer?",
+        "I was in London."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where were you last summer?",
+          "speaker_a": "B",
+          "a": "I was in London."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U10-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “ở sở thú”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at the zoo"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "at the campsite",
+        "in the countryside",
+        "at the zoo",
+        "on the beach"
+      ]
+    },
+    {
+      "id": "U10-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “trên bãi biển”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on the beach"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "on the beach",
+        "at the zoo",
+        "at the campsite",
+        "in the countryside"
+      ]
+    },
+    {
+      "id": "U10-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “ở khu cắm trại”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at the campsite"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "at the zoo",
+        "at the campsite",
+        "in the countryside",
+        "on the beach"
+      ]
+    },
+    {
+      "id": "U10-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “ở nông thôn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the countryside"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "in the countryside",
+        "on the beach",
+        "at the campsite",
+        "at the zoo"
+      ]
+    },
+    {
+      "id": "U10-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Luân Đôn”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "London"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "London",
+        "at the campsite",
+        "at the zoo",
+        "on the beach"
+      ]
+    },
+    {
+      "id": "U10-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Sydney”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Sydney"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Sydney",
+        "at the zoo",
+        "at the campsite",
+        "on the beach"
+      ]
+    },
+    {
+      "id": "U10-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Tokyo”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tokyo"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "at the zoo",
+        "Tokyo",
+        "at the campsite",
+        "on the beach"
+      ]
+    },
+    {
+      "id": "U10-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Bangkok”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Bangkok"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "at the campsite",
+        "at the zoo",
+        "Bangkok",
+        "on the beach"
+      ]
+    },
+    {
+      "id": "U10-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “at the zoo”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "ở sở thú"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "ở khu cắm trại",
+        "trên bãi biển",
+        "ở nông thôn",
+        "ở sở thú"
+      ]
+    },
+    {
+      "id": "U10-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “on the beach”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "trên bãi biển"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "ở nông thôn",
+        "trên bãi biển",
+        "ở khu cắm trại",
+        "ở sở thú"
+      ]
+    },
+    {
+      "id": "U10-Q011",
+      "type": "multiple_choice",
+      "prompt": "Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "Yes, I was.",
+        "I was in London.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U10-Q012",
+      "type": "multiple_choice",
+      "prompt": "Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "I am nine.",
+        "I was in London.",
+        "Yes, I was."
+      ]
+    },
+    {
+      "id": "U10-Q013",
+      "type": "multiple_choice",
+      "prompt": "Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes, I was.",
+        "I am nine.",
+        "Goodbye.",
+        "I was in London."
+      ]
+    },
+    {
+      "id": "U10-Q014",
+      "type": "multiple_choice",
+      "prompt": "Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I was in London.",
+        "Goodbye.",
+        "Yes, I was.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U10-Q015",
+      "type": "multiple_choice",
+      "prompt": "Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "I am nine.",
+        "Yes, I was.",
+        "I was in London."
+      ]
+    },
+    {
+      "id": "U10-Q016",
+      "type": "multiple_choice",
+      "prompt": "Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "I was in London.",
+        "I am nine.",
+        "Yes, I was."
+      ]
+    },
+    {
+      "id": "U10-Q017",
+      "type": "multiple_choice",
+      "prompt": "Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes, I was.",
+        "I was in London.",
+        "I am nine.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U10-Q018",
+      "type": "multiple_choice",
+      "prompt": "Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I was in London.",
+        "I am nine.",
+        "Goodbye.",
+        "Yes, I was."
+      ]
+    },
+    {
+      "id": "U10-Q019",
+      "type": "multiple_choice",
+      "prompt": "Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes, I was.",
+        "I was in London.",
+        "Goodbye.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U10-Q020",
+      "type": "multiple_choice",
+      "prompt": "Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes, I was.",
+        "I am nine.",
+        "I was in London.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U10-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes, I was.",
+        "I like apples.",
+        "I am fine, thank you.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U10-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "My name is Nam.",
+        "I was in London.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U10-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I like apples.",
+        "I am fine, thank you.",
+        "Yes, I was."
+      ]
+    },
+    {
+      "id": "U10-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I was in London.",
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U10-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "Yes, I was.",
+        "My name is Nam.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U10-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I like apples.",
+        "I was in London.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U10-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I like apples.",
+        "I am fine, thank you.",
+        "Yes, I was.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U10-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I like apples.",
+        "I was in London."
+      ]
+    },
+    {
+      "id": "U10-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Were you at the zoo last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "My name is Nam.",
+        "I like apples.",
+        "Yes, I was."
+      ]
+    },
+    {
+      "id": "U10-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Where were you last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I was in London.",
+        "My name is Nam.",
+        "I like apples.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U10-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Were you at the zoo last weekend?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "Were",
+        "weekend",
+        "last",
+        "at",
+        "you",
+        "zoo",
+        "?",
+        "the"
+      ]
+    },
+    {
+      "id": "U10-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "was",
+        ".",
+        ",",
+        "Yes",
+        "I"
+      ]
+    },
+    {
+      "id": "U10-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where were you last summer?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "were",
+        "last",
+        "?",
+        "Where",
+        "summer",
+        "you"
+      ]
+    },
+    {
+      "id": "U10-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "I",
+        ".",
+        "in",
+        "was",
+        "London"
+      ]
+    },
+    {
+      "id": "U10-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Were you at the zoo last weekend?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "zoo",
+        "last",
+        "?",
+        "the",
+        "you",
+        "at",
+        "weekend",
+        "Were"
+      ]
+    },
+    {
+      "id": "U10-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "was",
+        ".",
+        ",",
+        "Yes",
+        "I"
+      ]
+    },
+    {
+      "id": "U10-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where were you last summer?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "summer",
+        "?",
+        "were",
+        "Where",
+        "you",
+        "last"
+      ]
+    },
+    {
+      "id": "U10-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I was in London."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        ".",
+        "London",
+        "in",
+        "was",
+        "I"
+      ]
+    },
+    {
+      "id": "U10-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Were you at the zoo last weekend?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "weekend",
+        "zoo",
+        "last",
+        "at",
+        "the",
+        "you",
+        "?",
+        "Were"
+      ]
+    },
+    {
+      "id": "U10-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, I was."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "Yes",
+        ".",
+        "I",
+        "was",
+        ","
+      ]
+    },
+    {
+      "id": "U10-Q041",
+      "type": "multiple_choice",
+      "prompt": "Where was Mai last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "London"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "London",
+        "Bangkok",
+        "Sydney",
+        "Tokyo"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q042",
+      "type": "multiple_choice",
+      "prompt": "Where was Nam last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tokyo"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "London",
+        "Sydney",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q043",
+      "type": "multiple_choice",
+      "prompt": "Where was Linda last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "on the beach"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "at the campsite",
+        "in London",
+        "on the beach",
+        "at the zoo"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q044",
+      "type": "multiple_choice",
+      "prompt": "Where was Tony last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at the campsite"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "in Tokyo",
+        "on the beach",
+        "at the zoo",
+        "at the campsite"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q045",
+      "type": "multiple_choice",
+      "prompt": "Where was Mai last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "at the zoo"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "on the beach",
+        "at the campsite",
+        "in Tokyo",
+        "at the zoo"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q046",
+      "type": "multiple_choice",
+      "prompt": "Where was Nam last weekend?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "in the countryside"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "in the countryside",
+        "at the zoo",
+        "in London",
+        "on the beach"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q047",
+      "type": "multiple_choice",
+      "prompt": "Was Mai in London last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Only Saturday",
+        "Yes",
+        "Only Sunday",
+        "No"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q048",
+      "type": "multiple_choice",
+      "prompt": "Was Nam in Sydney last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes",
+        "Only Sunday",
+        "Only Saturday",
+        "No"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q049",
+      "type": "multiple_choice",
+      "prompt": "Was Tony at the campsite last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes",
+        "Only Saturday",
+        "No",
+        "Only Sunday"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    },
+    {
+      "id": "U10-Q050",
+      "type": "multiple_choice",
+      "prompt": "Was Linda at the zoo last summer?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "No"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 10",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 10
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Yes",
+        "No",
+        "Only Sunday",
+        "Only Saturday"
+      ],
+      "passage": "Last summer, Mai was in London with her family. Nam was in Tokyo. Linda was on the beach. Tony was at the campsite. Last weekend, Mai was at the zoo and Nam was in the countryside."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U10-W01",
+      "title": "Vocabulary Practice",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U10-Q001",
+        "U10-Q002",
+        "U10-Q003",
+        "U10-Q004",
+        "U10-Q005",
+        "U10-Q006",
+        "U10-Q007",
+        "U10-Q008",
+        "U10-Q009",
+        "U10-Q010"
+      ]
+    },
+    {
+      "id": "U10-W02",
+      "title": "Word Skills",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U10-Q011",
+        "U10-Q012",
+        "U10-Q013",
+        "U10-Q014",
+        "U10-Q015",
+        "U10-Q016",
+        "U10-Q017",
+        "U10-Q018",
+        "U10-Q019",
+        "U10-Q020"
+      ]
+    },
+    {
+      "id": "U10-W03",
+      "title": "Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U10-Q021",
+        "U10-Q022",
+        "U10-Q023",
+        "U10-Q024",
+        "U10-Q025",
+        "U10-Q026",
+        "U10-Q027",
+        "U10-Q028",
+        "U10-Q029",
+        "U10-Q030"
+      ]
+    },
+    {
+      "id": "U10-W04",
+      "title": "Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U10-Q031",
+        "U10-Q032",
+        "U10-Q033",
+        "U10-Q034",
+        "U10-Q035",
+        "U10-Q036",
+        "U10-Q037",
+        "U10-Q038",
+        "U10-Q039",
+        "U10-Q040"
+      ]
+    },
+    {
+      "id": "U10-W05",
+      "title": "Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U10-Q041",
+        "U10-Q042",
+        "U10-Q043",
+        "U10-Q044",
+        "U10-Q045",
+        "U10-Q046",
+        "U10-Q047",
+        "U10-Q048",
+        "U10-Q049",
+        "U10-Q050"
+      ]
+    }
+  ]
+}

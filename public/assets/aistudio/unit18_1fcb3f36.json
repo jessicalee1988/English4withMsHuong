@@ -1,0 +1,1627 @@
+{
+  "unit_id": 18,
+  "unit_number": 18,
+  "title": "Unit 18: At the shopping centre",
+  "title_vi": "Ở trung tâm mua sắm",
+  "semester": 2,
+  "grade": 4,
+  "description": "Ôn tập chủ đề At the shopping centre.",
+  "source": "Vocabulary topics from Global 4 Term 2; new practice authored for the app, not a transcription of textbook exercises.",
+  "vocabulary": [
+    {
+      "id": "U18-V001",
+      "word": "gift shop",
+      "meaning": "cửa hàng quà tặng",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V002",
+      "word": "pet shop",
+      "meaning": "cửa hàng thú cưng",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V003",
+      "word": "food shop",
+      "meaning": "cửa hàng thực phẩm",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V004",
+      "word": "sports shop",
+      "meaning": "cửa hàng thể thao",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V005",
+      "word": "clothes shop",
+      "meaning": "cửa hàng quần áo",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V006",
+      "word": "toy shop",
+      "meaning": "cửa hàng đồ chơi",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V007",
+      "word": "near",
+      "meaning": "gần",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V008",
+      "word": "far",
+      "meaning": "xa",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V009",
+      "word": "opposite",
+      "meaning": "đối diện",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V010",
+      "word": "next to",
+      "meaning": "bên cạnh",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V011",
+      "word": "behind",
+      "meaning": "phía sau",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U18-V012",
+      "word": "between",
+      "meaning": "ở giữa",
+      "ipa": "",
+      "part_of_speech": "",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U18-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "Where’s the gift shop?",
+      "answer": "It’s next to the toy shop.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where’s the gift shop?",
+        "It’s next to the toy shop."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where’s the gift shop?",
+          "speaker_a": "B",
+          "a": "It’s next to the toy shop."
+        }
+      ]
+    },
+    {
+      "id": "U18-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "How much is the shirt?",
+      "answer": "It’s fifty thousand dong.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "How much is the shirt?",
+        "It’s fifty thousand dong."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "How much is the shirt?",
+          "speaker_a": "B",
+          "a": "It’s fifty thousand dong."
+        }
+      ]
+    },
+    {
+      "id": "U18-P3",
+      "title": "Pattern 3",
+      "title_vi": "Mẫu câu 3",
+      "question": "How much are the skirts?",
+      "answer": "They’re eighty thousand dong.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "How much are the skirts?",
+        "They’re eighty thousand dong."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "How much are the skirts?",
+          "speaker_a": "B",
+          "a": "They’re eighty thousand dong."
+        }
+      ]
+    },
+    {
+      "id": "U18-P4",
+      "title": "Pattern 4",
+      "title_vi": "Mẫu câu 4",
+      "question": "Is the pet shop near here?",
+      "answer": "Yes, it is.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Is the pet shop near here?",
+        "Yes, it is."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Is the pet shop near here?",
+          "speaker_a": "B",
+          "a": "Yes, it is."
+        }
+      ]
+    },
+    {
+      "id": "U18-P5",
+      "title": "Pattern 5",
+      "title_vi": "Mẫu câu 5",
+      "question": "Where is the food shop?",
+      "answer": "It’s opposite the clothes shop.",
+      "explanation_vi": "Mẫu câu minh họa do trợ lý biên soạn; cần đối chiếu với SGK trước khi công bố.",
+      "highlights": [
+        "Where is the food shop?",
+        "It’s opposite the clothes shop."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Where is the food shop?",
+          "speaker_a": "B",
+          "a": "It’s opposite the clothes shop."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U18-Q001",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cửa hàng quà tặng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gift shop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "i",
+        "t",
+        "h",
+        "p",
+        "o",
+        "s",
+        "g",
+        "f"
+      ],
+      "hint": "cửa hàng quà tặng",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q002",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cửa hàng thú cưng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "pet shop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "t",
+        "p",
+        "o",
+        "h",
+        "s",
+        "p",
+        "e"
+      ],
+      "hint": "cửa hàng thú cưng",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q003",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cửa hàng thực phẩm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "food shop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "o",
+        "o",
+        "d",
+        "h",
+        "s",
+        "p",
+        "f"
+      ],
+      "hint": "cửa hàng thực phẩm",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q004",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cửa hàng thể thao”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sports shop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "s",
+        "o",
+        "s",
+        "r",
+        "p",
+        "o",
+        "p",
+        "s",
+        "h",
+        "t"
+      ],
+      "hint": "cửa hàng thể thao",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q005",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cửa hàng quần áo”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "clothes shop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "h",
+        "t",
+        "o",
+        "c",
+        "s",
+        "e",
+        "l",
+        "p",
+        "o",
+        "s",
+        "h"
+      ],
+      "hint": "cửa hàng quần áo",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q006",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “cửa hàng đồ chơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "toy shop"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "s",
+        "o",
+        "y",
+        "p",
+        "o",
+        "h",
+        "t"
+      ],
+      "hint": "cửa hàng đồ chơi",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q007",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “gần”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "near"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "n",
+        "r",
+        "a",
+        "e"
+      ],
+      "hint": "gần",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q008",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “xa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "far"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "r",
+        "f",
+        "a"
+      ],
+      "hint": "xa",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q009",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “đối diện”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "opposite"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "p",
+        "o",
+        "p",
+        "t",
+        "i",
+        "s",
+        "e",
+        "o"
+      ],
+      "hint": "đối diện",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q010",
+      "type": "word_unscrambling",
+      "prompt": "Unscramble the letters to make the word or phrase meaning “bên cạnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "next to"
+      ],
+      "status": "approved",
+      "explanation": "Đối chiếu từ vựng, cấu trúc hoặc thông tin trong đoạn văn.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "scrambled_letters": [
+        "o",
+        "t",
+        "t",
+        "x",
+        "n",
+        "e"
+      ],
+      "hint": "bên cạnh",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q011",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cửa hàng quà tặng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gift shop"
+      ],
+      "status": "approved",
+      "explanation": "“gift shop” có nghĩa là “cửa hàng quà tặng”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "between",
+        "gift shop",
+        "behind",
+        "far"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q012",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cửa hàng thú cưng”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "pet shop"
+      ],
+      "status": "approved",
+      "explanation": "“pet shop” có nghĩa là “cửa hàng thú cưng”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "between",
+        "pet shop",
+        "toy shop",
+        "clothes shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q013",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cửa hàng thực phẩm”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "food shop"
+      ],
+      "status": "approved",
+      "explanation": "“food shop” có nghĩa là “cửa hàng thực phẩm”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "near",
+        "behind",
+        "clothes shop",
+        "food shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q014",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cửa hàng thể thao”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "sports shop"
+      ],
+      "status": "approved",
+      "explanation": "“sports shop” có nghĩa là “cửa hàng thể thao”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "next to",
+        "sports shop",
+        "behind",
+        "clothes shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q015",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cửa hàng quần áo”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "clothes shop"
+      ],
+      "status": "approved",
+      "explanation": "“clothes shop” có nghĩa là “cửa hàng quần áo”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "next to",
+        "sports shop",
+        "behind",
+        "clothes shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q016",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “cửa hàng đồ chơi”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "toy shop"
+      ],
+      "status": "approved",
+      "explanation": "“toy shop” có nghĩa là “cửa hàng đồ chơi”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "near",
+        "far",
+        "clothes shop",
+        "toy shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q017",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “gần”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "near"
+      ],
+      "status": "approved",
+      "explanation": "“near” có nghĩa là “gần”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "near",
+        "sports shop",
+        "between",
+        "opposite"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q018",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “xa”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "far"
+      ],
+      "status": "approved",
+      "explanation": "“far” có nghĩa là “xa”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "far",
+        "clothes shop",
+        "sports shop",
+        "food shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q019",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “đối diện”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "opposite"
+      ],
+      "status": "approved",
+      "explanation": "“opposite” có nghĩa là “đối diện”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "next to",
+        "gift shop",
+        "opposite",
+        "behind"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q020",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “bên cạnh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "next to"
+      ],
+      "status": "approved",
+      "explanation": "“next to” có nghĩa là “bên cạnh”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "food shop",
+        "next to",
+        "far",
+        "toy shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where’s the gift shop?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s next to the toy shop."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where’s the gift shop? — It’s next to the toy shop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "Yes, I can.",
+        "It’s opposite the clothes shop.",
+        "It’s next to the toy shop."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How much is the shirt?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s fifty thousand dong."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How much is the shirt? — It’s fifty thousand dong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re eighty thousand dong.",
+        "No, I don’t.",
+        "I am from Japan.",
+        "It’s fifty thousand dong."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How much are the skirts?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re eighty thousand dong."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How much are the skirts? — They’re eighty thousand dong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "They’re eighty thousand dong.",
+        "No, I don’t.",
+        "Yes, it is.",
+        "At seven o’clock."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is the pet shop near here?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is the pet shop near here? — Yes, it is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "At seven o’clock.",
+        "It’s fifty thousand dong.",
+        "It’s opposite the clothes shop.",
+        "Yes, it is."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where is the food shop?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s opposite the clothes shop."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where is the food shop? — It’s opposite the clothes shop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It’s opposite the clothes shop.",
+        "It’s fifty thousand dong.",
+        "They’re eighty thousand dong.",
+        "No, I don’t."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where’s the gift shop?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s next to the toy shop."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where’s the gift shop? — It’s next to the toy shop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It’s opposite the clothes shop.",
+        "It is a pencil.",
+        "They are my friends.",
+        "It’s next to the toy shop."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How much is the shirt?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s fifty thousand dong."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How much is the shirt? — It’s fifty thousand dong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, it is.",
+        "Yes, I can.",
+        "It’s fifty thousand dong.",
+        "They’re eighty thousand dong."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: How much are the skirts?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re eighty thousand dong."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: How much are the skirts? — They’re eighty thousand dong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "It is a pencil.",
+        "It’s opposite the clothes shop.",
+        "They’re eighty thousand dong.",
+        "Yes, I can."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Is the pet shop near here?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it is."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Is the pet shop near here? — Yes, it is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, it is.",
+        "They are my friends.",
+        "I am from Japan.",
+        "It is a pencil."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the best response: Where is the food shop?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s opposite the clothes shop."
+      ],
+      "status": "approved",
+      "explanation": "Mẫu câu: Where is the food shop? — It’s opposite the clothes shop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "Yes, I can.",
+        "It’s next to the toy shop.",
+        "Yes, it is.",
+        "It’s opposite the clothes shop."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where’s the gift shop?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where’s the gift shop?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "gift",
+        "the",
+        "shop",
+        "?",
+        "Where’s"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "How much is the shirt?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: How much is the shirt?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "much",
+        "?",
+        "shirt",
+        "How",
+        "the",
+        "is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "How much are the skirts?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: How much are the skirts?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "are",
+        "skirts",
+        "?",
+        "the",
+        "How",
+        "much"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Is the pet shop near here?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Is the pet shop near here?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "near",
+        "here",
+        "pet",
+        "the",
+        "?",
+        "Is",
+        "shop"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Where is the food shop?"
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Where is the food shop?",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "Where",
+        "shop",
+        "?",
+        "the",
+        "is",
+        "food"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s next to the toy shop."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: It’s next to the toy shop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "toy",
+        "shop",
+        ".",
+        "to",
+        "It’s",
+        "the",
+        "next"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s fifty thousand dong."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: It’s fifty thousand dong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "fifty",
+        "dong",
+        "thousand",
+        ".",
+        "It’s"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "They’re eighty thousand dong."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: They’re eighty thousand dong.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "thousand",
+        "eighty",
+        "They’re",
+        "dong",
+        "."
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Yes, it is."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: Yes, it is.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "it",
+        "Yes",
+        ",",
+        ".",
+        "is"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s opposite the clothes shop."
+      ],
+      "status": "approved",
+      "explanation": "Thứ tự đúng: It’s opposite the clothes shop.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "words": [
+        "shop",
+        "clothes",
+        "It’s",
+        ".",
+        "the",
+        "opposite"
+      ],
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q041",
+      "type": "true_false",
+      "prompt": "The gift shop is next to the toy shop.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q042",
+      "type": "true_false",
+      "prompt": "The food shop is next to the clothes shop.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q043",
+      "type": "true_false",
+      "prompt": "Mai buys a shirt.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q044",
+      "type": "true_false",
+      "prompt": "Ben buys a book at the bookshop.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "False"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q045",
+      "type": "true_false",
+      "prompt": "The shirt costs fifty thousand dong.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "True"
+      ],
+      "status": "approved",
+      "explanation": "Dựa vào thông tin trong đoạn văn đi kèm để xác định True hoặc False.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "True",
+        "False"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q046",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 1)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "gift shop"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “gift shop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "near",
+        "gift shop",
+        "pet shop",
+        "sports shop"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q047",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 2)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "toy shop"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “toy shop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "near",
+        "sports shop",
+        "pet shop",
+        "toy shop"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q048",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 3)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "food shop"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “food shop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "near",
+        "food shop",
+        "sports shop",
+        "pet shop"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q049",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 4)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "clothes shop"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “clothes shop”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "pet shop",
+        "sports shop",
+        "clothes shop",
+        "near"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    },
+    {
+      "id": "U18-Q050",
+      "type": "multiple_choice",
+      "prompt": "Which of these words or phrases appears in the reading passage? (Item 5)",
+      "prompt_vi": "",
+      "correct_answers": [
+        "shirt"
+      ],
+      "status": "approved",
+      "explanation": "Đoạn đọc có nhắc đến “shirt”.",
+      "source": "Bài luyện tập mới dựa trên chủ điểm Unit 18; tham khảo Global 4 Term 2",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "unit": 18,
+        "original_pdf_wording_not_claimed": true
+      },
+      "review_level": "objective_answer_and_schema_checked_pending_textbook_and_app_review",
+      "options": [
+        "sports shop",
+        "shirt",
+        "pet shop",
+        "near"
+      ],
+      "passage": "At the shopping centre, the gift shop is next to the toy shop. The food shop is opposite the clothes shop. Mai buys a shirt for fifty thousand dong. Ben buys a toy at the toy shop. They are happy.",
+      "review_note_vi": "Đã kiểm tra tính khớp của đáp án và dữ liệu tương tác; chưa xác minh độc lập từng câu với SGK và chưa kiểm thử trên app."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U18-W01",
+      "title": "Worksheet 1: Vocabulary – Unscramble",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Sắp xếp chữ cái",
+      "question_ids": [
+        "U18-Q001",
+        "U18-Q002",
+        "U18-Q003",
+        "U18-Q004",
+        "U18-Q005",
+        "U18-Q006",
+        "U18-Q007",
+        "U18-Q008",
+        "U18-Q009",
+        "U18-Q010"
+      ]
+    },
+    {
+      "id": "U18-W02",
+      "title": "Worksheet 2: Vocabulary – Choose the word",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Chọn từ vựng",
+      "question_ids": [
+        "U18-Q011",
+        "U18-Q012",
+        "U18-Q013",
+        "U18-Q014",
+        "U18-Q015",
+        "U18-Q016",
+        "U18-Q017",
+        "U18-Q018",
+        "U18-Q019",
+        "U18-Q020"
+      ]
+    },
+    {
+      "id": "U18-W03",
+      "title": "Worksheet 3: Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Luyện mẫu câu",
+      "question_ids": [
+        "U18-Q021",
+        "U18-Q022",
+        "U18-Q023",
+        "U18-Q024",
+        "U18-Q025",
+        "U18-Q026",
+        "U18-Q027",
+        "U18-Q028",
+        "U18-Q029",
+        "U18-Q030"
+      ]
+    },
+    {
+      "id": "U18-W04",
+      "title": "Worksheet 4: Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Sắp xếp câu",
+      "question_ids": [
+        "U18-Q031",
+        "U18-Q032",
+        "U18-Q033",
+        "U18-Q034",
+        "U18-Q035",
+        "U18-Q036",
+        "U18-Q037",
+        "U18-Q038",
+        "U18-Q039",
+        "U18-Q040"
+      ]
+    },
+    {
+      "id": "U18-W05",
+      "title": "Worksheet 5: Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Đọc hiểu",
+      "question_ids": [
+        "U18-Q041",
+        "U18-Q042",
+        "U18-Q043",
+        "U18-Q044",
+        "U18-Q045",
+        "U18-Q046",
+        "U18-Q047",
+        "U18-Q048",
+        "U18-Q049",
+        "U18-Q050"
+      ]
+    }
+  ],
+  "quality_notice_vi": "Trạng thái approved phục vụ chấm thử câu hỏi khách quan. Chưa được chứng nhận đối chiếu toàn bộ SGK hoặc kiểm thử thực tế trên ứng dụng."
+}

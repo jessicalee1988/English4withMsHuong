@@ -1,0 +1,1373 @@
+{
+  "unit_id": 8,
+  "unit_number": 8,
+  "title": "Unit 8: My favorite subjects",
+  "title_vi": "Môn học yêu thích",
+  "semester": 1,
+  "grade": 4,
+  "description": "My favorite subjects",
+  "source": "BTBT 4 TẬP 1.pdf, Unit 8, Vocabulary and Structures",
+  "vocabulary": [
+    {
+      "id": "U08-V01",
+      "word": "I.T.",
+      "meaning": "Tin học",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U08-V02",
+      "word": "PE",
+      "meaning": "Giáo dục thể chất",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U08-V03",
+      "word": "painter",
+      "meaning": "họa sĩ",
+      "ipa": "",
+      "part_of_speech": "word",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U08-V04",
+      "word": "English teacher",
+      "meaning": "giáo viên Tiếng Anh",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    },
+    {
+      "id": "U08-V05",
+      "word": "Maths teacher",
+      "meaning": "giáo viên Toán",
+      "ipa": "",
+      "part_of_speech": "phrase",
+      "example": "",
+      "example_vi": ""
+    }
+  ],
+  "sentence_patterns": [
+    {
+      "id": "U08-P1",
+      "title": "Pattern 1",
+      "title_vi": "Mẫu câu 1",
+      "question": "What’s your favorite subject?",
+      "answer": "It’s English.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "What’s your favorite subject?",
+        "It’s English."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "What’s your favorite subject?",
+          "speaker_a": "B",
+          "a": "It’s English."
+        }
+      ]
+    },
+    {
+      "id": "U08-P2",
+      "title": "Pattern 2",
+      "title_vi": "Mẫu câu 2",
+      "question": "Why do you like English?",
+      "answer": "Because I want to be an English teacher.",
+      "explanation_vi": "Theo phần Structures của tài liệu nguồn.",
+      "highlights": [
+        "Why do you like English?",
+        "Because I want to be an English teacher."
+      ],
+      "examples": [
+        {
+          "speaker_q": "A",
+          "q": "Why do you like English?",
+          "speaker_a": "B",
+          "a": "Because I want to be an English teacher."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "U08-Q001",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Tin học”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "I.T."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I.T.",
+        "painter",
+        "English teacher",
+        "PE"
+      ]
+    },
+    {
+      "id": "U08-Q002",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “Giáo dục thể chất”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "PE"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "PE",
+        "English teacher",
+        "I.T.",
+        "painter"
+      ]
+    },
+    {
+      "id": "U08-Q003",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “họa sĩ”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "painter"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "English teacher",
+        "painter",
+        "I.T.",
+        "PE"
+      ]
+    },
+    {
+      "id": "U08-Q004",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “giáo viên Tiếng Anh”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "English teacher"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I.T.",
+        "painter",
+        "PE",
+        "English teacher"
+      ]
+    },
+    {
+      "id": "U08-Q005",
+      "type": "multiple_choice",
+      "prompt": "Choose the English word or phrase meaning “giáo viên Toán”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Maths teacher"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Maths teacher",
+        "I.T.",
+        "PE",
+        "painter"
+      ]
+    },
+    {
+      "id": "U08-Q006",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “I.T.”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tin học"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "họa sĩ",
+        "Tin học",
+        "giáo viên Tiếng Anh",
+        "Giáo dục thể chất"
+      ]
+    },
+    {
+      "id": "U08-Q007",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “PE”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Giáo dục thể chất"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tin học",
+        "Giáo dục thể chất",
+        "giáo viên Tiếng Anh",
+        "họa sĩ"
+      ]
+    },
+    {
+      "id": "U08-Q008",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “painter”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "họa sĩ"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tin học",
+        "họa sĩ",
+        "Giáo dục thể chất",
+        "giáo viên Tiếng Anh"
+      ]
+    },
+    {
+      "id": "U08-Q009",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “English teacher”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "giáo viên Tiếng Anh"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "họa sĩ",
+        "Tin học",
+        "Giáo dục thể chất",
+        "giáo viên Tiếng Anh"
+      ]
+    },
+    {
+      "id": "U08-Q010",
+      "type": "multiple_choice",
+      "prompt": "Choose the Vietnamese meaning of “Maths teacher”.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "giáo viên Toán"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tin học",
+        "họa sĩ",
+        "Giáo dục thể chất",
+        "giáo viên Toán"
+      ]
+    },
+    {
+      "id": "U08-Q011",
+      "type": "multiple_choice",
+      "prompt": "What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "Because I want to be an English teacher.",
+        "It’s English.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U08-Q012",
+      "type": "multiple_choice",
+      "prompt": "Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "Because I want to be an English teacher.",
+        "I am nine.",
+        "It’s English."
+      ]
+    },
+    {
+      "id": "U08-Q013",
+      "type": "multiple_choice",
+      "prompt": "What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "It’s English.",
+        "Goodbye.",
+        "Because I want to be an English teacher."
+      ]
+    },
+    {
+      "id": "U08-Q014",
+      "type": "multiple_choice",
+      "prompt": "Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s English.",
+        "I am nine.",
+        "Because I want to be an English teacher.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U08-Q015",
+      "type": "multiple_choice",
+      "prompt": "What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Because I want to be an English teacher.",
+        "I am nine.",
+        "It’s English.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U08-Q016",
+      "type": "multiple_choice",
+      "prompt": "Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s English.",
+        "Goodbye.",
+        "I am nine.",
+        "Because I want to be an English teacher."
+      ]
+    },
+    {
+      "id": "U08-Q017",
+      "type": "multiple_choice",
+      "prompt": "What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "Goodbye.",
+        "Because I want to be an English teacher.",
+        "It’s English."
+      ]
+    },
+    {
+      "id": "U08-Q018",
+      "type": "multiple_choice",
+      "prompt": "Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s English.",
+        "Goodbye.",
+        "Because I want to be an English teacher.",
+        "I am nine."
+      ]
+    },
+    {
+      "id": "U08-Q019",
+      "type": "multiple_choice",
+      "prompt": "What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am nine.",
+        "Because I want to be an English teacher.",
+        "It’s English.",
+        "Goodbye."
+      ]
+    },
+    {
+      "id": "U08-Q020",
+      "type": "multiple_choice",
+      "prompt": "Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Goodbye.",
+        "It’s English.",
+        "I am nine.",
+        "Because I want to be an English teacher."
+      ]
+    },
+    {
+      "id": "U08-Q021",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s English.",
+        "My name is Nam.",
+        "I like apples.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U08-Q022",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Because I want to be an English teacher.",
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I like apples."
+      ]
+    },
+    {
+      "id": "U08-Q023",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "It’s English.",
+        "My name is Nam.",
+        "I like apples.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U08-Q024",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "Because I want to be an English teacher.",
+        "I like apples.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U08-Q025",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I like apples.",
+        "It’s English.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U08-Q026",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "Because I want to be an English teacher.",
+        "I like apples.",
+        "My name is Nam."
+      ]
+    },
+    {
+      "id": "U08-Q027",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I like apples.",
+        "It’s English."
+      ]
+    },
+    {
+      "id": "U08-Q028",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "My name is Nam.",
+        "I am fine, thank you.",
+        "I like apples.",
+        "Because I want to be an English teacher."
+      ]
+    },
+    {
+      "id": "U08-Q029",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: What’s your favorite subject?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I like apples.",
+        "It’s English.",
+        "My name is Nam.",
+        "I am fine, thank you."
+      ]
+    },
+    {
+      "id": "U08-Q030",
+      "type": "multiple_choice",
+      "prompt": "Choose the suitable response: Why do you like English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "I am fine, thank you.",
+        "My name is Nam.",
+        "I like apples.",
+        "Because I want to be an English teacher."
+      ]
+    },
+    {
+      "id": "U08-Q031",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What’s your favorite subject?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "What",
+        "subject",
+        "s",
+        "favorite",
+        "your",
+        "?"
+      ]
+    },
+    {
+      "id": "U08-Q032",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "s",
+        "It",
+        ".",
+        "English"
+      ]
+    },
+    {
+      "id": "U08-Q033",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Why do you like English?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "?",
+        "English",
+        "Why",
+        "you",
+        "do",
+        "like"
+      ]
+    },
+    {
+      "id": "U08-Q034",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "be",
+        "Because",
+        "teacher",
+        ".",
+        "to",
+        "English",
+        "want",
+        "I",
+        "an"
+      ]
+    },
+    {
+      "id": "U08-Q035",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What’s your favorite subject?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "s",
+        "subject",
+        "favorite",
+        "What",
+        "?",
+        "your"
+      ]
+    },
+    {
+      "id": "U08-Q036",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "s",
+        "English",
+        "It",
+        "."
+      ]
+    },
+    {
+      "id": "U08-Q037",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Why do you like English?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "English",
+        "?",
+        "do",
+        "you",
+        "Why",
+        "like"
+      ]
+    },
+    {
+      "id": "U08-Q038",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Because I want to be an English teacher."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "an",
+        "be",
+        "English",
+        "want",
+        "teacher",
+        "Because",
+        ".",
+        "to",
+        "I"
+      ]
+    },
+    {
+      "id": "U08-Q039",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "What’s your favorite subject?"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "What",
+        "favorite",
+        "subject",
+        "s",
+        "your",
+        "?"
+      ]
+    },
+    {
+      "id": "U08-Q040",
+      "type": "sentence_reordering",
+      "prompt": "Reorder the words to make a correct sentence.",
+      "prompt_vi": "",
+      "correct_answers": [
+        "It’s English."
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "words": [
+        "It",
+        ".",
+        "s",
+        "English"
+      ]
+    },
+    {
+      "id": "U08-Q041",
+      "type": "multiple_choice",
+      "prompt": "What subject does Mai like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "English"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "art",
+        "Maths",
+        "PE",
+        "English"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q042",
+      "type": "multiple_choice",
+      "prompt": "What does Mai want to be?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "an English teacher"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "a doctor",
+        "a Maths teacher",
+        "a painter",
+        "an English teacher"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q043",
+      "type": "multiple_choice",
+      "prompt": "What subject does Nam like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Maths"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "art",
+        "English",
+        "Maths",
+        "PE"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q044",
+      "type": "multiple_choice",
+      "prompt": "What does Nam want to be?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "a Maths teacher"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "a Maths teacher",
+        "a painter",
+        "a doctor",
+        "an English teacher"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q045",
+      "type": "multiple_choice",
+      "prompt": "What subject does Linh like?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "art"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "art",
+        "PE",
+        "English",
+        "Maths"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q046",
+      "type": "multiple_choice",
+      "prompt": "What does Linh want to be?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "a painter"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "an English teacher",
+        "a painter",
+        "a doctor",
+        "a Maths teacher"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q047",
+      "type": "multiple_choice",
+      "prompt": "When do they have English?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Monday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Monday",
+        "Wednesday"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q048",
+      "type": "multiple_choice",
+      "prompt": "When do they have Maths?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Tuesday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Monday",
+        "Friday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q049",
+      "type": "multiple_choice",
+      "prompt": "When do they have art?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Wednesday"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Tuesday"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    },
+    {
+      "id": "U08-Q050",
+      "type": "multiple_choice",
+      "prompt": "Who likes art?",
+      "prompt_vi": "",
+      "correct_answers": [
+        "Linh"
+      ],
+      "status": "approved",
+      "explanation": "Đáp án xác định từ nội dung câu hỏi, từ vựng hoặc đoạn đọc đi kèm.",
+      "source": "New practice authored from vocabulary and structures in BTBT 4 TẬP 1.pdf, Unit 8",
+      "source_detail": {
+        "derivation": "new_teacher_authored",
+        "source_unit": 8
+      },
+      "review_level": "structural_and_answer_consistency_checked_pending_app_test",
+      "options": [
+        "Linh",
+        "Mai",
+        "Nam",
+        "their teacher"
+      ],
+      "passage": "Mai likes English because she wants to be an English teacher. Nam likes Maths because he wants to be a Maths teacher. Linh likes art because she wants to be a painter. They have English on Monday, Maths on Tuesday and art on Wednesday."
+    }
+  ],
+  "worksheets": [
+    {
+      "id": "U08-W01",
+      "title": "Vocabulary Practice",
+      "title_vi": "Phiếu bài tập 1",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U08-Q001",
+        "U08-Q002",
+        "U08-Q003",
+        "U08-Q004",
+        "U08-Q005",
+        "U08-Q006",
+        "U08-Q007",
+        "U08-Q008",
+        "U08-Q009",
+        "U08-Q010"
+      ]
+    },
+    {
+      "id": "U08-W02",
+      "title": "Word Skills",
+      "title_vi": "Phiếu bài tập 2",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U08-Q011",
+        "U08-Q012",
+        "U08-Q013",
+        "U08-Q014",
+        "U08-Q015",
+        "U08-Q016",
+        "U08-Q017",
+        "U08-Q018",
+        "U08-Q019",
+        "U08-Q020"
+      ]
+    },
+    {
+      "id": "U08-W03",
+      "title": "Sentence Patterns",
+      "title_vi": "Phiếu bài tập 3",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U08-Q021",
+        "U08-Q022",
+        "U08-Q023",
+        "U08-Q024",
+        "U08-Q025",
+        "U08-Q026",
+        "U08-Q027",
+        "U08-Q028",
+        "U08-Q029",
+        "U08-Q030"
+      ]
+    },
+    {
+      "id": "U08-W04",
+      "title": "Sentence Building",
+      "title_vi": "Phiếu bài tập 4",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U08-Q031",
+        "U08-Q032",
+        "U08-Q033",
+        "U08-Q034",
+        "U08-Q035",
+        "U08-Q036",
+        "U08-Q037",
+        "U08-Q038",
+        "U08-Q039",
+        "U08-Q040"
+      ]
+    },
+    {
+      "id": "U08-W05",
+      "title": "Reading Comprehension",
+      "title_vi": "Phiếu bài tập 5",
+      "description": "Listening excluded. Newly authored questions aligned to the source unit.",
+      "question_ids": [
+        "U08-Q041",
+        "U08-Q042",
+        "U08-Q043",
+        "U08-Q044",
+        "U08-Q045",
+        "U08-Q046",
+        "U08-Q047",
+        "U08-Q048",
+        "U08-Q049",
+        "U08-Q050"
+      ]
+    }
+  ]
+}
