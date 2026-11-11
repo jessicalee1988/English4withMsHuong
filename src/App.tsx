@@ -15,12 +15,11 @@ import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 import { HomePage } from './components/HomePage';
 import { UnitLearningPage } from './components/UnitLearningPage';
-import { TeacherProfilePage } from './components/TeacherProfilePage';
 import { ImportModal } from './components/ImportModal';
 import { AlertTriangle, FileCode, Loader2, RefreshCw } from 'lucide-react';
 
 export default function App() {
-  const [currentView, setCurrentView] = useState<'home' | 'unit' | 'teacher'>('home');
+  const [currentView, setCurrentView] = useState<'home' | 'unit'>('home');
   const [currentUnitId, setCurrentUnitId] = useState<number>(1);
   const [registry, setRegistry] = useState<UnitRegistry>({});
   const [isLoading, setIsLoading] = useState<boolean>(true);
@@ -68,12 +67,6 @@ export default function App() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const handleGoTeacher = () => {
-    setCurrentView('teacher');
-    setLoadError(null);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
   const handleSaveUnit = async (newUnit: UnitData) => {
     const updated = await saveUnitToRegistry(newUnit, registry);
     setRegistry(updated);
@@ -107,13 +100,12 @@ export default function App() {
   const currentUnitData = registry[currentUnitId] || null;
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50/70 text-slate-900 font-sans antialiased selection:bg-sky-200 selection:text-sky-900">
+    <div className="min-h-screen flex flex-col bg-gradient-to-b from-sky-50 via-rose-50/40 to-amber-50 text-slate-900 font-sans antialiased selection:bg-sky-200 selection:text-sky-900">
       {/* Header */}
       <Header
         currentView={currentView}
         currentUnitId={currentUnitId}
         onGoHome={handleGoHome}
-        onGoTeacher={handleGoTeacher}
       />
 
       {/* Main Content Area */}
@@ -122,7 +114,7 @@ export default function App() {
           <div className="min-h-[50vh] flex flex-col items-center justify-center space-y-4">
             <Loader2 className="w-10 h-10 text-sky-500 animate-spin" />
             <p className="text-slate-600 font-bold text-sm">
-              Đang tải dữ liệu bài học của cô Hường...
+              Đang chuẩn bị bài học vui nhộn...
             </p>
           </div>
         ) : loadError ? (
@@ -168,7 +160,6 @@ export default function App() {
               <HomePage
                 registry={registry}
                 onSelectUnit={handleSelectUnit}
-                onGoTeacher={handleGoTeacher}
               />
             )}
 
@@ -179,18 +170,12 @@ export default function App() {
               />
             )}
 
-            {currentView === 'teacher' && (
-              <TeacherProfilePage
-                onBackToHome={handleGoHome}
-                onStartLearning={() => handleSelectUnit(1)}
-              />
-            )}
           </>
         )}
       </main>
 
       {/* Footer */}
-      <Footer onGoTeacher={handleGoTeacher} />
+      <Footer />
 
       {/* Import & Multi-Unit Data Management Modal */}
       <ImportModal
