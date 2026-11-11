@@ -23,14 +23,12 @@ import {
 interface Props {
   registry: UnitRegistry;
   onSelectUnit: (unitId: number) => void;
-  onGoTeacher?: () => void;
   onOpenImportModal?: () => void;
 }
 
 export const HomePage: React.FC<Props> = ({
   registry,
   onSelectUnit,
-  onGoTeacher,
 }) => {
   const [selectedSemester, setSelectedSemester] = useState<1 | 2>(1);
   const [noticeModalUnit, setNoticeModalUnit] = useState<UnitMeta | null>(null);
@@ -55,7 +53,7 @@ export const HomePage: React.FC<Props> = ({
   return (
     <div className="space-y-6 sm:space-y-8">
       {/* Hero Welcome Banner */}
-      <div className="relative overflow-hidden bg-gradient-to-br from-sky-500 via-sky-600 to-teal-500 rounded-3xl p-6 sm:p-10 text-white shadow-lg">
+      <div className="relative overflow-hidden bg-gradient-to-br from-sky-400 via-violet-400 to-pink-400 rounded-3xl p-6 sm:p-10 text-white shadow-lg">
         {/* Decorative background shapes */}
         <div className="absolute -right-10 -bottom-10 w-60 h-60 bg-white/10 rounded-full blur-2xl pointer-events-none" />
         <div className="absolute right-1/4 -top-10 w-40 h-40 bg-amber-400/20 rounded-full blur-xl pointer-events-none" />
@@ -63,14 +61,14 @@ export const HomePage: React.FC<Props> = ({
         <div className="relative z-10 max-w-2xl space-y-3.5">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/20 backdrop-blur-md text-amber-200 text-xs sm:text-sm font-bold border border-white/20">
             <Sparkles className="w-4 h-4 text-amber-300" />
-            <span>Welcome 4th Graders! • Chào mừng các em học sinh lớp 4!</span>
+            <span>Hello, little stars! 🌟</span>
           </div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight">
-            English 4 with Ms Huong
+            English 4 · Fun Learning
           </h1>
           <p className="text-sky-100 text-sm sm:text-base md:text-lg font-medium leading-relaxed">
-            Học tiếng Anh chuẩn chương trình <strong>Global Success 4</strong> cùng cô Hường. Khám phá từ vựng sinh động, ghi nhớ mẫu câu trọng tâm và thử sức với các bài tập thực hành thú vị!
+            <strong>Global Success 4</strong> · Learn, play & shine! 🌟
           </p>
 
           <div className="pt-2 flex flex-wrap items-center gap-3">
@@ -79,26 +77,14 @@ export const HomePage: React.FC<Props> = ({
               onClick={() => onSelectUnit(1)}
               className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-2xl bg-amber-400 hover:bg-amber-300 active:bg-amber-500 text-slate-900 font-extrabold text-sm sm:text-base shadow-md transition-all hover:scale-105 cursor-pointer touch-manipulation"
             >
-              <span>Start Unit 1: My friends</span>
+              <span>🚀 Let's play!</span>
               <ArrowRight className="w-5 h-5" />
             </button>
 
-            {onGoTeacher && (
-              <button
-                type="button"
-                onClick={onGoTeacher}
-                className="inline-flex items-center gap-2 px-4 py-3 rounded-2xl bg-white/15 hover:bg-white/25 active:bg-white/30 text-white font-bold text-xs sm:text-sm border border-white/25 transition-all cursor-pointer backdrop-blur-xs touch-manipulation hover:scale-102"
-                title="Meet Ms Huong – Giới thiệu cô Hường"
-              >
-                <span>👩‍🏫</span>
-                <span>Meet Ms Huong</span>
-                <ArrowRight className="w-4 h-4 text-amber-300" />
-              </button>
-            )}
 
             <div className="inline-flex items-center gap-2 text-xs sm:text-sm text-sky-100 bg-white/10 px-3.5 py-2.5 rounded-xl border border-white/10">
               <Star className="w-4 h-4 text-amber-300 fill-amber-300" />
-              <span>No login required • Không cần đăng nhập</span>
+              <span>✨ Free · No login</span>
             </div>
           </div>
         </div>
@@ -108,9 +94,9 @@ export const HomePage: React.FC<Props> = ({
       <div className="space-y-4">
         <div className="flex items-center justify-between flex-wrap gap-3">
           <div>
-            <h2 className="text-2xl font-black text-slate-900">Curriculum Units (Danh sách bài học)</h2>
+            <h2 className="text-2xl font-black text-slate-900">🎈 Choose a Unit!</h2>
             <p className="text-sm text-slate-500">
-              Chương trình Tiếng Anh 4 Global Success gồm 20 bài học chia làm 2 học kỳ ({activeCount} bài học đã sẵn sàng).
+              20 fun units · {activeCount} ready to play!
             </p>
           </div>
 
@@ -126,7 +112,7 @@ export const HomePage: React.FC<Props> = ({
               }`}
             >
               <Calendar className="w-4 h-4 shrink-0" />
-              <span>Học kỳ 1 (Unit 1–10)</span>
+              <span>🌸 Term 1</span>
             </button>
 
             <button
@@ -139,13 +125,13 @@ export const HomePage: React.FC<Props> = ({
               }`}
             >
               <Calendar className="w-4 h-4 shrink-0" />
-              <span>Học kỳ 2 (Unit 11–20)</span>
+              <span>🌻 Term 2</span>
             </button>
           </div>
         </div>
 
         {/* Units Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-5">
           {currentUnits.map((metaUnit) => {
             const loadedUnit = registry[metaUnit.id];
             const isAvailable = Boolean(loadedUnit);
@@ -160,18 +146,18 @@ export const HomePage: React.FC<Props> = ({
               <div
                 key={metaUnit.id}
                 onClick={() => handleUnitClick(metaUnit, isAvailable)}
-                className={`group relative rounded-3xl border-2 p-6 transition-all select-none ${
+                className={`group relative rounded-[2rem] border-2 p-4 sm:p-6 transition-all select-none ${
                   isAvailable
-                    ? 'border-sky-300 bg-white hover:border-sky-500 hover:shadow-xl hover:-translate-y-1 cursor-pointer'
+                    ? 'border-sky-200 bg-white hover:border-rose-300 hover:shadow-xl hover:-translate-y-2 cursor-pointer'
                     : 'border-slate-200/80 bg-slate-50/70 hover:bg-slate-100/60 opacity-90 cursor-pointer'
                 }`}
               >
                 {/* Header tag */}
                 <div className="flex items-center justify-between mb-4">
                   <span
-                    className={`w-9 h-9 rounded-xl font-black text-sm flex items-center justify-center shrink-0 ${
+                    className={`w-12 h-12 rounded-2xl font-black text-base flex items-center justify-center shrink-0 ${
                       isAvailable
-                        ? 'bg-sky-500 text-white shadow-xs'
+                        ? 'bg-gradient-to-br from-sky-400 to-violet-400 text-white shadow-md'
                         : 'bg-slate-200 text-slate-500'
                     }`}
                   >
@@ -181,12 +167,12 @@ export const HomePage: React.FC<Props> = ({
                   {isAvailable ? (
                     <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 text-xs font-bold border border-emerald-300">
                       <CheckCircle className="w-3.5 h-3.5 text-emerald-600" />
-                      <span>Available • Học ngay</span>
+                      <span>⭐ Play</span>
                     </span>
                   ) : (
                     <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-200/80 text-slate-600 text-xs font-bold border border-slate-300">
                       <Clock className="w-3.5 h-3.5 text-slate-500" />
-                      <span>Coming soon • Sắp ra mắt</span>
+                      <span>🔒 Soon</span>
                     </span>
                   )}
                 </div>
@@ -194,7 +180,7 @@ export const HomePage: React.FC<Props> = ({
                 {/* Title & Topic */}
                 <div className="space-y-1.5 min-h-20">
                   <h3
-                    className={`text-xl font-extrabold ${
+                    className={`text-lg sm:text-xl font-extrabold ${
                       isAvailable
                         ? 'text-slate-900 group-hover:text-sky-600 transition-colors'
                         : 'text-slate-700'
@@ -203,7 +189,7 @@ export const HomePage: React.FC<Props> = ({
                     {displayTitle}
                   </h3>
                   <p className="text-sm font-semibold text-slate-500">{displayTitleVi}</p>
-                  <p className="text-xs text-slate-400 italic pt-1">{metaUnit.topic}</p>
+                  <div className="text-5xl sm:text-6xl text-center py-3 group-hover:scale-110 transition-transform" aria-hidden="true">{['🐻','🦊','🐰','🐼','🦁','🐸','🐱','🦄','🐨','🐯'][((metaUnit.id - 1) % 10)]}</div>
                 </div>
 
                 {/* Footer Action */}
@@ -211,10 +197,10 @@ export const HomePage: React.FC<Props> = ({
                   {isAvailable ? (
                     <>
                       <span className="text-xs font-bold text-sky-600">
-                        {vocabCount} Vocab • {patternCount} Patterns • {worksheetCount} WS
+                        📚 🎯 ✏️
                       </span>
                       <span className="flex items-center gap-1 text-xs font-extrabold text-sky-600 group-hover:translate-x-1 transition-transform">
-                        <span>Learn now</span>
+                        <span>Go!</span>
                         <ArrowRight className="w-3.5 h-3.5" />
                       </span>
                     </>
@@ -252,10 +238,10 @@ export const HomePage: React.FC<Props> = ({
                 {noticeModalUnit.title}
               </h3>
               <p className="text-sm text-slate-600 leading-relaxed">
-                Bài học này chưa có dữ liệu bài giảng trong hệ thống. Bạn có thể tự nạp tệp JSON cho bài này để học ngay!
+                This unit is getting ready! Come back soon.
               </p>
               <p className="text-xs text-sky-700 font-semibold bg-sky-50 p-3 rounded-xl border border-sky-100">
-                👉 Hoặc bạn có thể học trước <strong>Unit 1: My friends</strong> với đầy đủ từ vựng và bài tập thực hành nhé!
+                🌟 Try another unit while you wait!
               </p>
             </div>
 
@@ -275,7 +261,7 @@ export const HomePage: React.FC<Props> = ({
                 }}
                 className="w-full sm:flex-1 py-2.5 rounded-xl bg-sky-500 hover:bg-sky-600 text-white font-bold transition-colors shadow-sm text-sm cursor-pointer"
               >
-                Học Unit 1 🚀
+                🚀 Play Unit 1
               </button>
             </div>
           </div>
